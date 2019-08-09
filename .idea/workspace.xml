@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3e2b8870-dfde-4e7d-996a-395776690097" name="Default Changelist" comment="" />
+    <list default="true" id="3e2b8870-dfde-4e7d-996a-395776690097" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/August9th/Collections/AddingGroups.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/August9th/Collections/PrintingContainers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/August9th/Executer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/August9th/NameChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/August9th/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,7 +35,17 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/August9th/Collections/PrintingContainers.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="648">
+              <caret line="27" column="65" selection-start-line="27" selection-start-column="65" selection-end-line="27" selection-end-column="65" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -37,14 +55,12 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/August7th/part1/part2_factoryMethod/Implementation1.java" />
-        <option value="$PROJECT_DIR$/src/August7th/part1/part2_factoryMethod/Implementation1Factory.java" />
-        <option value="$PROJECT_DIR$/src/August7th/part1/part2_factoryMethod/Implementation2.java" />
-        <option value="$PROJECT_DIR$/src/August7th/part1/part2_factoryMethod/Implementation2Factory.java" />
-        <option value="$PROJECT_DIR$/src/August7th/part1/part2_factoryMethod/Factories.java" />
         <option value="$PROJECT_DIR$/src/August7th/part1/part3_factory_game/Game.java" />
         <option value="$PROJECT_DIR$/src/August7th/part1/part3_factory_game/GameFactory.java" />
         <option value="$PROJECT_DIR$/src/August7th/part1/part3_factory_game/Checkers.java" />
@@ -91,6 +107,11 @@
         <option value="$PROJECT_DIR$/src/August8th/part4_controller/Controller.java" />
         <option value="$PROJECT_DIR$/src/August8th/part4_controller/GreenHouseController.java" />
         <option value="$PROJECT_DIR$/src/August8th/part4_controller/TestController.java" />
+        <option value="$PROJECT_DIR$/src/August9th/NameChecker.java" />
+        <option value="$PROJECT_DIR$/src/August9th/Executer.java" />
+        <option value="$PROJECT_DIR$/src/August9th/Person.java" />
+        <option value="$PROJECT_DIR$/src/August9th/Collections/AddingGroups.java" />
+        <option value="$PROJECT_DIR$/src/August9th/Collections/PrintingContainers.java" />
       </list>
     </option>
   </component>
@@ -98,6 +119,9 @@
     <option name="x" value="-179" />
     <option name="width" value="1400" />
     <option name="height" value="1000" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -125,11 +149,25 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="LombokPluginEnabledInProject" value="true" />
+    <property name="LombokPluginIS_ANNOTATION_PROCESSING_CHECK_Enabled" value="true" />
+    <property name="LombokPluginIS_BUILDER_Enabled" value="true" />
+    <property name="LombokPluginIS_CONSTRUCTOR_Enabled" value="true" />
+    <property name="LombokPluginIS_DELEGATE_Enabled" value="true" />
+    <property name="LombokPluginIS_LOG_Enabled" value="true" />
+    <property name="LombokPluginIS_LOMBOK_VERSION_CHECK_Enabled" value="true" />
+    <property name="LombokPluginIS_MISSING_LOMBOK_CHECK_Enabled" value="true" />
+    <property name="LombokPluginIS_VAL_Enabled" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/August8th" />
+    <property name="settings.editor.selected.configurable" value="Lombok plugin" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="August9th" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\practie\src\August8th" />
     </key>
@@ -146,7 +184,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestController">
+  <component name="RunManager" selected="Application.PrintingContainers">
     <configuration name="Callbacks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="August8th.part3_closure.Callbacks" />
       <module name="practie" />
@@ -160,12 +198,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ClassInInterface$Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="August8th.part2_nested.ClassInInterface$Test" />
+    <configuration name="Person" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="August9th.Person" />
       <module name="practie" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="August8th.part2_nested.*" />
+          <option name="PATTERN" value="August9th.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -173,12 +211,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Parcel11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="August8th.part2_nested.Parcel11" />
+    <configuration name="PrintingContainers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="August9th.Collections.PrintingContainers" />
       <module name="practie" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="August8th.part2_nested.*" />
+          <option name="PATTERN" value="August9th.Collections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -213,19 +251,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Parcel11" />
-      <item itemvalue="Application.ClassInInterface$Test" />
       <item itemvalue="Application.practice20Imp" />
       <item itemvalue="Application.Callbacks" />
       <item itemvalue="Application.TestController" />
+      <item itemvalue="Application.Person" />
+      <item itemvalue="Application.PrintingContainers" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PrintingContainers" />
+        <item itemvalue="Application.Person" />
         <item itemvalue="Application.TestController" />
         <item itemvalue="Application.Callbacks" />
         <item itemvalue="Application.practice20Imp" />
-        <item itemvalue="Application.ClassInInterface$Test" />
-        <item itemvalue="Application.Parcel11" />
       </list>
     </recent_temporary>
   </component>
@@ -242,12 +280,12 @@
       <workItem from="1564377915005" duration="13533000" />
       <workItem from="1565073549624" duration="6553000" />
       <workItem from="1565143234827" duration="35375000" />
-      <workItem from="1565315801730" duration="615000" />
+      <workItem from="1565315801730" duration="12226000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="56076000" />
+    <option name="totallyTimeSpent" value="67687000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -261,7 +299,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32925472" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32850778" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39933258" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -271,7 +309,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.32925472" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32850778" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -318,49 +356,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/August7th/part1/part2_factoryMethod/Implementation2Factory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="5" column="5" lean-forward="true" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
-          <folding>
-            <element signature="e#140#141#0" expanded="true" />
-            <element signature="e#183#184#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/August7th/part1/part2_factoryMethod/Implementation1Factory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="4" column="37" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
-          <folding>
-            <element signature="e#140#141#0" expanded="true" />
-            <element signature="e#183#184#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/August7th/part1/part2_factoryMethod/Factories.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="10" column="52" selection-start-line="10" selection-start-column="52" selection-end-line="10" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/August7th/part1/part3_factory_game/Game.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/August7th/part1/part3_factory_game/GameFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/August7th/part1/part3_factory_game/Checkers.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
@@ -893,6 +888,54 @@
           <folding>
             <element signature="e#456#457#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/August9th/Executer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/August9th/Collections/AddingGroups.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="18" column="84" selection-start-line="18" selection-start-column="84" selection-end-line="18" selection-end-column="84" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#216#225#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/August9th/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-887">
+          <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#155#156#0" expanded="true" />
+            <element signature="e#186#187#0" expanded="true" />
+            <element signature="e#221#222#0" expanded="true" />
+            <element signature="e#252#253#0" expanded="true" />
+            <element signature="e#279#280#0" expanded="true" />
+            <element signature="e#305#306#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/August9th/NameChecker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/August9th/Collections/PrintingContainers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="27" column="65" selection-start-line="27" selection-start-column="65" selection-end-line="27" selection-end-column="65" />
         </state>
       </provider>
     </entry>
