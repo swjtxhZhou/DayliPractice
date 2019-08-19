@@ -2,30 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3e2b8870-dfde-4e7d-996a-395776690097" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/August14th/CrossContainerIteration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/August14th/ListIteration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/August14th/SimpleIteration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/common/ForNameCreator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/common/Individual.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/common/LiteralPetCreator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/common/PetCount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/common/Pets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/common/PetsCreator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/common/pets/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/common/pets/Cymric.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/common/pets/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/common/pets/EgyptianMau.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/common/pets/Hamster.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/common/pets/Manx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/common/pets/Mouse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/common/pets/Mutt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/common/pets/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/common/pets/Pet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/common/pets/Pug.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/common/pets/Rat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/common/pets/Rodent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/August18th/LinkedListFeatures.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/August18th/MapOfList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/August18th/PetMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/August18th/QueueDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/August18th/SetOfInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/August18th/SetOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/August18th/Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/August18th/StackTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/August18th/Statistics.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practie/META-INF/practie.kotlin_module" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -54,124 +40,125 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/common/pets/Mouse.java">
+        <entry file="file://$PROJECT_DIR$/src/August14th/ListIteration.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
-              <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
+            <state relative-caret-position="529">
+              <caret line="34" column="10" selection-start-line="34" selection-start-column="10" selection-end-line="34" selection-end-column="10" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/common/pets/Hamster.java">
+        <entry file="file://$PROJECT_DIR$/src/August18th/LinkedListFeatures.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
-              <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+            <state relative-caret-position="128">
+              <caret line="31" column="70" selection-start-line="31" selection-start-column="70" selection-end-line="31" selection-end-column="70" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/common/PetsCreator.java">
+        <entry file="file://$PROJECT_DIR$/src/August18th/Stack.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="240">
-              <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+              <caret line="10" column="55" selection-start-line="10" selection-start-column="55" selection-end-line="10" selection-end-column="55" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/common/ForNameCreator.java">
+        <entry file="file://$PROJECT_DIR$/src/August18th/StackTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="600">
-              <caret line="28" column="25" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
+            <state relative-caret-position="48">
+              <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#122#130#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/common/PetCount.java">
+        <entry file="file://$PROJECT_DIR$/src/August18th/SetOfInteger.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="28" column="17" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
+            <state relative-caret-position="128">
+              <caret line="9" column="47" selection-start-line="9" selection-start-column="47" selection-end-line="9" selection-end-column="47" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1826#1827#0" expanded="true" />
-                <element signature="e#1873#1874#0" expanded="true" />
+                <element signature="e#249#258#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/common/LiteralPetCreator.java">
+        <entry file="file://$PROJECT_DIR$/src/August18th/SetOperation.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="224">
-              <caret line="14" column="123" lean-forward="true" selection-start-line="14" selection-start-column="123" selection-end-line="14" selection-end-column="123" />
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#73#103#1" expanded="true" />
-                <element signature="e#653#654#0" expanded="true" />
-                <element signature="e#681#682#0" expanded="true" />
+                <element signature="e#180#188#0" expanded="true" />
+                <element signature="e#450#458#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/common/Pets.java">
+        <entry file="file://$PROJECT_DIR$/src/August18th/Statistics.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="56">
-              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="176">
+              <caret line="10" column="36" lean-forward="true" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
               <folding>
-                <element signature="e#167#168#0" expanded="true" />
-                <element signature="e#196#197#0" expanded="true" />
-                <element signature="e#256#257#0" expanded="true" />
-                <element signature="e#280#281#0" expanded="true" />
-                <element signature="e#387#388#0" expanded="true" />
-                <element signature="e#428#429#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#247#265#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/August14th/SimpleIteration.java">
+        <entry file="file://$PROJECT_DIR$/src/August18th/PetMap.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="21" column="9" lean-forward="true" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+            <state relative-caret-position="296">
+              <caret line="20" column="51" selection-start-line="20" selection-start-column="51" selection-end-line="20" selection-end-column="51" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#206#219#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/August14th/CrossContainerIteration.java">
+        <entry file="file://$PROJECT_DIR$/src/August18th/MapOfList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="17" column="50" selection-start-line="17" selection-start-column="50" selection-end-line="17" selection-end-column="50" />
+            <state relative-caret-position="272">
+              <caret line="23" column="47" selection-start-line="23" selection-start-column="47" selection-end-line="23" selection-end-column="47" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#334#363#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/August14th/ListIteration.java">
+        <entry file="file://$PROJECT_DIR$/src/August18th/QueueDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="56">
-              <caret line="29" column="26" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="26" />
+            <state relative-caret-position="272">
+              <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#427#436#0" expanded="true" />
+                <element signature="e#632#643#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -193,15 +180,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/August8th/Service.java" />
-        <option value="$PROJECT_DIR$/src/August8th/ServiceFactory.java" />
-        <option value="$PROJECT_DIR$/src/August8th/Factories.java" />
-        <option value="$PROJECT_DIR$/src/August8th/Implementation2.java" />
-        <option value="$PROJECT_DIR$/src/August8th/Implementation1.java" />
-        <option value="$PROJECT_DIR$/src/August8th/part2_anonymous/Game.java" />
-        <option value="$PROJECT_DIR$/src/August8th/part2_anonymous/GameFactory.java" />
-        <option value="$PROJECT_DIR$/src/August8th/part2_anonymous/Games.java" />
-        <option value="$PROJECT_DIR$/src/August8th/part2_anonymous/Checkers.java" />
         <option value="$PROJECT_DIR$/src/August8th/part2_anonymous/Chess.java" />
         <option value="$PROJECT_DIR$/src/August8th/part2_nested/Parcel11.java" />
         <option value="$PROJECT_DIR$/src/August8th/part2_nested/ClassInInterface.java" />
@@ -244,6 +222,15 @@
         <option value="$PROJECT_DIR$/src/August14th/SimpleIteration.java" />
         <option value="$PROJECT_DIR$/src/August14th/CrossContainerIteration.java" />
         <option value="$PROJECT_DIR$/src/August14th/ListIteration.java" />
+        <option value="$PROJECT_DIR$/src/August18th/LinkedListFeatures.java" />
+        <option value="$PROJECT_DIR$/src/August18th/Stack.java" />
+        <option value="$PROJECT_DIR$/src/August18th/StackTest.java" />
+        <option value="$PROJECT_DIR$/src/August18th/SetOfInteger.java" />
+        <option value="$PROJECT_DIR$/src/August18th/SetOperation.java" />
+        <option value="$PROJECT_DIR$/src/August18th/Statistics.java" />
+        <option value="$PROJECT_DIR$/src/August18th/PetMap.java" />
+        <option value="$PROJECT_DIR$/src/August18th/MapOfList.java" />
+        <option value="$PROJECT_DIR$/src/August18th/QueueDemo.java" />
       </list>
     </option>
   </component>
@@ -260,7 +247,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -277,13 +264,13 @@
               <item name="DayliPractice" type="b2602c69:ProjectViewProjectNode" />
               <item name="DayliPractice" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="August14th" type="462c0819:PsiDirectoryNode" />
+              <item name="August18th" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -299,7 +286,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565943081839" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566128134926" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="Lombok plugin" />
   </component>
@@ -323,13 +310,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CrossContainerIteration">
-    <configuration name="CrossContainerIteration" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="August14th.CrossContainerIteration" />
+  <component name="RunManager" selected="Application.QueueDemo">
+    <configuration name="MapOfList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="August18th.MapOfList" />
       <module name="practie" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="August14th.*" />
+          <option name="PATTERN" value="August18th.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -337,12 +324,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LiteralPetCreator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="common.LiteralPetCreator" />
+    <configuration name="PetMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="August18th.PetMap" />
       <module name="practie" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="common.*" />
+          <option name="PATTERN" value="August18th.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -350,12 +337,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Person" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="August9th.Person" />
+    <configuration name="QueueDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="August18th.QueueDemo" />
       <module name="practie" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="August9th.*" />
+          <option name="PATTERN" value="August18th.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -363,12 +350,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PetCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="common.PetCount" />
+    <configuration name="SetOfInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="August18th.SetOfInteger" />
       <module name="practie" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="common.*" />
+          <option name="PATTERN" value="August18th.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -376,12 +363,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintingContainers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="August9th.Collections.PrintingContainers" />
+    <configuration name="SetOperation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="August18th.SetOperation" />
       <module name="practie" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="August9th.Collections.*" />
+          <option name="PATTERN" value="August18th.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -390,19 +377,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Person" />
-      <item itemvalue="Application.PrintingContainers" />
-      <item itemvalue="Application.PetCount" />
-      <item itemvalue="Application.LiteralPetCreator" />
-      <item itemvalue="Application.CrossContainerIteration" />
+      <item itemvalue="Application.SetOfInteger" />
+      <item itemvalue="Application.SetOperation" />
+      <item itemvalue="Application.PetMap" />
+      <item itemvalue="Application.MapOfList" />
+      <item itemvalue="Application.QueueDemo" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CrossContainerIteration" />
-        <item itemvalue="Application.LiteralPetCreator" />
-        <item itemvalue="Application.PetCount" />
-        <item itemvalue="Application.PrintingContainers" />
-        <item itemvalue="Application.Person" />
+        <item itemvalue="Application.QueueDemo" />
+        <item itemvalue="Application.MapOfList" />
+        <item itemvalue="Application.PetMap" />
+        <item itemvalue="Application.SetOperation" />
+        <item itemvalue="Application.SetOfInteger" />
       </list>
     </recent_temporary>
   </component>
@@ -421,18 +408,27 @@
       <workItem from="1565143234827" duration="35375000" />
       <workItem from="1565315801730" duration="12226000" />
       <workItem from="1565750301099" duration="8779000" />
-      <workItem from="1565937195660" duration="5176000" />
+      <workItem from="1565937195660" duration="5486000" />
+      <workItem from="1566115985498" duration="8504000" />
     </task>
+    <task id="LOCAL-00001" summary="“放假”">
+      <created>1565943125305</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1565943125305</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="81642000" />
+    <option name="totallyTimeSpent" value="90456000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1633888" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16792738" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -441,7 +437,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32764506" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32764506" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39933258" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -497,96 +493,11 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="“放假”" />
+    <option name="LAST_COMMIT_MESSAGE" value="“放假”" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/August8th/Implementation1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="18" lean-forward="true" selection-start-column="18" selection-end-column="18" />
-          <folding>
-            <element signature="e#126#127#0" expanded="true" />
-            <element signature="e#148#149#0" expanded="true" />
-            <element signature="e#214#215#0" expanded="true" />
-            <element signature="e#250#251#0" expanded="true" />
-            <element signature="e#475#476#0" expanded="true" />
-            <element signature="e#527#528#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/August8th/Factories.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/August8th/part2_anonymous/Game.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/August8th/part2_anonymous/GameFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/August8th/part2_anonymous/Games.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="9" column="35" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/August8th/part2_anonymous/Checkers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
-          <folding>
-            <element signature="e#416#417#0" expanded="true" />
-            <element signature="e#461#462#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/August8th/part2_anonymous/Chess.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
-          <folding>
-            <element signature="e#406#407#0" expanded="true" />
-            <element signature="e#448#449#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/August8th/part2_nested/practice20.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="6" column="39" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
-          <folding>
-            <element signature="e#117#118#0" expanded="true" />
-            <element signature="e#147#148#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/August8th/part2_nested/ClassInInterface.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="6" column="75" selection-start-line="6" selection-start-column="75" selection-end-line="6" selection-end-column="75" />
-          <folding>
-            <element signature="e#183#184#0" expanded="true" />
-            <element signature="e#233#234#0" expanded="true" />
-            <element signature="e#281#282#0" expanded="true" />
-            <element signature="e#323#324#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/August8th/part2_nested/Parcel11.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="505">
@@ -784,22 +695,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/August9th/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-887">
-          <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#155#156#0" expanded="true" />
-            <element signature="e#186#187#0" expanded="true" />
-            <element signature="e#221#222#0" expanded="true" />
-            <element signature="e#252#253#0" expanded="true" />
-            <element signature="e#279#280#0" expanded="true" />
-            <element signature="e#305#306#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/August9th/NameChecker.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
@@ -957,48 +852,41 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/common/PetCount.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
+        <state relative-caret-position="624">
           <caret line="28" column="17" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1826#1827#0" expanded="true" />
-            <element signature="e#1873#1874#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/common/LiteralPetCreator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="14" column="123" lean-forward="true" selection-start-line="14" selection-start-column="123" selection-end-line="14" selection-end-column="123" />
+        <state relative-caret-position="240">
+          <caret line="14" column="123" selection-start-line="14" selection-start-column="123" selection-end-line="14" selection-end-column="123" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#73#103#1" expanded="true" />
-            <element signature="e#653#654#0" expanded="true" />
-            <element signature="e#681#682#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/common/Pets.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="56">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        <state relative-caret-position="72">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
           <folding>
-            <element signature="e#167#168#0" expanded="true" />
             <element signature="e#196#197#0" expanded="true" />
-            <element signature="e#256#257#0" expanded="true" />
-            <element signature="e#280#281#0" expanded="true" />
+            <element signature="e#238#239#0" expanded="true" />
             <element signature="e#387#388#0" expanded="true" />
-            <element signature="e#428#429#0" expanded="true" />
+            <element signature="e#433#434#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/August14th/SimpleIteration.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="21" column="9" lean-forward="true" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+        <state relative-caret-position="384">
+          <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1007,7 +895,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/August14th/CrossContainerIteration.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
+        <state relative-caret-position="336">
           <caret line="17" column="50" selection-start-line="17" selection-start-column="50" selection-end-line="17" selection-end-column="50" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1017,10 +905,115 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/August14th/ListIteration.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="56">
-          <caret line="29" column="26" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="26" />
+        <state relative-caret-position="529">
+          <caret line="34" column="10" selection-start-line="34" selection-start-column="10" selection-end-line="34" selection-end-column="10" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/August18th/LinkedListFeatures.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="31" column="70" selection-start-line="31" selection-start-column="70" selection-end-line="31" selection-end-column="70" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/August18th/Stack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="55" selection-start-line="10" selection-start-column="55" selection-end-line="10" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/August18th/StackTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+          <folding>
+            <element signature="e#122#130#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/August18th/SetOfInteger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="9" column="47" selection-start-line="9" selection-start-column="47" selection-end-line="9" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#249#258#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/August18th/SetOperation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#180#188#0" expanded="true" />
+            <element signature="e#450#458#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/August18th/Statistics.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="10" column="36" lean-forward="true" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#247#265#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/August18th/PetMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="20" column="51" selection-start-line="20" selection-start-column="51" selection-end-line="20" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#206#219#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/August9th/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-334">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/August18th/MapOfList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="23" column="47" selection-start-line="23" selection-start-column="47" selection-end-line="23" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#334#363#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/August18th/QueueDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#427#436#0" expanded="true" />
+            <element signature="e#632#643#0" expanded="true" />
           </folding>
         </state>
       </provider>
