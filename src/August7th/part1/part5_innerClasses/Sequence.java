@@ -30,8 +30,12 @@ public class Sequence {
     }
     public static void main(String[] args){
         Sequence sequence= new Sequence(10);
-        for(int i=0;i<10;i++){
-            sequence.add(Integer.toString(i));
+        try {
+            for (int i = 0; i < 20; i++) {//加入过多的元素
+                sequence.add(Integer.toString(i));
+            }
+        }catch (ArrayIndexOutOfBoundsException e){//捕获了异常，接下来的代码仍会运行
+            e.printStackTrace(System.out);
         }
         Selector selector=sequence.selector();
         while(!selector.end()){
