@@ -1,21 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/August30th/Pattern/Rudolph.java" line="8" mnemonic="8" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="3e2b8870-dfde-4e7d-996a-395776690097" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/August26th/ConstructorOfException/CleanUp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/August27th/ExceptionOfConstructor/CleanUpIdiom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/August27th/ExceptionOfConstructor/ConstructorException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/August27th/ExceptionOfConstructor/ConstructorHierarchies/Annoyance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/August27th/ExceptionOfConstructor/ConstructorHierarchies/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/August27th/ExceptionOfConstructor/ConstructorHierarchies/Sneeze.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/August27th/ExceptionOfConstructor/MainException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/August27th/ExceptionOfConstructor/NeedsCleanUp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/August27th/ExceptionOfConstructor/NeedsCleanUp2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/August27th/ExceptionOfConstructor/TurnOffChecking/SomeOtherException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/August27th/ExceptionOfConstructor/TurnOffChecking/TurnOffChecking.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/August27th/ExceptionOfConstructor/TurnOffChecking/WrapCheckedException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/August29th/String/Concatenation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/August29th/String/FormatterClass/Conversion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/August29th/String/FormatterClass/DatabaseException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/August29th/String/FormatterClass/Receipt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/August29th/String/FormatterClass/Turtle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/August29th/String/Immutable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/August29th/String/InfiniteRecursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/August29th/String/UsingStringBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/August29th/String/WhitherStringBulider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/August30th/Pattern/IntegerMatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/August30th/Pattern/Practice10/Strings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/August30th/Pattern/Replacing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/August30th/Pattern/Resetting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/August30th/Pattern/Rudolph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/August30th/Pattern/SplitDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/August30th/Pattern/Splitting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/August30th/Pattern/Strings/Practice11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/August30th/Pattern/TestRegularExpression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Septemper2th/DailyManagement" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Septemper2th/IO/SimpleRead/java/BetterReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Septemper2th/IO/SimpleRead/java/SimpleRead.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/August26th/ConstructorOfException/InputFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August26th/ConstructorOfException/InputFile.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -44,77 +55,28 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/August27th/ExceptionOfConstructor/NeedsCleanUp.java">
+        <entry file="file://$PROJECT_DIR$/src/August30th/Pattern/Replacing.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
-              <caret line="4" column="37" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
-              <folding>
-                <element signature="e#171#172#0" expanded="true" />
-                <element signature="e#197#198#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="216">
+              <caret line="9" column="40" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/August27th/ExceptionOfConstructor/NeedsCleanUp2.java">
+        <entry file="file://$PROJECT_DIR$/src/August30th/Pattern/Rudolph.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="5" column="71" selection-start-line="5" selection-start-column="71" selection-end-line="5" selection-end-column="71" />
+            <state relative-caret-position="72">
+              <caret line="3" column="33" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/August27th/ExceptionOfConstructor/CleanUpIdiom.java">
+        <entry file="file://$PROJECT_DIR$/src/August30th/Pattern/TestRegularExpression.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-507">
-              <caret line="9" column="11" lean-forward="true" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/August27th/ExceptionOfConstructor/ConstructorHierarchies/Annoyance.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="48">
-              <caret line="2" column="41" selection-start-line="2" selection-start-column="41" selection-end-line="2" selection-end-column="41" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/August27th/ExceptionOfConstructor/ConstructorHierarchies/Sneeze.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="48">
-              <caret line="2" column="38" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/August27th/ExceptionOfConstructor/ConstructorHierarchies/Human.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="6" column="51" selection-start-line="6" selection-start-column="51" selection-end-line="6" selection-end-column="51" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/August27th/ExceptionOfConstructor/MainException.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/August27th/ExceptionOfConstructor/TurnOffChecking/WrapCheckedException.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="7" column="52" selection-start-line="7" selection-start-column="52" selection-end-line="7" selection-end-column="52" />
+            <state relative-caret-position="192">
+              <caret line="9" column="44" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -123,22 +85,79 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/August27th/ExceptionOfConstructor/TurnOffChecking/SomeOtherException.java">
+        <entry file="file://$PROJECT_DIR$/src/August30th/Pattern/Practice10/Strings.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="408">
+              <caret line="18" column="43" selection-start-line="18" selection-start-column="43" selection-end-line="18" selection-end-column="43" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/August30th/Pattern/Strings/Practice11.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/August30th/Pattern/SplitDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="312">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/August30th/Pattern/Resetting.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="336">
+              <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Septemper2th/DailyManagement">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Septemper2th/IO/SimpleRead/java/SimpleRead.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="453">
+              <caret line="19" column="14" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/August27th/ExceptionOfConstructor/TurnOffChecking/TurnOffChecking.java">
+        <entry file="file://$PROJECT_DIR$/src/Septemper2th/IO/SimpleRead/java/BetterReader.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="576">
-              <caret line="24" column="36" selection-start-line="24" selection-start-column="36" selection-end-line="24" selection-end-column="36" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="168">
+              <caret line="7" column="80" selection-start-line="7" selection-start-column="80" selection-end-line="7" selection-end-column="80" />
             </state>
           </provider>
         </entry>
@@ -160,28 +179,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/August23th/part3/WhoCalled.java" />
-        <option value="$PROJECT_DIR$/src/August23th/part3/Rethrowing.java" />
-        <option value="$PROJECT_DIR$/src/August23th/part3/OneException.java" />
-        <option value="$PROJECT_DIR$/src/August23th/part3/TwoException.java" />
-        <option value="$PROJECT_DIR$/src/August23th/part3/ReThrowNew.java" />
-        <option value="$PROJECT_DIR$/src/August23th/part3/DynamicFiledsException.java" />
-        <option value="$PROJECT_DIR$/src/August26th/MyException.java" />
-        <option value="$PROJECT_DIR$/src/August26th/MyExceptionDemo.java" />
-        <option value="$PROJECT_DIR$/src/August23th/part3/DynamicFields.java" />
-        <option value="$PROJECT_DIR$/src/August26th/NeverCaught.java" />
-        <option value="$PROJECT_DIR$/src/August7th/part1/part5_innerClasses/Sequence.java" />
-        <option value="$PROJECT_DIR$/src/August26th/Finally/practice/ThreeException.java" />
-        <option value="$PROJECT_DIR$/src/August26th/Finally/practice/FinallyWorks.java" />
-        <option value="$PROJECT_DIR$/src/August26th/Finally/practice/Switch.java" />
-        <option value="$PROJECT_DIR$/src/August26th/Finally/practice/OnOffException.java" />
-        <option value="$PROJECT_DIR$/src/August26th/Finally/practice/OnOffException1.java" />
-        <option value="$PROJECT_DIR$/src/August26th/Finally/practice/FourException.java" />
-        <option value="$PROJECT_DIR$/src/August26th/Finally/practice/AlwaysFinally.java" />
-        <option value="$PROJECT_DIR$/src/August26th/Finally/practice/Practice9_CaughtAll.java" />
-        <option value="$PROJECT_DIR$/src/August26th/Finally/practice/WithFinally.java" />
-        <option value="$PROJECT_DIR$/src/August26th/Finally/practice/OnOffSwitch.java" />
-        <option value="$PROJECT_DIR$/src/August26th/Finally/practice/MutipleReturns.java" />
         <option value="$PROJECT_DIR$/src/August26th/Finally/practice/VeryImportantException.java" />
         <option value="$PROJECT_DIR$/src/August26th/Finally/practice/HoHumException.java" />
         <option value="$PROJECT_DIR$/src/August26th/Finally/practice/LostMessage.java" />
@@ -211,6 +208,28 @@
         <option value="$PROJECT_DIR$/src/August27th/ExceptionOfConstructor/TurnOffChecking/WrapCheckedException.java" />
         <option value="$PROJECT_DIR$/src/August27th/ExceptionOfConstructor/TurnOffChecking/SomeOtherException.java" />
         <option value="$PROJECT_DIR$/src/August27th/ExceptionOfConstructor/TurnOffChecking/TurnOffChecking.java" />
+        <option value="$PROJECT_DIR$/src/August29th/String/Immutable.java" />
+        <option value="$PROJECT_DIR$/src/August29th/String/Concatenation.java" />
+        <option value="$PROJECT_DIR$/src/August29th/String/WhitherStringBulider.java" />
+        <option value="$PROJECT_DIR$/src/August29th/String/UsingStringBuilder.java" />
+        <option value="$PROJECT_DIR$/src/August29th/String/InfiniteRecursion.java" />
+        <option value="$PROJECT_DIR$/src/August29th/String/FormatterClass/Turtle.java" />
+        <option value="$PROJECT_DIR$/src/August29th/String/FormatterClass/Receipt.java" />
+        <option value="$PROJECT_DIR$/src/August29th/String/FormatterClass/Conversion.java" />
+        <option value="$PROJECT_DIR$/src/August29th/String/FormatterClass/DatabaseException.java" />
+        <option value="$PROJECT_DIR$/src/August30th/IntegerMatch.java" />
+        <option value="$PROJECT_DIR$/src/August30th/Splitting.java" />
+        <option value="$PROJECT_DIR$/src/August30th/Replacing.java" />
+        <option value="$PROJECT_DIR$/src/August30th/Pattern/Replacing.java" />
+        <option value="$PROJECT_DIR$/src/August30th/Pattern/Rudolph.java" />
+        <option value="$PROJECT_DIR$/src/August30th/Pattern/TestRegularExpression.java" />
+        <option value="$PROJECT_DIR$/src/August30th/Pattern/Practice10/Strings.java" />
+        <option value="$PROJECT_DIR$/src/August30th/Pattern/Strings/Practice11.java" />
+        <option value="$PROJECT_DIR$/src/August30th/Pattern/SplitDemo.java" />
+        <option value="$PROJECT_DIR$/src/August30th/Pattern/Resetting.java" />
+        <option value="$PROJECT_DIR$/src/Septemper2th/DailyManagement" />
+        <option value="$PROJECT_DIR$/src/Septemper2th/IO/SimpleRead/java/SimpleRead.java" />
+        <option value="$PROJECT_DIR$/src/Septemper2th/IO/SimpleRead/java/BetterReader.java" />
       </list>
     </option>
   </component>
@@ -228,6 +247,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -240,12 +261,23 @@
               <item name="DayliPractice" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="DayliPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DayliPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Septemper2th" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DayliPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DayliPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Septemper2th" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -285,13 +317,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TurnOffChecking">
-    <configuration name="CleanUp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="August26th.ConstructorOfException.CleanUp" />
+  <component name="RunManager" selected="Application.BetterReader">
+    <configuration name="BetterReader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Septemper2th.IO.SimpleRead.java.BetterReader" />
       <module name="practie" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="August26th.ConstructorOfException.*" />
+          <option name="PATTERN" value="Septemper2th.IO.SimpleRead.java.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -299,12 +331,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CleanUpIdiom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="August27th.ExceptionOfConstructor.CleanUpIdiom" />
+    <configuration name="Practice11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="August30th.Pattern.Strings.Practice11" />
       <module name="practie" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="August27th.ExceptionOfConstructor.*" />
+          <option name="PATTERN" value="August30th.Pattern.Strings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -312,12 +344,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Human" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="August27th.ExceptionOfConstructor.ConstructorHierarchies.Human" />
+    <configuration name="Resetting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="August30th.Pattern.Resetting" />
       <module name="practie" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="August27th.ExceptionOfConstructor.ConstructorHierarchies.*" />
+          <option name="PATTERN" value="August30th.Pattern.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -325,12 +357,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StormInning" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="August26th.LimitsOfException.StormInning" />
+    <configuration name="SimpleRead" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Septemper2th.IO.SimpleRead.java.SimpleRead" />
       <module name="practie" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="August26th.LimitsOfException.*" />
+          <option name="PATTERN" value="Septemper2th.IO.SimpleRead.java.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -338,12 +370,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TurnOffChecking" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="August27th.ExceptionOfConstructor.TurnOffChecking.TurnOffChecking" />
+    <configuration name="SplitDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="August30th.Pattern.SplitDemo" />
       <module name="practie" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="August27th.ExceptionOfConstructor.TurnOffChecking.*" />
+          <option name="PATTERN" value="August30th.Pattern.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -352,19 +384,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.StormInning" />
-      <item itemvalue="Application.CleanUp" />
-      <item itemvalue="Application.CleanUpIdiom" />
-      <item itemvalue="Application.Human" />
-      <item itemvalue="Application.TurnOffChecking" />
+      <item itemvalue="Application.Practice11" />
+      <item itemvalue="Application.SplitDemo" />
+      <item itemvalue="Application.Resetting" />
+      <item itemvalue="Application.SimpleRead" />
+      <item itemvalue="Application.BetterReader" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TurnOffChecking" />
-        <item itemvalue="Application.Human" />
-        <item itemvalue="Application.CleanUpIdiom" />
-        <item itemvalue="Application.CleanUp" />
-        <item itemvalue="Application.StormInning" />
+        <item itemvalue="Application.BetterReader" />
+        <item itemvalue="Application.SimpleRead" />
+        <item itemvalue="Application.Resetting" />
+        <item itemvalue="Application.SplitDemo" />
+        <item itemvalue="Application.Practice11" />
       </list>
     </recent_temporary>
   </component>
@@ -391,7 +423,10 @@
       <workItem from="1566262705292" duration="12435000" />
       <workItem from="1566523481928" duration="18796000" />
       <workItem from="1566780694378" duration="19386000" />
-      <workItem from="1566871172306" duration="8512000" />
+      <workItem from="1566871172306" duration="8793000" />
+      <workItem from="1567038950251" duration="47000" />
+      <workItem from="1567049326232" duration="19937000" />
+      <workItem from="1567385873449" duration="3677000" />
     </task>
     <task id="LOCAL-00001" summary="“放假”">
       <created>1565943125305</created>
@@ -428,16 +463,24 @@
       <option name="project" value="LOCAL" />
       <updated>1566810976179</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="异常与构造器&#10;屏蔽“被检查的异常”&#10;捕获异常的规则">
+      <created>1566898088379</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1566898088379</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="164869000" />
+    <option name="totallyTimeSpent" value="188811000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17910448" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18443497" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -446,7 +489,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.38641426" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.38641426" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39933258" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -454,7 +497,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32962137" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32739422" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -508,158 +551,10 @@
     <MESSAGE value="STATIC练习" />
     <MESSAGE value="异常捕捉的练习" />
     <MESSAGE value="异常的限制&#10;异常与finally&#10;异常与构造器" />
-    <option name="LAST_COMMIT_MESSAGE" value="异常的限制&#10;异常与finally&#10;异常与构造器" />
+    <MESSAGE value="异常与构造器&#10;屏蔽“被检查的异常”&#10;捕获异常的规则" />
+    <option name="LAST_COMMIT_MESSAGE" value="异常与构造器&#10;屏蔽“被检查的异常”&#10;捕获异常的规则" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/August23th/part3/ExceptionMethods.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="11" column="41" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/August23th/part3/ReThrowNew.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="18" column="41" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/August23th/part3/TwoException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/August23th/part3/OneException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/August23th/part3/DynamicFiledsException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="54" selection-start-line="2" selection-start-column="54" selection-end-line="2" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/August26th/MyException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="42" selection-start-line="2" selection-start-column="42" selection-end-line="2" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/August26th/MyExceptionDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="22" column="42" selection-start-line="22" selection-start-column="42" selection-end-line="22" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/August23th/part3/DynamicFields.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-96">
-          <caret line="7" column="41" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/August7th/part1/part5_innerClasses/Sequence.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="36" column="68" selection-start-line="36" selection-start-column="68" selection-end-line="36" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/August26th/NeverCaught.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="7" column="41" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
-          <folding>
-            <element signature="e#191#192#0" expanded="true" />
-            <element signature="e#210#211#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/August26th/Finally/practice/ThreeException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/August26th/Finally/practice/Practice9/Finally.java" />
-    <entry file="file://$PROJECT_DIR$/src/August26th/Finally/practice/Practice9_CaughtAll.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="26" column="15" lean-forward="true" selection-start-line="26" selection-start-column="15" selection-end-line="26" selection-end-column="15" />
-          <folding>
-            <element signature="e#412#413#0" expanded="true" />
-            <element signature="e#438#439#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/August26th/Finally/practice/AlwaysFinally.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="5" column="41" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/August26th/Finally/practice/FourException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="44" selection-start-line="2" selection-start-column="44" selection-end-line="2" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/August26th/Finally/practice/OnOffException1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="46" selection-start-line="2" selection-start-column="46" selection-end-line="2" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/August26th/Finally/practice/OnOffException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="45" selection-start-line="2" selection-start-column="45" selection-end-line="2" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/August26th/Finally/practice/Switch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="11" column="53" selection-start-line="11" selection-start-column="53" selection-end-line="11" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/August26th/Finally/practice/FinallyWorks.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/August26th/Finally/practice/OnOffSwitch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/August26th/Finally/practice/WithFinally.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="8" column="41" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/july31th/ConstructPractice/part3/Frog.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="48">
@@ -806,10 +701,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
           <caret line="4" column="37" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
-          <folding>
-            <element signature="e#171#172#0" expanded="true" />
-            <element signature="e#197#198#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -822,8 +713,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/August27th/ExceptionOfConstructor/CleanUpIdiom.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-507">
-          <caret line="9" column="11" lean-forward="true" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+        <state relative-caret-position="216">
+          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
         </state>
       </provider>
     </entry>
@@ -838,13 +729,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="48">
           <caret line="2" column="38" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/August27th/ExceptionOfConstructor/ConstructorHierarchies/Human.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="6" column="51" selection-start-line="6" selection-start-column="51" selection-end-line="6" selection-end-column="51" />
         </state>
       </provider>
     </entry>
@@ -872,13 +756,200 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/August27th/ExceptionOfConstructor/ConstructorHierarchies/Human.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/August29th/String/Immutable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="40" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
+          <folding>
+            <element signature="e#106#107#0" expanded="true" />
+            <element signature="e#144#145#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/August29th/String/Concatenation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/August29th/String/WhitherStringBulider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/August29th/String/UsingStringBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="12" column="55" selection-start-line="12" selection-start-column="55" selection-end-line="12" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/August29th/String/InfiniteRecursion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="61" selection-start-line="7" selection-start-column="61" selection-end-line="7" selection-end-column="61" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#141#142#0" expanded="true" />
+            <element signature="e#204#205#0" expanded="true" />
+            <element signature="e#298#317#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/August29th/String/FormatterClass/Turtle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="18" column="81" selection-start-line="18" selection-start-column="81" selection-end-line="18" selection-end-column="81" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#273#274#0" expanded="true" />
+            <element signature="e#328#329#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/August29th/String/FormatterClass/Receipt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-48">
+          <caret line="9" column="42" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/August29th/String/FormatterClass/Conversion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="453">
+          <caret line="24" column="8" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/August27th/ExceptionOfConstructor/TurnOffChecking/TurnOffChecking.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="576">
+        <state relative-caret-position="453">
           <caret line="24" column="36" selection-start-line="24" selection-start-column="36" selection-end-line="24" selection-end-column="36" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/August29th/String/FormatterClass/DatabaseException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/August30th/Pattern/IntegerMatch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="12" column="55" selection-start-line="12" selection-start-column="55" selection-end-line="12" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/August30th/Pattern/Splitting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/August30th/Pattern/Replacing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="40" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/August30th/Pattern/Rudolph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" column="33" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/August30th/Pattern/TestRegularExpression.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="9" column="44" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/August30th/Pattern/Practice10/Strings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="18" column="43" selection-start-line="18" selection-start-column="43" selection-end-line="18" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/August30th/Pattern/Strings/Practice11.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/August30th/Pattern/SplitDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/August30th/Pattern/Resetting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Septemper2th/DailyManagement">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Septemper2th/IO/SimpleRead/java/SimpleRead.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="453">
+          <caret line="19" column="14" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Septemper2th/IO/SimpleRead/java/BetterReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="80" selection-start-line="7" selection-start-column="80" selection-end-line="7" selection-end-column="80" />
         </state>
       </provider>
     </entry>
