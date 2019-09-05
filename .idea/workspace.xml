@@ -5,11 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3e2b8870-dfde-4e7d-996a-395776690097" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/September5th/dailyManagement" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Septemper2th/IO/SimpleRead/java/ScannerDelimiter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Septemper2th/ThreatAnalyzer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/September5th/Rtti/Candy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/September5th/Rtti/ClassInitialization/ClassInitialization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/September5th/Rtti/ClassInitialization/Initable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/September5th/Rtti/ClassInitialization/Initable2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/September5th/Rtti/ClassInitialization/Initable3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/September5th/Rtti/Cookie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/September5th/Rtti/Gum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/September5th/Rtti/SweetShop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/September5th/Rtti/toys/FancyToy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/September5th/Rtti/toys/HasBatteries.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/September5th/Rtti/toys/Shoots.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/September5th/Rtti/toys/Toy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/September5th/Rtti/toys/ToyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/September5th/Rtti/toys/Waterproof.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Septemper2th/IO/SimpleRead/java/BetterReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Septemper2th/IO/SimpleRead/java/BetterReader.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -38,109 +48,95 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/August30th/Pattern/Practice10/Strings.java">
+        <entry file="file://$PROJECT_DIR$/src/September5th/Rtti/toys/HasBatteries.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="18" column="43" selection-start-line="18" selection-start-column="43" selection-end-line="18" selection-end-column="43" />
+            <state relative-caret-position="96">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/September5th/Rtti/toys/Waterproof.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="3" column="1" lean-forward="true" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/September5th/Rtti/toys/Shoots.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="48">
+              <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/September5th/Rtti/toys/Toy.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="96">
+              <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/September5th/Rtti/toys/FancyToy.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="8" selection-start-column="8" selection-end-column="30" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#124#125#0" expanded="true" />
+                <element signature="e#144#145#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/August30th/Pattern/Strings/Practice11.java">
+        <entry file="file://$PROJECT_DIR$/src/September5th/Rtti/toys/ToyTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="237">
+              <caret line="33" column="45" selection-start-line="33" selection-start-column="45" selection-end-line="33" selection-end-column="45" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/August30th/Pattern/SplitDemo.java">
+        <entry file="file://$PROJECT_DIR$/src/September5th/Rtti/ClassInitialization/Initable.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="96">
+              <caret line="4" column="55" selection-start-line="4" selection-start-column="55" selection-end-line="4" selection-end-column="55" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/August30th/Pattern/Resetting.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Septemper2th/DailyManagement">
+        <entry file="file://$PROJECT_DIR$/src/September5th/Rtti/ClassInitialization/Initable2.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
+              <caret line="5" column="50" selection-start-line="5" selection-start-column="50" selection-end-line="5" selection-end-column="50" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Septemper2th/IO/SimpleRead/java/SimpleRead.java">
+        <entry file="file://$PROJECT_DIR$/src/September5th/Rtti/ClassInitialization/Initable3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="19" column="14" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Septemper2th/IO/SimpleRead/java/BetterReader.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="15" column="84" selection-start-line="15" selection-start-column="84" selection-end-line="15" selection-end-column="84" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Septemper2th/IO/SimpleRead/java/ScannerDelimiter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="15" column="48" selection-start-line="15" selection-start-column="48" selection-end-line="15" selection-end-column="48" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Septemper2th/ThreatAnalyzer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="18" column="79" selection-start-line="18" selection-start-column="79" selection-end-line="18" selection-end-column="79" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state>
+              <caret column="8" lean-forward="true" selection-start-column="8" selection-end-column="45" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/September5th/dailyManagement">
+        <entry file="file://$PROJECT_DIR$/src/September5th/Rtti/ClassInitialization/ClassInitialization.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
-              <caret line="4" column="42" selection-start-line="4" selection-start-column="42" selection-end-line="4" selection-end-column="42" />
+            <state relative-caret-position="168">
+              <caret line="7" column="53" lean-forward="true" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="53" />
             </state>
           </provider>
         </entry>
@@ -162,20 +158,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/August26th/Finally/practice/ExceptionSilencer.java" />
-        <option value="$PROJECT_DIR$/src/August26th/LimitsOfException/BaseBallException.java" />
-        <option value="$PROJECT_DIR$/src/August26th/LimitsOfException/Foul.java" />
-        <option value="$PROJECT_DIR$/src/August26th/LimitsOfException/Strike.java" />
-        <option value="$PROJECT_DIR$/src/August26th/LimitsOfException/Inning.java" />
-        <option value="$PROJECT_DIR$/src/August26th/LimitsOfException/StormingException.java" />
-        <option value="$PROJECT_DIR$/src/August26th/LimitsOfException/RainedOut.java" />
-        <option value="$PROJECT_DIR$/src/August26th/LimitsOfException/PopFoul.java" />
-        <option value="$PROJECT_DIR$/src/August26th/LimitsOfException/Strom.java" />
-        <option value="$PROJECT_DIR$/src/August26th/LimitsOfException/Storm.java" />
-        <option value="$PROJECT_DIR$/src/August26th/LimitsOfException/UmpireArgument.java" />
-        <option value="$PROJECT_DIR$/src/August26th/LimitsOfException/StormInning.java" />
-        <option value="$PROJECT_DIR$/src/August26th/ConstructorOfException/ConstructorInException.java" />
-        <option value="$PROJECT_DIR$/src/August26th/ConstructorOfException/InputFile.java" />
         <option value="$PROJECT_DIR$/src/August26th/ConstructorOfException/CleanUp.java" />
         <option value="$PROJECT_DIR$/src/August27th/ExceptionOfConstructor/ConstructorException.java" />
         <option value="$PROJECT_DIR$/src/August27th/ExceptionOfConstructor/NeedsCleanUp.java" />
@@ -213,6 +195,20 @@
         <option value="$PROJECT_DIR$/src/Septemper2th/IO/SimpleRead/java/ScannerDelimiter.java" />
         <option value="$PROJECT_DIR$/src/Septemper2th/ThreatAnalyzer.java" />
         <option value="$PROJECT_DIR$/src/September5th/dailyManagement" />
+        <option value="$PROJECT_DIR$/src/September5th/Rtti/Candy.java" />
+        <option value="$PROJECT_DIR$/src/September5th/Rtti/Cookie.java" />
+        <option value="$PROJECT_DIR$/src/September5th/Rtti/SweetShop.java" />
+        <option value="$PROJECT_DIR$/src/September5th/Rtti/Gum.java" />
+        <option value="$PROJECT_DIR$/src/September5th/Rtti/toys/HasBatteries.java" />
+        <option value="$PROJECT_DIR$/src/September5th/Rtti/toys/Waterproof.java" />
+        <option value="$PROJECT_DIR$/src/September5th/Rtti/toys/Shoots.java" />
+        <option value="$PROJECT_DIR$/src/September5th/Rtti/toys/Toy.java" />
+        <option value="$PROJECT_DIR$/src/September5th/Rtti/toys/FancyToy.java" />
+        <option value="$PROJECT_DIR$/src/September5th/Rtti/toys/ToyTest.java" />
+        <option value="$PROJECT_DIR$/src/September5th/Rtti/ClassInitialization/Initable2.java" />
+        <option value="$PROJECT_DIR$/src/September5th/Rtti/ClassInitialization/Initable3.java" />
+        <option value="$PROJECT_DIR$/src/September5th/Rtti/ClassInitialization/Initable.java" />
+        <option value="$PROJECT_DIR$/src/September5th/Rtti/ClassInitialization/ClassInitialization.java" />
       </list>
     </option>
   </component>
@@ -230,7 +226,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -249,11 +245,26 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="September5th" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="DayliPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DayliPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="September5th" type="462c0819:PsiDirectoryNode" />
+              <item name="Rtti" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DayliPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DayliPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="September5th" type="462c0819:PsiDirectoryNode" />
+              <item name="Rtti" type="462c0819:PsiDirectoryNode" />
+              <item name="ClassInitialization" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -293,26 +304,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ThreatAnalyzer">
-    <configuration name="BetterReader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Septemper2th.IO.SimpleRead.java.BetterReader" />
+  <component name="RunManager" selected="Application.ClassInitialization">
+    <configuration name="ClassInitialization" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="September5th.Rtti.ClassInitialization.ClassInitialization" />
       <module name="practie" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Septemper2th.IO.SimpleRead.java.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Resetting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="August30th.Pattern.Resetting" />
-      <module name="practie" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="August30th.Pattern.*" />
+          <option name="PATTERN" value="September5th.Rtti.ClassInitialization.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -333,12 +331,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SimpleRead" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Septemper2th.IO.SimpleRead.java.SimpleRead" />
+    <configuration name="SweetShop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="September5th.Rtti.SweetShop" />
       <module name="practie" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Septemper2th.IO.SimpleRead.java.*" />
+          <option name="PATTERN" value="September5th.Rtti.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -359,20 +357,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ToyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="September5th.Rtti.toys.ToyTest" />
+      <module name="practie" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="September5th.Rtti.toys.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.Resetting" />
-      <item itemvalue="Application.SimpleRead" />
-      <item itemvalue="Application.BetterReader" />
       <item itemvalue="Application.ScannerDelimiter" />
       <item itemvalue="Application.ThreatAnalyzer" />
+      <item itemvalue="Application.SweetShop" />
+      <item itemvalue="Application.ToyTest" />
+      <item itemvalue="Application.ClassInitialization" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ClassInitialization" />
+        <item itemvalue="Application.ToyTest" />
+        <item itemvalue="Application.SweetShop" />
         <item itemvalue="Application.ThreatAnalyzer" />
         <item itemvalue="Application.ScannerDelimiter" />
-        <item itemvalue="Application.BetterReader" />
-        <item itemvalue="Application.SimpleRead" />
-        <item itemvalue="Application.Resetting" />
       </list>
     </recent_temporary>
   </component>
@@ -403,7 +414,8 @@
       <workItem from="1567038950251" duration="47000" />
       <workItem from="1567049326232" duration="19937000" />
       <workItem from="1567385873449" duration="6299000" />
-      <workItem from="1567644055765" duration="268000" />
+      <workItem from="1567644055765" duration="352000" />
+      <workItem from="1567661368762" duration="9523000" />
     </task>
     <task id="LOCAL-00001" summary="“放假”">
       <created>1565943125305</created>
@@ -454,17 +466,23 @@
       <option name="project" value="LOCAL" />
       <updated>1567488495894</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="“9月5号的安排”">
+      <created>1567644364757</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1567644364757</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="191701000" />
+    <option name="totallyTimeSpent" value="201308000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18656716" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18869936" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -473,7 +491,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.38641426" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.38641426" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39933258" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -537,105 +555,10 @@
     <MESSAGE value="异常的限制&#10;异常与finally&#10;异常与构造器" />
     <MESSAGE value="异常与构造器&#10;屏蔽“被检查的异常”&#10;捕获异常的规则" />
     <MESSAGE value="“BufferedReader”+&quot;Scanner&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="“BufferedReader”+&quot;Scanner&quot;" />
+    <MESSAGE value="“9月5号的安排”" />
+    <option name="LAST_COMMIT_MESSAGE" value="“9月5号的安排”" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/August26th/Finally/practice/HoHumException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="4" column="37" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
-          <folding>
-            <element signature="e#113#114#0" expanded="true" />
-            <element signature="e#137#138#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/August26th/Finally/practice/LostMessage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/August26th/Finally/practice/ExceptionSilencer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/August26th/LimitsOfException/Foul.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="43" selection-start-line="2" selection-start-column="43" selection-end-line="2" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/August26th/ConstructorOfException/ConstructorInException.java" />
-    <entry file="file://$PROJECT_DIR$/src/August26th/LimitsOfException/BaseBallException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="49" selection-start-line="2" selection-start-column="49" selection-end-line="2" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/August26th/LimitsOfException/Strike.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="45" selection-start-line="2" selection-start-column="45" selection-end-line="2" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/August26th/LimitsOfException/Inning.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/August26th/LimitsOfException/StormingException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/August26th/LimitsOfException/RainedOut.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="49" selection-start-line="2" selection-start-column="49" selection-end-line="2" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/August26th/LimitsOfException/PopFoul.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="34" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/August26th/LimitsOfException/Storm.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="4" column="43" selection-start-line="4" selection-start-column="43" selection-end-line="4" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/August26th/LimitsOfException/StormInning.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="11" column="92" selection-start-line="11" selection-start-column="92" selection-end-line="11" selection-end-column="92" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/August26th/LimitsOfException/UmpireArgument.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="42" selection-start-line="2" selection-start-column="42" selection-end-line="2" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/August26th/ConstructorOfException/InputFile.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="648">
@@ -922,7 +845,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Septemper2th/ThreatAnalyzer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
+        <state relative-caret-position="408">
           <caret line="18" column="79" selection-start-line="18" selection-start-column="79" selection-end-line="18" selection-end-column="79" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -933,7 +856,109 @@
     <entry file="file://$PROJECT_DIR$/src/September5th/dailyManagement">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
+          <caret line="4" column="42" lean-forward="true" selection-start-line="4" selection-start-column="42" selection-end-line="4" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/September5th/Rtti/Candy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/September5th/Rtti/Cookie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
           <caret line="4" column="42" selection-start-line="4" selection-start-column="42" selection-end-line="4" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/September5th/Rtti/Gum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/September5th/Rtti/SweetShop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="18" column="30" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/September5th/Rtti/toys/HasBatteries.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/September5th/Rtti/toys/Waterproof.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" column="1" lean-forward="true" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/September5th/Rtti/toys/Shoots.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/September5th/Rtti/toys/Toy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/September5th/Rtti/toys/FancyToy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="8" selection-start-column="8" selection-end-column="30" />
+          <folding>
+            <element signature="e#124#125#0" expanded="true" />
+            <element signature="e#144#145#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/September5th/Rtti/toys/ToyTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="33" column="45" selection-start-line="33" selection-start-column="45" selection-end-line="33" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/September5th/Rtti/ClassInitialization/Initable2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="50" selection-start-line="5" selection-start-column="50" selection-end-line="5" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/September5th/Rtti/ClassInitialization/Initable3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="8" lean-forward="true" selection-start-column="8" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/September5th/Rtti/ClassInitialization/Initable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="55" selection-start-line="4" selection-start-column="55" selection-end-line="4" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/September5th/Rtti/ClassInitialization/ClassInitialization.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="53" lean-forward="true" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="53" />
         </state>
       </provider>
     </entry>
