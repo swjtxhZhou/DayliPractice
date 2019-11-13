@@ -14,11 +14,13 @@ public class FillingArrays {
         float[] a7 = new float[size];
         double[] a8 = new double[size];
         String[] a9 = new String[size];
-
+/**
+ * fill方法十分有限，只能用同一个值填充各个位置，而针对对象而言，就是复制一个引用进行填充
+ */
         Arrays.fill(a1,true);
         System.out.println(Arrays.toString(a1));
 
-        Arrays.fill(a9,3,5,"World");
+        Arrays.fill(a9,3,5,"World");//只填充数组的某个区域
         System.out.println(Arrays.toString(a9));
     }
 }

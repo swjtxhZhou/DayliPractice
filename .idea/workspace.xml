@@ -5,99 +5,50 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3e2b8870-dfde-4e7d-996a-395776690097" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/stdlib.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter16/October31th/part1/ContainerComparison.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter16/October31th/part1/part3/Icecream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter16/October31th/part1/part4/AutoboxingArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter16/October31th/part1/part4/MutidimensionalPrimitiveArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter16/October31th/part1/part5/ParameterizedArrayType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter16/October31th/part1/part6/FillingArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/October10th/Aisle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/October10th/BankTeller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/October10th/BasicGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/October10th/BasicGeneratorDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/October10th/CheckoutStand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/October10th/CountedObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/October10th/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/October10th/ErasedType/ErasedTypeEquivalence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/October10th/Generators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/October10th/GenericMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/October10th/GenericVarargs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/October10th/InstantiateType/ClassAsFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/October10th/InstantiateType/Creator/Creator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/October10th/InstantiateType/Creator/CreatorGeneric.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/October10th/InstantiateType/Creator/GenericWithCreate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/October10th/InstantiateType/Creator/X.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/October10th/InstantiateType/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/October10th/InstantiateType/FactoryConstraint/FactoryConstraint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/October10th/InstantiateType/FactoryConstraint/FactoryI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/October10th/InstantiateType/FactoryConstraint/Foo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/October10th/InstantiateType/FactoryConstraint/IntegerFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/October10th/InstantiateType/FactoryConstraint/Widget.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/October10th/InstantiateType/InstantiateGenericType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/October10th/ListOfGenerics/ListOfGenerics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/October10th/Office.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/October10th/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/October10th/Sets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/October10th/Shelf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/October10th/Store.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/October10th/Teller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/October10th/Tuple/FiveTuple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/October10th/Tuple/FourthTuple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/October10th/Tuple/ThreeTuple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/October10th/Tuple/TwoTuple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/October10th/TupleList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/October15th/Algorithms/RandomNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/October9th/Generator/Americano.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/October9th/Generator/Breve.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/October9th/Generator/Cappuccino.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/October9th/Generator/Coffee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/October9th/Generator/CoffeeGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/October9th/Generator/Fibonacci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/October9th/Generator/Generator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/October9th/Generator/IterableFibonacci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/October9th/Generator/Latte.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/October9th/Generator/Mocha.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/October9th/LinkedStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/October9th/RandomList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProjectTest/test.bpmn2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/September12th/instanceofAndClass/Base.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/September12th/instanceofAndClass/Derived.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/September12th/instanceofAndClass/FamilyVsExactType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/September25th/DynamicProxyHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/September25th/Interface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/September25th/NullObject/Null.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/September25th/NullObject/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/September25th/NullObject/Position.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/September25th/NullObject/Staff.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/September25th/RealObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/September25th/SimpleDynamicProxy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/September25th/SimpleProxy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/September25th/SimpleProxyDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/September6th/ClassCasts/Buliding.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/September6th/ClassCasts/ClassCasts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/September6th/ClassCasts/House.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/September6th/CountedInteger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/September6th/Factory/AirFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/September6th/Factory/Belt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/September6th/Factory/CabinAirFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/September6th/Factory/Factory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/September6th/Factory/FanBelt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/September6th/Factory/Filter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/September6th/Factory/FuelFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/September6th/Factory/GeneratorBelt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/September6th/Factory/OilFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/September6th/Factory/Part.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/September6th/Factory/PowerSteeringBelt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/September6th/Factory/RegisteredFactories.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/September6th/FilledList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/September6th/GenericClassReferences.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/September6th/GenericToyTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/September6th/September6thManegement" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/testList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter16/October31th/part1/part6/CountingGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter16/October31th/part1/part6/Generated.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter16/October31th/part1/part6/GeneratorTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter16/October31th/part1/part7/CompType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter16/October31th/part1/part7/ComparingArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter16/October31th/part1/part7/CopyingArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter17th/part2/CollectionData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter17th/part2/CollectionDataTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter17th/part2/CountingIntegerList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter17th/part2/Countries.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter17th/part2/FillingLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter17th/part2/MapData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter17th/part2/MapDataTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter17th/part2/Pair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter17th/part2/part6th/SortedSetDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter17th/part2/part6th/TypesForSets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter17th/part2/part7th/QueueBehavior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter17th/part2/part7th/ToDoList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter17th/part2/part8th/AssociativeArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter17th/part2/part9th/GroundDog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter17th/part2/part9th/GroundDog2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter17th/part2/part9th/MapEntry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter17th/part2/part9th/Prediction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter17th/part2/part9th/SimpleHashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter17th/part2/part9th/SlowMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter17th/part2/part9th/SpringDetector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter17th/part2/part9th/SpringDetector2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter18th/DirList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter18th/DirList2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter18th/DirList3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter18th/Directory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter18th/PPrint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter18th/part6th/BasicFileOutput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter18th/part6th/BufferedInputFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter18th/part6th/FileOutputShortcut.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter18th/part6th/FormattedMemoryInt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter18th/part6th/MemoryInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter18th/part6th/TestEOF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter18th/part6th/UsingRandomAccessFile.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practie.iml" beforeDir="false" afterPath="$PROJECT_DIR$/practie.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/August30th/Pattern/IntegerMatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August30th/Pattern/IntegerMatch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter16/October31th/part1/part3/Icecream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter16/October31th/part1/part3/Icecream.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter16/October31th/part1/part4/AutoboxingArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter16/October31th/part1/part4/AutoboxingArrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter16/October31th/part1/part5/ParameterizedArrayType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter16/October31th/part1/part5/ParameterizedArrayType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter16/October31th/part1/part6/FillingArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter16/October31th/part1/part6/FillingArrays.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -126,37 +77,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/October10th/InstantiateType/Creator/X.java">
+        <entry file="file://$PROJECT_DIR$/src/Chapter18th/part6th/BufferedInputFile.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="48">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/October10th/InstantiateType/Creator/Creator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
-              <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/October10th/InstantiateType/Creator/CreatorGeneric.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/October10th/ListOfGenerics/ListOfGenerics.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
-              <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
+            <state relative-caret-position="51">
+              <caret line="13" column="56" selection-start-line="13" selection-start-column="56" selection-end-line="13" selection-end-column="56" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -165,71 +89,70 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Chapter16/October31th/part1/ContainerComparison.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="434">
-              <caret line="41" column="1" lean-forward="true" selection-start-line="41" selection-start-column="1" selection-end-line="41" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#148#149#0" expanded="true" />
-                <element signature="e#183#184#0" expanded="true" />
-                <element signature="e#1043#1052#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Chapter16/October31th/part1/part3/Icecream.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="25" column="23" lean-forward="true" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Chapter16/October31th/part1/part4/MutidimensionalPrimitiveArray.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="600">
-              <caret line="25" column="48" selection-start-line="25" selection-start-column="48" selection-end-line="25" selection-end-column="48" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Chapter16/October31th/part1/part4/AutoboxingArrays.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="7" column="51" lean-forward="true" selection-start-line="7" selection-start-column="51" selection-end-line="7" selection-end-column="51" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Chapter16/October31th/part1/part5/ParameterizedArrayType.java">
+        <entry file="file://$PROJECT_DIR$/src/Chapter18th/part6th/MemoryInput.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="240">
-              <caret line="10" column="46" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
+              <caret line="10" column="51" lean-forward="true" selection-start-line="10" selection-start-column="51" selection-end-line="10" selection-end-column="51" />
               <folding>
-                <element signature="e#135#136#0" expanded="true" />
-                <element signature="e#161#162#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Chapter18th/part6th/FormattedMemoryInt.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="13" column="76" selection-start-line="13" selection-start-column="76" selection-end-line="13" selection-end-column="76" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Chapter18th/part6th/TestEOF.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="9" column="88" selection-start-line="9" selection-start-column="88" selection-end-line="9" selection-end-column="88" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Chapter18th/part6th/BasicFileOutput.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="8" column="88" lean-forward="true" selection-start-line="8" selection-start-column="88" selection-end-line="8" selection-end-column="143" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Chapter18th/part6th/FileOutputShortcut.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Chapter16/October31th/part1/part6/FillingArrays.java">
+        <entry file="file://$PROJECT_DIR$/src/Chapter18th/part6th/UsingRandomAccessFile.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="504">
-              <caret line="21" column="45" selection-start-line="21" selection-start-column="45" selection-end-line="21" selection-end-column="45" />
+            <state relative-caret-position="313">
+              <caret line="22" column="106" selection-start-line="22" selection-start-column="106" selection-end-line="22" selection-end-column="106" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -251,65 +174,64 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/October9th/Generator/Generator.java" />
-        <option value="$PROJECT_DIR$/src/October9th/Generator/Coffee.java" />
-        <option value="$PROJECT_DIR$/src/October9th/Generator/Latte.java" />
-        <option value="$PROJECT_DIR$/src/October9th/Generator/Mocha.java" />
-        <option value="$PROJECT_DIR$/src/October9th/Generator/Cappuccino.java" />
-        <option value="$PROJECT_DIR$/src/October9th/Generator/Americano.java" />
-        <option value="$PROJECT_DIR$/src/October9th/Generator/Breve.java" />
-        <option value="$PROJECT_DIR$/src/October9th/Generator/CoffeeGenerator.java" />
-        <option value="$PROJECT_DIR$/src/October9th/Generator/Fibonacci.java" />
-        <option value="$PROJECT_DIR$/src/October9th/Generator/IterableFibonacci.java" />
-        <option value="$PROJECT_DIR$/src/October10th/GenericMethod.java" />
-        <option value="$PROJECT_DIR$/src/October10th/GenericVarargs.java" />
-        <option value="$PROJECT_DIR$/src/October10th/Generators.java" />
-        <option value="$PROJECT_DIR$/src/October10th/BasicGenerator.java" />
-        <option value="$PROJECT_DIR$/src/October10th/BasicGeneratorDemo.java" />
-        <option value="$PROJECT_DIR$/src/October10th/CountedObject.java" />
-        <option value="$PROJECT_DIR$/src/October10th/Tuple.java" />
-        <option value="$PROJECT_DIR$/src/October10th/Sets.java" />
-        <option value="$PROJECT_DIR$/src/October10th/Teller.java" />
-        <option value="$PROJECT_DIR$/src/October10th/Customer.java" />
-        <option value="$PROJECT_DIR$/src/October10th/BankTeller.java" />
-        <option value="$PROJECT_DIR$/src/October10th/Tuple/TwoTuple.java" />
-        <option value="$PROJECT_DIR$/src/October10th/Tuple/ThreeTuple.java" />
-        <option value="$PROJECT_DIR$/src/October10th/Tuple/FourthTuple.java" />
-        <option value="$PROJECT_DIR$/src/October10th/Tuple/FiveTuple.java" />
-        <option value="$PROJECT_DIR$/src/October10th/TupleList.java" />
-        <option value="$PROJECT_DIR$/src/October10th/Product.java" />
-        <option value="$PROJECT_DIR$/src/October10th/Shelf.java" />
-        <option value="$PROJECT_DIR$/src/October10th/Aisle.java" />
-        <option value="$PROJECT_DIR$/src/October10th/Store.java" />
-        <option value="$PROJECT_DIR$/src/October10th/ErasedType/ErasedTypeEquivalence.java" />
-        <option value="$PROJECT_DIR$/src/October10th/InstantiateType/ClassAsFactory.java" />
-        <option value="$PROJECT_DIR$/src/October10th/InstantiateType/InstantiateGenericType.java" />
-        <option value="$PROJECT_DIR$/src/October10th/InstantiateType/FactoryConstraint/FactoryI.java" />
-        <option value="$PROJECT_DIR$/src/October10th/InstantiateType/FactoryConstraint/Foo2.java" />
-        <option value="$PROJECT_DIR$/src/October10th/InstantiateType/FactoryConstraint/IntegerFactory.java" />
-        <option value="$PROJECT_DIR$/src/October10th/InstantiateType/FactoryConstraint/Widget.java" />
-        <option value="$PROJECT_DIR$/src/October10th/InstantiateType/FactoryConstraint/FactoryConstraint.java" />
-        <option value="$PROJECT_DIR$/src/October10th/InstantiateType/Creator/Creator.java" />
-        <option value="$PROJECT_DIR$/src/October10th/InstantiateType/Creator/GenericWithCreate.java" />
-        <option value="$PROJECT_DIR$/src/October10th/InstantiateType/Creator/X.java" />
-        <option value="$PROJECT_DIR$/src/October10th/InstantiateType/Creator/CreatorGeneric.java" />
         <option value="$PROJECT_DIR$/src/October10th/ListOfGenerics/ListOfGenerics.java" />
         <option value="$PROJECT_DIR$/src/Chapter16/October31th/part1/BerylliumSphere.java" />
         <option value="$PROJECT_DIR$/src/Chapter16/October31th/part1/ContainerComparison.java" />
         <option value="$PROJECT_DIR$/src/October15th/Algorithms/RandomNumbers.java" />
-        <option value="$PROJECT_DIR$/src/Chapter16/October31th/part1/part3/Icecream.java" />
         <option value="$PROJECT_DIR$/src/Chapter16/October31th/part1/part4/MutidimensionalPrimitiveArray.java" />
+        <option value="$PROJECT_DIR$/src/Chapter16/October31th/part1/part6/CountingGenerator.java" />
+        <option value="$PROJECT_DIR$/src/Chapter16/October31th/part1/part6/GeneratorTests.java" />
+        <option value="$PROJECT_DIR$/src/Chapter16/October31th/part1/part6/Generated.java" />
+        <option value="$PROJECT_DIR$/src/Chapter16/October31th/part1/part7/CopyingArrays.java" />
+        <option value="$PROJECT_DIR$/src/Chapter16/October31th/part1/part7/ComparingArrays.java" />
+        <option value="$PROJECT_DIR$/src/Chapter16/October31th/part1/part7/CompType.java" />
+        <option value="$PROJECT_DIR$/src/Chapter16/October31th/part1/part3/Icecream.java" />
         <option value="$PROJECT_DIR$/src/Chapter16/October31th/part1/part4/AutoboxingArrays.java" />
         <option value="$PROJECT_DIR$/src/Chapter16/October31th/part1/part5/ParameterizedArrayType.java" />
         <option value="$PROJECT_DIR$/src/Chapter16/October31th/part1/part6/FillingArrays.java" />
+        <option value="$PROJECT_DIR$/src/Chapter17th/part2/FillingLists.java" />
+        <option value="$PROJECT_DIR$/src/Chapter17th/part2/CollectionData.java" />
+        <option value="$PROJECT_DIR$/src/Chapter17th/part2/CollectionDataGeneration.java" />
+        <option value="$PROJECT_DIR$/src/Chapter17th/part2/CollectionDataTest.java" />
+        <option value="$PROJECT_DIR$/src/Chapter17th/part2/pair.java" />
+        <option value="$PROJECT_DIR$/src/Chapter17th/part2/MapData.java" />
+        <option value="$PROJECT_DIR$/src/Chapter17th/part2/MapDataTest.java" />
+        <option value="$PROJECT_DIR$/src/Chapter17th/part2/Countries.java" />
+        <option value="$PROJECT_DIR$/src/Chapter17th/part2/CountingIntegerList.java" />
+        <option value="$PROJECT_DIR$/src/Chapter17th/part2/part6th/TypesForSets.java" />
+        <option value="$PROJECT_DIR$/src/Chapter17th/part2/part6th/SortedSetDemo.java" />
+        <option value="$PROJECT_DIR$/src/Chapter17th/part2/part6th/QueueBehavior.java" />
+        <option value="$PROJECT_DIR$/src/Chapter17th/part2/part7th/QueueBehavior.java" />
+        <option value="$PROJECT_DIR$/src/Chapter17th/part2/part7th/ToDoList.java" />
+        <option value="$PROJECT_DIR$/src/Chapter17th/part2/part8th/AsisociativeArray.java" />
+        <option value="$PROJECT_DIR$/src/Chapter17th/part2/part8th/AssociativeArray.java" />
+        <option value="$PROJECT_DIR$/src/Chapter17th/part2/part9th/GroundDog.java" />
+        <option value="$PROJECT_DIR$/src/Chapter17th/part2/part9th/Prediction.java" />
+        <option value="$PROJECT_DIR$/src/Chapter17th/part2/part9th/SpringDetector.java" />
+        <option value="$PROJECT_DIR$/src/Chapter17th/part2/part9th/GroundDog2.java" />
+        <option value="$PROJECT_DIR$/src/Chapter17th/part2/part9th/SpringDetector2.java" />
+        <option value="$PROJECT_DIR$/src/Chapter17th/part2/part9th/MapEntry.java" />
+        <option value="$PROJECT_DIR$/src/Chapter17th/part2/part9th/SlowMap.java" />
+        <option value="$PROJECT_DIR$/src/Chapter17th/part2/part9th/SimpleHashMap.java" />
+        <option value="$PROJECT_DIR$/src/Chapter18th/DirList2.java" />
+        <option value="$PROJECT_DIR$/src/Chapter18th/DirList3.java" />
+        <option value="$PROJECT_DIR$/src/Chapter18th/DirList.java" />
+        <option value="$PROJECT_DIR$/src/Chapter18th/Directory.java" />
+        <option value="$PROJECT_DIR$/src/Chapter18th/PPrint.java" />
+        <option value="$PROJECT_DIR$/src/Chapter18th/part6th/BufferedInputFile.java" />
+        <option value="$PROJECT_DIR$/src/Chapter18th/part6th/MemoryInput.java" />
+        <option value="$PROJECT_DIR$/src/Chapter18th/part6th/FormattedMemoryInt.java" />
+        <option value="$PROJECT_DIR$/src/Chapter18th/part6th/TestEOF.java" />
+        <option value="$PROJECT_DIR$/src/Chapter18th/part6th/BasicFileOutput.java" />
+        <option value="$PROJECT_DIR$/src/Chapter18th/part6th/FileOutputShortcut.java" />
+        <option value="$PROJECT_DIR$/src/Chapter18th/part6th/UsingRandomAccessFile.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="285" />
-    <option name="y" value="16" />
-    <option name="width" value="1400" />
-    <option name="height" value="1000" />
+    <option name="x" value="-7" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -319,7 +241,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -342,8 +264,14 @@
               <item name="DayliPractice" type="b2602c69:ProjectViewProjectNode" />
               <item name="DayliPractice" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="part1" type="462c0819:PsiDirectoryNode" />
-              <item name="part6" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter18th" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DayliPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DayliPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter18th" type="462c0819:PsiDirectoryNode" />
+              <item name="part6th" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DayliPractice" type="b2602c69:ProjectViewProjectNode" />
@@ -358,7 +286,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -402,13 +330,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FillingArrays">
-    <configuration name="AutoboxingArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter16.October31th.part1.part4.AutoboxingArrays" />
+  <component name="RunManager" selected="Application.UsingRandomAccessFile">
+    <configuration name="BasicFileOutput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter18th.part6th.BasicFileOutput" />
       <module name="practie" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter16.October31th.part1.part4.*" />
+          <option name="PATTERN" value="Chapter18th.part6th.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -416,12 +344,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ContainerComparison" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter16.October31th.part1.ContainerComparison" />
+    <configuration name="FileOutputShortcut" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter18th.part6th.FileOutputShortcut" />
       <module name="practie" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter16.October31th.part1.*" />
+          <option name="PATTERN" value="Chapter18th.part6th.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -429,12 +357,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FillingArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter16.October31th.part1.part6.FillingArrays" />
+    <configuration name="FormattedMemoryInt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter18th.part6th.FormattedMemoryInt" />
       <module name="practie" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter16.October31th.part1.part6.*" />
+          <option name="PATTERN" value="Chapter18th.part6th.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -442,12 +370,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Icecream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter16.October31th.part1.part3.Icecream" />
+    <configuration name="TestEOF" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter18th.part6th.TestEOF" />
       <module name="practie" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter16.October31th.part1.part3.*" />
+          <option name="PATTERN" value="Chapter18th.part6th.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -455,12 +383,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MutidimensionalPrimitiveArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter16.October31th.part1.part4.MutidimensionalPrimitiveArray" />
+    <configuration name="UsingRandomAccessFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter18th.part6th.UsingRandomAccessFile" />
       <module name="practie" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter16.October31th.part1.part4.*" />
+          <option name="PATTERN" value="Chapter18th.part6th.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -469,19 +397,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ContainerComparison" />
-      <item itemvalue="Application.Icecream" />
-      <item itemvalue="Application.MutidimensionalPrimitiveArray" />
-      <item itemvalue="Application.AutoboxingArrays" />
-      <item itemvalue="Application.FillingArrays" />
+      <item itemvalue="Application.FormattedMemoryInt" />
+      <item itemvalue="Application.TestEOF" />
+      <item itemvalue="Application.BasicFileOutput" />
+      <item itemvalue="Application.FileOutputShortcut" />
+      <item itemvalue="Application.UsingRandomAccessFile" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FillingArrays" />
-        <item itemvalue="Application.AutoboxingArrays" />
-        <item itemvalue="Application.MutidimensionalPrimitiveArray" />
-        <item itemvalue="Application.Icecream" />
-        <item itemvalue="Application.ContainerComparison" />
+        <item itemvalue="Application.UsingRandomAccessFile" />
+        <item itemvalue="Application.FileOutputShortcut" />
+        <item itemvalue="Application.BasicFileOutput" />
+        <item itemvalue="Application.TestEOF" />
+        <item itemvalue="Application.FormattedMemoryInt" />
       </list>
     </recent_temporary>
   </component>
@@ -521,7 +449,10 @@
       <workItem from="1570584856351" duration="28839000" />
       <workItem from="1570696553241" duration="4228000" />
       <workItem from="1571104440724" duration="3920000" />
-      <workItem from="1572487593365" duration="8034000" />
+      <workItem from="1572487593365" duration="19035000" />
+      <workItem from="1572832818947" duration="5889000" />
+      <workItem from="1572918290564" duration="7949000" />
+      <workItem from="1573003734916" duration="50302000" />
     </task>
     <task id="LOCAL-00001" summary="“放假”">
       <created>1565943125305</created>
@@ -586,17 +517,24 @@
       <option name="project" value="LOCAL" />
       <updated>1567671262291</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="new">
+      <created>1572530635076</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1572530635076</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="270870000" />
+    <option name="totallyTimeSpent" value="346011000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15884861" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1130064" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -605,7 +543,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.21046771" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32850778" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39933258" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -671,443 +609,78 @@
     <MESSAGE value="“BufferedReader”+&quot;Scanner&quot;" />
     <MESSAGE value="“9月5号的安排”" />
     <MESSAGE value="“类型信息”-class对象，类字面常量" />
-    <option name="LAST_COMMIT_MESSAGE" value="“类型信息”-class对象，类字面常量" />
+    <MESSAGE value="new" />
+    <option name="LAST_COMMIT_MESSAGE" value="new" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/October10th/GenericVarargs.java">
+    <entry file="file://$PROJECT_DIR$/src/Chapter16/October31th/part1/part6/CountingGenerator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="7" column="44" lean-forward="true" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
+        <state relative-caret-position="323">
+          <caret line="22" column="32" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
+          <folding>
+            <element signature="e#475#476#0" expanded="true" />
+            <element signature="e#507#508#0" expanded="true" />
+            <element signature="e#1082#1083#0" expanded="true" />
+            <element signature="e#1124#1125#0" expanded="true" />
+            <element signature="e#1498#1499#0" expanded="true" />
+            <element signature="e#1530#1531#0" expanded="true" />
+            <element signature="e#1689#1690#0" expanded="true" />
+            <element signature="e#1724#1725#0" expanded="true" />
+            <element signature="e#1870#1871#0" expanded="true" />
+            <element signature="e#1905#1906#0" expanded="true" />
+            <element signature="e#2055#2056#0" expanded="true" />
+            <element signature="e#2088#2089#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter16/October31th/part1/part6/Generated.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter16/October31th/part1/part7/CopyingArrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="15" column="41" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter16/October31th/part1/part7/ComparingArrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter16/October31th/part1/part7/CompType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="22" column="41" selection-start-line="22" selection-start-column="41" selection-end-line="22" selection-end-column="41" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#746#747#0" expanded="true" />
+            <element signature="e#828#829#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/October9th/Generator/CoffeeGenerator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="167">
-          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#376#377#0" expanded="true" />
-            <element signature="e#400#401#0" expanded="true" />
-            <element signature="e#893#894#0" expanded="true" />
-            <element signature="e#957#958#0" expanded="true" />
-            <element signature="e#1055#1056#0" expanded="true" />
-            <element signature="e#1098#1099#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/October9th/Generator/Generator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/October10th/BasicGenerator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
-          <folding>
-            <element signature="e#420#421#0" expanded="true" />
-            <element signature="e#464#465#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/October10th/CountedObject.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
-          <folding>
-            <element signature="e#188#189#0" expanded="true" />
-            <element signature="e#223#224#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/October10th/Tuple.java" />
-    <entry file="file://$PROJECT_DIR$/src/October10th/BasicGeneratorDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/October10th/Sets.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="429">
-          <caret line="22" column="79" selection-start-line="22" selection-start-column="79" selection-end-line="22" selection-end-column="79" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/October10th/Teller.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
-          <folding>
-            <element signature="e#222#223#0" expanded="true" />
-            <element signature="e#257#258#0" expanded="true" />
-            <element signature="e#360#361#0" expanded="true" />
-            <element signature="e#403#404#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/October10th/Customer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
-          <folding>
-            <element signature="e#226#227#0" expanded="true" />
-            <element signature="e#263#264#0" expanded="true" />
-            <element signature="e#416#417#0" expanded="true" />
-            <element signature="e#469#470#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/October10th/BankTeller.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
-          <caret line="15" column="8" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#98#99#0" expanded="true" />
-            <element signature="e#119#120#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/October10th/Tuple/TwoTuple.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
-          <folding>
-            <element signature="e#237#238#0" expanded="true" />
-            <element signature="e#285#286#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/October10th/Tuple/ThreeTuple.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="9" column="52" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="52" />
-          <folding>
-            <element signature="e#217#218#0" expanded="true" />
-            <element signature="e#265#266#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/October10th/CheckoutStand.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/October10th/Generators.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="13" column="36" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/October10th/Office.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/October10th/Tuple/FourthTuple.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="9" column="59" selection-start-line="9" selection-start-column="59" selection-end-line="9" selection-end-column="59" />
-          <folding>
-            <element signature="e#234#235#0" expanded="true" />
-            <element signature="e#305#306#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/October10th/Tuple/FiveTuple.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="9" column="70" selection-start-line="9" selection-start-column="70" selection-end-line="9" selection-end-column="70" />
-          <folding>
-            <element signature="e#239#240#0" expanded="true" />
-            <element signature="e#321#322#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/October10th/TupleList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/October10th/Product.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="552">
-          <caret line="25" column="31" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#409#410#0" expanded="true" />
-            <element signature="e#469#470#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/October10th/Shelf.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
-          <folding>
-            <element signature="e#129#130#0" expanded="true" />
-            <element signature="e#194#195#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/October10th/Aisle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="7" column="38" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/October10th/Store.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="7" column="57" selection-start-line="7" selection-start-column="57" selection-end-line="7" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/October10th/InstantiateType.java" />
-    <entry file="file://$PROJECT_DIR$/src/October10th/ErasedType/ErasedTypeEquivalence.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/October10th/InstantiateType/ClassAsFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/October10th/InstantiateType/Employee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/October10th/InstantiateType/InstantiateGenericType.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="7" column="103" selection-start-line="7" selection-start-column="103" selection-end-line="7" selection-end-column="103" />
-          <folding>
-            <element signature="e#176#186#0" expanded="true" />
-            <element signature="e#318#327#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/October10th/InstantiateType/FactoryConstraint/FactoryI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/October10th/InstantiateType/FactoryConstraint/Foo2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
-          <folding>
-            <element signature="e#184#185#0" expanded="true" />
-            <element signature="e#220#221#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/October10th/InstantiateType/FactoryConstraint/IntegerFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
-          <folding>
-            <element signature="e#180#181#0" expanded="true" />
-            <element signature="e#217#218#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/October10th/InstantiateType/FactoryConstraint/Widget.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
-          <folding>
-            <element signature="e#169#170#0" expanded="true" />
-            <element signature="e#212#213#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/JAVA/jdk-12.0.1_windows-x64_bin/jdk-12.0.1/lib/src.zip!/java.compiler/javax/annotation/processing/AbstractProcessor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="59" column="22" selection-start-line="59" selection-start-column="22" selection-end-line="59" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Algorithms/stdlib.jar!/StdRandom.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="648">
-          <caret line="71" column="19" lean-forward="true" selection-start-line="71" selection-start-column="19" selection-end-line="71" selection-end-column="28" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/varAras.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="13" selection-start-column="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Algorithms/stdlib.jar!/Out.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/October10th/InstantiateType/FactoryConstraint/FactoryConstraint.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="5" column="47" selection-start-line="5" selection-start-column="47" selection-end-line="5" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/October10th/InstantiateType/Creator/GenericWithCreate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-          <folding>
-            <element signature="e#128#129#0" expanded="true" />
-            <element signature="e#162#163#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/October10th/InstantiateType/Creator/X.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/October10th/InstantiateType/Creator/Creator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/October10th/InstantiateType/Creator/CreatorGeneric.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Algorithms/stdlib.jar!/BinaryOut.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="15" column="32" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Algorithms/stdlib.jar!/BinaryIn.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="9" column="80" selection-start-line="9" selection-start-column="80" selection-end-line="9" selection-end-column="80" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/October10th/ListOfGenerics/ListOfGenerics.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/October15th/Algorithms/RandomNumbers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Chapter16/October31th/part1/ContainerComparison.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="434">
-          <caret line="41" column="1" lean-forward="true" selection-start-line="41" selection-start-column="1" selection-end-line="41" selection-end-column="1" />
+        <state relative-caret-position="648">
+          <caret line="31" column="39" selection-start-line="31" selection-start-column="39" selection-end-line="31" selection-end-column="39" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#148#149#0" expanded="true" />
-            <element signature="e#183#184#0" expanded="true" />
-            <element signature="e#1043#1052#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Chapter16/October31th/part1/part3/Icecream.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="25" column="23" lean-forward="true" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter16/October31th/part1/part4/MutidimensionalPrimitiveArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="25" column="48" selection-start-line="25" selection-start-column="48" selection-end-line="25" selection-end-column="48" />
+        <state relative-caret-position="648">
+          <caret line="28" column="55" selection-start-line="28" selection-start-column="55" selection-end-line="28" selection-end-column="55" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1116,26 +689,447 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Chapter16/October31th/part1/part4/AutoboxingArrays.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="7" column="51" lean-forward="true" selection-start-line="7" selection-start-column="51" selection-end-line="7" selection-end-column="51" />
+        <state relative-caret-position="240">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Chapter16/October31th/part1/part5/ParameterizedArrayType.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="10" column="46" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
-          <folding>
-            <element signature="e#135#136#0" expanded="true" />
-            <element signature="e#161#162#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="144">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Chapter16/October31th/part1/part6/FillingArrays.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="21" column="45" selection-start-line="21" selection-start-column="45" selection-end-line="21" selection-end-column="45" />
+        <state relative-caret-position="528">
+          <caret line="22" column="48" selection-start-line="22" selection-start-column="48" selection-end-line="22" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/October9th/Generator/Generator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter16/October31th/part1/part4/MutidimensionalPrimitiveArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="10" column="92" selection-start-line="10" selection-start-column="51" selection-end-line="10" selection-end-column="92" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter17th/part2/CollectionDataGeneration.java" />
+    <entry file="file://$PROJECT_DIR$/src/Chapter16/October31th/part1/part6/GeneratorTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="15" column="32" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter17th/part2/CollectionDataTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="18" column="26" lean-forward="true" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#762#763#0" expanded="true" />
+            <element signature="e#804#805#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter17th/part2/CollectionData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="14" column="39" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter17th/part2/FillingLists.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="102" lean-forward="true" selection-start-line="9" selection-start-column="102" selection-end-line="9" selection-end-column="102" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#136#137#0" expanded="true" />
+            <element signature="e#162#163#0" expanded="true" />
+            <element signature="e#192#193#0" expanded="true" />
+            <element signature="e#218#219#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter17th/part2/MapDataTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter17th/part2/MapData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1176">
+          <caret line="49" column="41" selection-start-line="49" selection-start-column="41" selection-end-line="49" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#982#983#0" expanded="true" />
+            <element signature="e#1032#1033#0" expanded="true" />
+            <element signature="e#1425#1426#0" expanded="true" />
+            <element signature="e#1460#1461#0" expanded="true" />
+            <element signature="e#1579#1580#0" expanded="true" />
+            <element signature="e#1611#1612#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter17th/part2/Pair.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/JAVA/jdk-12.0.1_windows-x64_bin/jdk-12.0.1/lib/src.zip!/java.base/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="563" column="7" lean-forward="true" selection-start-line="563" selection-start-column="7" selection-end-line="563" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/JAVA/jdk-12.0.1_windows-x64_bin/jdk-12.0.1/lib/src.zip!/java.base/java/util/AbstractList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="119" column="36" selection-start-line="119" selection-start-column="36" selection-end-line="119" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter17th/part2/Countries.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="15" column="44" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter17th/part2/CountingIntegerList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#429#430#0" expanded="true" />
+            <element signature="e#456#457#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter17th/part2/part6th/TypesForSets.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="52" column="42" selection-start-line="52" selection-start-column="42" selection-end-line="52" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1922#1923#0" expanded="true" />
+            <element signature="e#1943#1944#0" expanded="true" />
+            <element signature="e#2092#2093#0" expanded="true" />
+            <element signature="e#2181#2182#0" expanded="true" />
+            <element signature="e#2211#2212#0" expanded="true" />
+            <element signature="e#2253#2254#0" expanded="true" />
+            <element signature="e#2170#2171#0" expanded="true" />
+            <element signature="e#2220#2221#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter17th/part2/part6th/SortedSetDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter17th/part2/part7th/QueueBehavior.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter17th/part2/part7th/ToDoList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="34" column="79" selection-start-line="34" selection-start-column="79" selection-end-line="34" selection-end-column="79" />
+          <folding>
+            <element signature="e#839#840#0" expanded="true" />
+            <element signature="e#878#879#0" expanded="true" />
+            <element signature="e#972#973#0" expanded="true" />
+            <element signature="e#992#993#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter17th/part2/part8th/AssociativeArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-163">
+          <caret line="18" column="48" selection-start-line="18" selection-start-column="48" selection-end-line="18" selection-end-column="48" />
+          <folding>
+            <element signature="e#166#167#0" expanded="true" />
+            <element signature="e#203#204#0" expanded="true" />
+            <element signature="e#409#439#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter17th/part2/part9th/GroundDog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+          <folding>
+            <element signature="e#114#115#0" expanded="true" />
+            <element signature="e#140#141#0" expanded="true" />
+            <element signature="e#170#171#0" expanded="true" />
+            <element signature="e#194#195#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter17th/part2/part9th/Prediction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter17th/part2/part9th/SpringDetector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="101">
+          <caret line="24" column="84" selection-start-line="24" selection-start-column="84" selection-end-line="24" selection-end-column="84" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter17th/part2/part9th/GroundDog2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="41" lean-forward="true" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
+          <folding>
+            <element signature="e#196#197#0" expanded="true" />
+            <element signature="e#247#248#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter17th/part2/part9th/MapEntry.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="18" column="26" lean-forward="true" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
+          <folding>
+            <element signature="e#472#473#0" expanded="true" />
+            <element signature="e#813#814#0" expanded="true" />
+            <element signature="e#839#840#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/JAVA/jdk-12.0.1_windows-x64_bin/jdk-12.0.1/lib/src.zip!/java.base/java/util/AbstractMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="170" column="6" lean-forward="true" selection-start-line="170" selection-start-column="6" selection-end-line="170" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter17th/part2/part9th/SimpleHashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="63" column="11" selection-start-line="63" selection-start-column="11" selection-end-line="63" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#192#222#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter17th/part2/part9th/SlowMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="485">
+          <caret line="34" column="9" lean-forward="true" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#707#719#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter17th/part2/part9th/SpringDetector2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="40" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/August30th/Pattern/Rudolph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter18th/PPrint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#711#712#0" expanded="true" />
+            <element signature="e#732#733#0" expanded="true" />
+            <element signature="e#805#806#0" expanded="true" />
+            <element signature="e#826#827#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter18th/Directory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="80" column="45" selection-start-line="80" selection-start-column="45" selection-end-line="80" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#541#542#0" expanded="true" />
+            <element signature="e#631#632#0" expanded="true" />
+            <element signature="e#713#714#0" expanded="true" />
+            <element signature="e#763#764#0" expanded="true" />
+            <element signature="e#971#972#0" expanded="true" />
+            <element signature="e#1018#1019#0" expanded="true" />
+            <element signature="e#1175#1176#0" expanded="true" />
+            <element signature="e#1271#1272#0" expanded="true" />
+            <element signature="e#1765#1766#0" expanded="true" />
+            <element signature="e#1822#1823#0" expanded="true" />
+            <element signature="e#1881#1882#0" expanded="true" />
+            <element signature="e#1928#1929#0" expanded="true" />
+            <element signature="e#1974#1975#0" expanded="true" />
+            <element signature="e#2020#2021#0" expanded="true" />
+            <element signature="e#2487#2488#0" expanded="true" />
+            <element signature="e#2545#2546#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter18th/DirList3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="17" column="56" selection-start-line="17" selection-start-column="56" selection-end-line="17" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#582#583#0" expanded="true" />
+            <element signature="e#660#661#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter18th/DirList2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="10" column="62" selection-start-line="10" selection-start-column="62" selection-end-line="10" selection-end-column="62" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#455#456#0" expanded="true" />
+            <element signature="e#525#526#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter18th/DirList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="485">
+          <caret line="29" column="58" lean-forward="true" selection-start-line="29" selection-start-column="58" selection-end-line="29" selection-end-column="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#276#277#0" expanded="true" />
+            <element signature="e#308#309#0" expanded="true" />
+            <element signature="e#838#839#0" expanded="true" />
+            <element signature="e#892#893#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter18th/part6th/BufferedInputFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="13" column="56" selection-start-line="13" selection-start-column="56" selection-end-line="13" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter18th/part6th/FormattedMemoryInt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="13" column="76" selection-start-line="13" selection-start-column="76" selection-end-line="13" selection-end-column="76" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter18th/part6th/MemoryInput.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="51" lean-forward="true" selection-start-line="10" selection-start-column="51" selection-end-line="10" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter18th/part6th/TestEOF.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="9" column="88" selection-start-line="9" selection-start-column="88" selection-end-line="9" selection-end-column="88" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter18th/part6th/BasicFileOutput.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="88" lean-forward="true" selection-start-line="8" selection-start-column="88" selection-end-line="8" selection-end-column="143" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter18th/part6th/FileOutputShortcut.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter18th/part6th/UsingRandomAccessFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="313">
+          <caret line="22" column="106" selection-start-line="22" selection-start-column="106" selection-end-line="22" selection-end-column="106" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
