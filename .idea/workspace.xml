@@ -5,50 +5,237 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3e2b8870-dfde-4e7d-996a-395776690097" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Chapter16/October31th/part1/part6/CountingGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter16/October31th/part1/part6/Generated.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter16/October31th/part1/part6/GeneratorTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter16/October31th/part1/part7/CompType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter16/October31th/part1/part7/ComparingArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter16/October31th/part1/part7/CopyingArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter17th/part2/CollectionData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter17th/part2/CollectionDataTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter17th/part2/CountingIntegerList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter17th/part2/Countries.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter17th/part2/FillingLists.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter17th/part2/MapData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter17th/part2/MapDataTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter17th/part2/Pair.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter17th/part2/part6th/SortedSetDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter17th/part2/part6th/TypesForSets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter17th/part2/part7th/QueueBehavior.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter17th/part2/part7th/ToDoList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter17th/part2/part8th/AssociativeArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter17th/part2/part9th/GroundDog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter17th/part2/part9th/GroundDog2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter17th/part2/part9th/MapEntry.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter17th/part2/part9th/Prediction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter17th/part2/part9th/SimpleHashMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter17th/part2/part9th/SlowMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter17th/part2/part9th/SpringDetector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter17th/part2/part9th/SpringDetector2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter18th/DirList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter18th/DirList2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter18th/DirList3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter18th/Directory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter18th/PPrint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter18th/part6th/BasicFileOutput.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter18th/part6th/BufferedInputFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter18th/part6th/FileOutputShortcut.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter18th/part6th/FormattedMemoryInt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter18th/part6th/MemoryInput.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter18th/part6th/TestEOF.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter18th/part6th/UsingRandomAccessFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/xom_1_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Algorithem/HanioiTowerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter18th/part10th/AvailableCharSets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter18th/part10th/ChannelCopy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter18th/part10th/GetChannel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter18th/part10th/GetData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter18th/part10th/TransferTo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter18th/part11th/GZIPcompres.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter18th/part11th/ZipCompress.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter18th/part12th/Blip3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter18th/part12th/Blips.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter18th/part12th/Logon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter18th/part12th/MyWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter18th/part12th/Worm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter18th/part13th/People.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter18th/part13th/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter18th/part7th/BinaryFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter18th/part7th/TextFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter18th/part8th/ChangeSystemOut.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter18th/part8th/Echo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter18th/part8th/Redirecting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter18th/part9th/OSExecute.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter18th/part9th/OSExecuteDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter18th/part9th/OSExecuteException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter19th/part1/EnumClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter19th/part1/SpaceShip.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter19th/part1/part4/Reflection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter19th/part1/part5/EnumImplementation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter19th/part1/part6/Enums.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter19th/part1/part6/RandomTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter19th/part1/part7/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter19th/part1/part7/Food.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter19th/part1/part7/FoodTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter19th/part1/part7/Meal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter19th/part1/part7/SecurityCategory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter21th/part2/ADaemon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter21th/part2/BasicThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter21th/part2/CachedThreadPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter21th/part2/CallableDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter21th/part2/CaptureUncaughtException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter21th/part2/DaemonFromFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter21th/part2/DaemonThreadFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter21th/part2/DaemonThreadPoolExecutor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter21th/part2/Daemons.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter21th/part2/FixedThreadPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter21th/part2/Joining.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter21th/part2/LiftOff.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter21th/part2/MainThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter21th/part2/MoreBasicThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter21th/part2/SelfManaged.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter21th/part2/SimpleDaemon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter21th/part2/SimplePriorities.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter21th/part2/SimpleThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter21th/part2/SingleThreadExecutor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter21th/part2/SleepingTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter21th/part2/ThreadVaritions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter21th/part2/part3/AtomicEvenGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter21th/part2/part3/AtomicIntegerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter21th/part2/part3/AtomicityTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter21th/part2/part3/AttemptLocking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter21th/part2/part3/CriticalSection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter21th/part2/part3/EvenChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter21th/part2/part3/EvenGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter21th/part2/part3/ExplicitCriticalSection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter21th/part2/part3/IntGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter21th/part2/part3/MutexEvenGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter21th/part2/part3/SerialNumberChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter21th/part2/part3/SerialNumberGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter21th/part2/part3/SychronizedEvenGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter21th/part2/part3/SyncObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter21th/part2/part3/ThreadLocalVariableHolder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter21th/part2/part4/CloseResource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter21th/part2/part4/Interrupting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter21th/part2/part4/Interrupting2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter21th/part2/part4/InterruptingIdiom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter21th/part2/part4/MutiLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter21th/part2/part4/NIOInterruption.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter21th/part2/part4/OrnamentalGarden.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter21th/part2/part5/BlockingQueue/PipedIO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter21th/part2/part5/BlockingQueue/TestBlockingQueues.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter21th/part2/part5/BlockingQueue/ToastOMatic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter21th/part2/part5/NotifyVSNotifyAll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter21th/part2/part5/Restaurant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter21th/part2/part5/WaxOMatic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter21th/part2/part5/WaxOMatic2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter21th/part2/part5/deadLock/Chopstick.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter21th/part2/part5/deadLock/DeadlockingDiningPhilosophers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter21th/part2/part5/deadLock/Philosopher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Utils/StringUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/KMPAlgorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/StringPlusTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter16/October31th/part1/part3/Icecream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter16/October31th/part1/part3/Icecream.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter16/October31th/part1/part4/AutoboxingArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter16/October31th/part1/part4/AutoboxingArrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter16/October31th/part1/part5/ParameterizedArrayType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter16/October31th/part1/part5/ParameterizedArrayType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter16/October31th/part1/part6/FillingArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter16/October31th/part1/part6/FillingArrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practie/A.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August6th/part1_interface/Apply.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practie/August6th/part1_interface/Apply.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August6th/part1_interface/Downcase.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practie/August6th/part1_interface/Downcase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August6th/part1_interface/Processor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practie/August6th/part1_interface/Processor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August6th/part1_interface/Splitter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practie/August6th/part1_interface/Splitter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August6th/part1_interface/Upcase.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practie/August6th/part1_interface/Upcase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August6th/part1_interface/part2_interface/Apply.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practie/August6th/part1_interface/part2_interface/Apply.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August6th/part1_interface/part2_interface/BandPass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practie/August6th/part1_interface/part2_interface/BandPass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August6th/part1_interface/part2_interface/Downcase.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practie/August6th/part1_interface/part2_interface/Downcase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August6th/part1_interface/part2_interface/Filter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practie/August6th/part1_interface/part2_interface/Filter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August6th/part1_interface/part2_interface/FilterAdapter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practie/August6th/part1_interface/part2_interface/FilterAdapter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August6th/part1_interface/part2_interface/FilterProcessor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practie/August6th/part1_interface/part2_interface/FilterProcessor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August6th/part1_interface/part2_interface/HighPass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practie/August6th/part1_interface/part2_interface/HighPass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August6th/part1_interface/part2_interface/LowPass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practie/August6th/part1_interface/part2_interface/LowPass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August6th/part1_interface/part2_interface/Processor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practie/August6th/part1_interface/part2_interface/Processor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August6th/part1_interface/part2_interface/Spliter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practie/August6th/part1_interface/part2_interface/Spliter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August6th/part1_interface/part2_interface/StringProcessor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practie/August6th/part1_interface/part2_interface/StringProcessor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August6th/part1_interface/part2_interface/Upcase.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practie/August6th/part1_interface/part2_interface/Upcase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August6th/part1_interface/part2_interface/Waveform.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practie/August6th/part1_interface/part2_interface/Waveform.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August6th/part1_interface/part3_interface/C.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practie/August6th/part1_interface/part3_interface/C.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August6th/part1_interface/part3_interface/C4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practie/August6th/part1_interface/part3_interface/C4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August6th/part1_interface/part3_interface/I3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practie/August6th/part1_interface/part3_interface/I3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August7th/part1/A$B.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practie/August7th/part1/A$B.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August7th/part1/A$BImp.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practie/August7th/part1/A$BImp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August7th/part1/A$BImp2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practie/August7th/part1/A$BImp2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August7th/part1/A$C.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practie/August7th/part1/A$C.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August7th/part1/A$CImp.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practie/August7th/part1/A$CImp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August7th/part1/A$CImp2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practie/August7th/part1/A$CImp2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August7th/part1/A$D.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practie/August7th/part1/A$D.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August7th/part1/A$DImp.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practie/August7th/part1/A$DImp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August7th/part1/A$DImp2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practie/August7th/part1/A$DImp2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August7th/part1/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practie/August7th/part1/A.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August7th/part1/part2_factoryMethod/Factories.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practie/August7th/part1/part2_factoryMethod/Factories.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August7th/part1/part2_factoryMethod/Implementation1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practie/August7th/part1/part2_factoryMethod/Implementation1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August7th/part1/part2_factoryMethod/Implementation1Factory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practie/August7th/part1/part2_factoryMethod/Implementation1Factory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August7th/part1/part2_factoryMethod/Implementation2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practie/August7th/part1/part2_factoryMethod/Implementation2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August7th/part1/part2_factoryMethod/Implementation2Factory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practie/August7th/part1/part2_factoryMethod/Implementation2Factory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August7th/part1/part2_factoryMethod/Service.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practie/August7th/part1/part2_factoryMethod/Service.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August7th/part1/part2_factoryMethod/ServiceFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practie/August7th/part1/part2_factoryMethod/ServiceFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August7th/part1/part3_factory_game/Checkers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practie/August7th/part1/part3_factory_game/Checkers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August7th/part1/part3_factory_game/CheckersFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practie/August7th/part1/part3_factory_game/CheckersFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August7th/part1/part3_factory_game/Chess.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practie/August7th/part1/part3_factory_game/Chess.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August7th/part1/part3_factory_game/ChessFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practie/August7th/part1/part3_factory_game/ChessFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August7th/part1/part3_factory_game/Game.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practie/August7th/part1/part3_factory_game/Game.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August7th/part1/part3_factory_game/GameFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practie/August7th/part1/part3_factory_game/GameFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August7th/part1/part3_factory_game/Games.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practie/August7th/part1/part3_factory_game/Games.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August7th/part1/part4_innerClasses/Parce1$Contents.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practie/August7th/part1/part4_innerClasses/Parce1$Contents.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August7th/part1/part4_innerClasses/Parce1$Destination.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practie/August7th/part1/part4_innerClasses/Parce1$Destination.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August7th/part1/part4_innerClasses/Parce1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practie/August7th/part1/part4_innerClasses/Parce1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August7th/part1/part4_innerClasses/Parcel2$Contents.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practie/August7th/part1/part4_innerClasses/Parcel2$Contents.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August7th/part1/part4_innerClasses/Parcel2$Destination.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practie/August7th/part1/part4_innerClasses/Parcel2$Destination.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August7th/part1/part4_innerClasses/Parcel2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practie/August7th/part1/part4_innerClasses/Parcel2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August7th/part1/part5_innerClasses/Contents.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practie/August7th/part1/part5_innerClasses/Contents.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August7th/part1/part5_innerClasses/Destination.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practie/August7th/part1/part5_innerClasses/Destination.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August7th/part1/part5_innerClasses/DotNew$Inner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practie/August7th/part1/part5_innerClasses/DotNew$Inner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August7th/part1/part5_innerClasses/DotNew.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practie/August7th/part1/part5_innerClasses/DotNew.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August7th/part1/part5_innerClasses/DotThis$Inner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practie/August7th/part1/part5_innerClasses/DotThis$Inner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August7th/part1/part5_innerClasses/DotThis.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practie/August7th/part1/part5_innerClasses/DotThis.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August7th/part1/part5_innerClasses/Parcel5$1PDestination.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practie/August7th/part1/part5_innerClasses/Parcel5$1PDestination.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August7th/part1/part5_innerClasses/Parcel5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practie/August7th/part1/part5_innerClasses/Parcel5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August7th/part1/part5_innerClasses/Parcel6$1TrackingSlip.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practie/August7th/part1/part5_innerClasses/Parcel6$1TrackingSlip.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August7th/part1/part5_innerClasses/Parcel6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practie/August7th/part1/part5_innerClasses/Parcel6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August7th/part1/part5_innerClasses/Parcel7$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practie/August7th/part1/part5_innerClasses/Parcel7$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August7th/part1/part5_innerClasses/Parcel7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practie/August7th/part1/part5_innerClasses/Parcel7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August7th/part1/part5_innerClasses/Parcel8$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practie/August7th/part1/part5_innerClasses/Parcel8$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August7th/part1/part5_innerClasses/Parcel8.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practie/August7th/part1/part5_innerClasses/Parcel8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August7th/part1/part5_innerClasses/Parcel9$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practie/August7th/part1/part5_innerClasses/Parcel9$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August7th/part1/part5_innerClasses/Parcel9.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practie/August7th/part1/part5_innerClasses/Parcel9.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August7th/part1/part5_innerClasses/Selector.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practie/August7th/part1/part5_innerClasses/Selector.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August7th/part1/part5_innerClasses/Sequence$SequenceSelector.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practie/August7th/part1/part5_innerClasses/Sequence$SequenceSelector.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August7th/part1/part5_innerClasses/Sequence.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practie/August7th/part1/part5_innerClasses/Sequence.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August7th/part1/part5_innerClasses/TestOuterAccess$inner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practie/August7th/part1/part5_innerClasses/TestOuterAccess$inner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August7th/part1/part5_innerClasses/TestOuterAccess.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practie/August7th/part1/part5_innerClasses/TestOuterAccess.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August7th/part1/part5_innerClasses/Wrapping.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practie/August7th/part1/part5_innerClasses/Wrapping.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August8th/Factories.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practie/August8th/Factories.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August8th/Implementation1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practie/August8th/Implementation1$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August8th/Implementation1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practie/August8th/Implementation1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August8th/Implementation2$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practie/August8th/Implementation2$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August8th/Implementation2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practie/August8th/Implementation2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August8th/Service.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practie/August8th/Service.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August8th/ServiceFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practie/August8th/ServiceFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August8th/part2_anonymous/Checkers$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practie/August8th/part2_anonymous/Checkers$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August8th/part2_anonymous/Checkers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practie/August8th/part2_anonymous/Checkers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August8th/part2_anonymous/Chess$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practie/August8th/part2_anonymous/Chess$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August8th/part2_anonymous/Chess.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practie/August8th/part2_anonymous/Chess.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August8th/part2_anonymous/Game.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practie/August8th/part2_anonymous/Game.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August8th/part2_anonymous/GameFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practie/August8th/part2_anonymous/GameFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August8th/part2_anonymous/Games.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practie/August8th/part2_anonymous/Games.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August8th/part2_nested/ClassInInterface$Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practie/August8th/part2_nested/ClassInInterface$Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August8th/part2_nested/ClassInInterface.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practie/August8th/part2_nested/ClassInInterface.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August8th/part2_nested/Parcel11$ParcelContents.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practie/August8th/part2_nested/Parcel11$ParcelContents.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August8th/part2_nested/Parcel11$ParcelDestination$AnotherLevel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practie/August8th/part2_nested/Parcel11$ParcelDestination$AnotherLevel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August8th/part2_nested/Parcel11$ParcelDestination.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practie/August8th/part2_nested/Parcel11$ParcelDestination.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August8th/part2_nested/Parcel11.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practie/August8th/part2_nested/Parcel11.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August8th/part2_nested/practice20$Inner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practie/August8th/part2_nested/practice20$Inner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August8th/part2_nested/practice20.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practie/August8th/part2_nested/practice20.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August8th/part2_nested/practice20Imp.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practie/August8th/part2_nested/practice20Imp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August8th/part3_closure/Callbacks.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practie/August8th/part3_closure/Callbacks.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August8th/part3_closure/Callee1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practie/August8th/part3_closure/Callee1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August8th/part3_closure/Callee2$Closure.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practie/August8th/part3_closure/Callee2$Closure.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August8th/part3_closure/Callee2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practie/August8th/part3_closure/Callee2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August8th/part3_closure/Caller.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practie/August8th/part3_closure/Caller.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August8th/part3_closure/Incrementable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practie/August8th/part3_closure/Incrementable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August8th/part3_closure/MyIncrement.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practie/August8th/part3_closure/MyIncrement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August8th/part4_controller/Controller.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practie/August8th/part4_controller/Controller.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August8th/part4_controller/Event.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practie/August8th/part4_controller/Event.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August8th/part4_controller/GreenHouseController$Bell.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practie/August8th/part4_controller/GreenHouseController$Bell.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August8th/part4_controller/GreenHouseController$LightOff.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practie/August8th/part4_controller/GreenHouseController$LightOff.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August8th/part4_controller/GreenHouseController$LightOn.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practie/August8th/part4_controller/GreenHouseController$LightOn.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August8th/part4_controller/GreenHouseController$Restart.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practie/August8th/part4_controller/GreenHouseController$Restart.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August8th/part4_controller/GreenHouseController$Terminate.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practie/August8th/part4_controller/GreenHouseController$Terminate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August8th/part4_controller/GreenHouseController$ThermostatDay.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practie/August8th/part4_controller/GreenHouseController$ThermostatDay.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August8th/part4_controller/GreenHouseController$ThermostatNight.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practie/August8th/part4_controller/GreenHouseController$ThermostatNight.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August8th/part4_controller/GreenHouseController$WaterOff.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practie/August8th/part4_controller/GreenHouseController$WaterOff.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August8th/part4_controller/GreenHouseController$WaterOn.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practie/August8th/part4_controller/GreenHouseController$WaterOn.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August8th/part4_controller/GreenHouseController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practie/August8th/part4_controller/GreenHouseController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August8th/part4_controller/TestController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practie/August8th/part4_controller/TestController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practie/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/access/local/Foregin.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practie/access/local/Foregin.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/access/local/PackagedClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practie/access/local/PackagedClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/july31th/ConstructPractice/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practie/july31th/ConstructPractice/A.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/july31th/ConstructPractice/B.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practie/july31th/ConstructPractice/B.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/july31th/ConstructPractice/C.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practie/july31th/ConstructPractice/C.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/july31th/ConstructPractice/part2/BroadGame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practie/july31th/ConstructPractice/part2/BroadGame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/july31th/ConstructPractice/part2/Chess.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practie/july31th/ConstructPractice/part2/Chess.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/july31th/ConstructPractice/part2/Game.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practie/july31th/ConstructPractice/part2/Game.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/july31th/ConstructPractice/part3/Amphibian.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practie/july31th/ConstructPractice/part3/Amphibian.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/july31th/ConstructPractice/part3/Frog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practie/july31th/ConstructPractice/part3/Frog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/july31th/ConstructPractice/part4/FinalData.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practie/july31th/ConstructPractice/part4/FinalData.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/july31th/ConstructPractice/part4/Value.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practie/july31th/ConstructPractice/part4/Value.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/july31th/CreateSimple.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practie/july31th/CreateSimple.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/july31th/Simple.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practie/july31th/Simple.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/july31th/main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practie/july31th/main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/newVarArgs.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practie/newVarArgs.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/optionStringArguements.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practie/optionStringArguements.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/spiciness.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practie/spiciness.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/varAras.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practie/varAras.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practie.iml" beforeDir="false" afterPath="$PROJECT_DIR$/practie.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -77,10 +264,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Chapter18th/part6th/BufferedInputFile.java">
+        <entry file="file://$PROJECT_DIR$/src/Chapter21th/part2/part5/NotifyVSNotifyAll.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="13" column="56" selection-start-line="13" selection-start-column="56" selection-end-line="13" selection-end-column="56" />
+            <state relative-caret-position="888">
+              <caret line="62" column="32" selection-start-line="62" selection-start-column="32" selection-end-line="62" selection-end-column="32" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -89,10 +276,40 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Chapter18th/part6th/MemoryInput.java">
+        <entry file="file://$PROJECT_DIR$/src/Chapter21th/part2/part5/BlockingQueue/TestBlockingQueues.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="10" column="51" lean-forward="true" selection-start-line="10" selection-start-column="51" selection-end-line="10" selection-end-column="51" />
+            <state relative-caret-position="380">
+              <caret line="66" column="34" selection-start-line="66" selection-start-column="34" selection-end-line="66" selection-end-column="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#551#552#0" expanded="true" />
+                <element signature="e#582#583#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Chapter21th/part2/part5/BlockingQueue/ToastOMatic.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="336">
+              <caret line="13" column="121" selection-start-line="13" selection-start-column="121" selection-end-line="13" selection-end-column="121" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#756#757#0" expanded="true" />
+                <element signature="e#802#803#0" expanded="true" />
+                <element signature="e#2776#2777#0" expanded="true" />
+                <element signature="e#2816#2817#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Chapter21th/part2/part5/BlockingQueue/PipedIO.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="53" column="79" selection-start-line="53" selection-start-column="79" selection-end-line="53" selection-end-column="79" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -101,55 +318,33 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Chapter18th/part6th/FormattedMemoryInt.java">
+        <entry file="file://$PROJECT_DIR$/src/Chapter21th/part2/part5/deadLock/Chopstick.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="13" column="76" selection-start-line="13" selection-start-column="76" selection-end-line="13" selection-end-column="76" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="72">
+              <caret line="3" column="68" selection-start-line="3" selection-start-column="68" selection-end-line="3" selection-end-column="68" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Chapter18th/part6th/TestEOF.java">
+        <entry file="file://$PROJECT_DIR$/src/Chapter21th/part2/part5/deadLock/Philosopher.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="9" column="88" selection-start-line="9" selection-start-column="88" selection-end-line="9" selection-end-column="88" />
+            <state relative-caret-position="72">
+              <caret line="14" column="23" lean-forward="true" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
               <folding>
                 <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Chapter18th/part6th/BasicFileOutput.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="8" column="88" lean-forward="true" selection-start-line="8" selection-start-column="88" selection-end-line="8" selection-end-column="143" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Chapter18th/part6th/FileOutputShortcut.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
-              <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#1280#1281#0" expanded="true" />
+                <element signature="e#1304#1305#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Chapter18th/part6th/UsingRandomAccessFile.java">
+        <entry file="file://$PROJECT_DIR$/src/Chapter21th/part2/part5/deadLock/DeadlockingDiningPhilosophers.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="313">
-              <caret line="22" column="106" selection-start-line="22" selection-start-column="106" selection-end-line="22" selection-end-column="106" />
+            <state relative-caret-position="408">
+              <caret line="15" column="97" selection-start-line="15" selection-start-column="97" selection-end-line="15" selection-end-column="97" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -164,6 +359,7 @@
       <list>
         <option value="FxmlFile" />
         <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -174,64 +370,64 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/October10th/ListOfGenerics/ListOfGenerics.java" />
-        <option value="$PROJECT_DIR$/src/Chapter16/October31th/part1/BerylliumSphere.java" />
-        <option value="$PROJECT_DIR$/src/Chapter16/October31th/part1/ContainerComparison.java" />
-        <option value="$PROJECT_DIR$/src/October15th/Algorithms/RandomNumbers.java" />
-        <option value="$PROJECT_DIR$/src/Chapter16/October31th/part1/part4/MutidimensionalPrimitiveArray.java" />
-        <option value="$PROJECT_DIR$/src/Chapter16/October31th/part1/part6/CountingGenerator.java" />
-        <option value="$PROJECT_DIR$/src/Chapter16/October31th/part1/part6/GeneratorTests.java" />
-        <option value="$PROJECT_DIR$/src/Chapter16/October31th/part1/part6/Generated.java" />
-        <option value="$PROJECT_DIR$/src/Chapter16/October31th/part1/part7/CopyingArrays.java" />
-        <option value="$PROJECT_DIR$/src/Chapter16/October31th/part1/part7/ComparingArrays.java" />
-        <option value="$PROJECT_DIR$/src/Chapter16/October31th/part1/part7/CompType.java" />
-        <option value="$PROJECT_DIR$/src/Chapter16/October31th/part1/part3/Icecream.java" />
-        <option value="$PROJECT_DIR$/src/Chapter16/October31th/part1/part4/AutoboxingArrays.java" />
-        <option value="$PROJECT_DIR$/src/Chapter16/October31th/part1/part5/ParameterizedArrayType.java" />
-        <option value="$PROJECT_DIR$/src/Chapter16/October31th/part1/part6/FillingArrays.java" />
-        <option value="$PROJECT_DIR$/src/Chapter17th/part2/FillingLists.java" />
-        <option value="$PROJECT_DIR$/src/Chapter17th/part2/CollectionData.java" />
-        <option value="$PROJECT_DIR$/src/Chapter17th/part2/CollectionDataGeneration.java" />
-        <option value="$PROJECT_DIR$/src/Chapter17th/part2/CollectionDataTest.java" />
-        <option value="$PROJECT_DIR$/src/Chapter17th/part2/pair.java" />
-        <option value="$PROJECT_DIR$/src/Chapter17th/part2/MapData.java" />
-        <option value="$PROJECT_DIR$/src/Chapter17th/part2/MapDataTest.java" />
-        <option value="$PROJECT_DIR$/src/Chapter17th/part2/Countries.java" />
-        <option value="$PROJECT_DIR$/src/Chapter17th/part2/CountingIntegerList.java" />
-        <option value="$PROJECT_DIR$/src/Chapter17th/part2/part6th/TypesForSets.java" />
-        <option value="$PROJECT_DIR$/src/Chapter17th/part2/part6th/SortedSetDemo.java" />
-        <option value="$PROJECT_DIR$/src/Chapter17th/part2/part6th/QueueBehavior.java" />
-        <option value="$PROJECT_DIR$/src/Chapter17th/part2/part7th/QueueBehavior.java" />
-        <option value="$PROJECT_DIR$/src/Chapter17th/part2/part7th/ToDoList.java" />
-        <option value="$PROJECT_DIR$/src/Chapter17th/part2/part8th/AsisociativeArray.java" />
-        <option value="$PROJECT_DIR$/src/Chapter17th/part2/part8th/AssociativeArray.java" />
-        <option value="$PROJECT_DIR$/src/Chapter17th/part2/part9th/GroundDog.java" />
-        <option value="$PROJECT_DIR$/src/Chapter17th/part2/part9th/Prediction.java" />
-        <option value="$PROJECT_DIR$/src/Chapter17th/part2/part9th/SpringDetector.java" />
-        <option value="$PROJECT_DIR$/src/Chapter17th/part2/part9th/GroundDog2.java" />
-        <option value="$PROJECT_DIR$/src/Chapter17th/part2/part9th/SpringDetector2.java" />
-        <option value="$PROJECT_DIR$/src/Chapter17th/part2/part9th/MapEntry.java" />
-        <option value="$PROJECT_DIR$/src/Chapter17th/part2/part9th/SlowMap.java" />
-        <option value="$PROJECT_DIR$/src/Chapter17th/part2/part9th/SimpleHashMap.java" />
-        <option value="$PROJECT_DIR$/src/Chapter18th/DirList2.java" />
-        <option value="$PROJECT_DIR$/src/Chapter18th/DirList3.java" />
-        <option value="$PROJECT_DIR$/src/Chapter18th/DirList.java" />
-        <option value="$PROJECT_DIR$/src/Chapter18th/Directory.java" />
-        <option value="$PROJECT_DIR$/src/Chapter18th/PPrint.java" />
-        <option value="$PROJECT_DIR$/src/Chapter18th/part6th/BufferedInputFile.java" />
-        <option value="$PROJECT_DIR$/src/Chapter18th/part6th/MemoryInput.java" />
-        <option value="$PROJECT_DIR$/src/Chapter18th/part6th/FormattedMemoryInt.java" />
-        <option value="$PROJECT_DIR$/src/Chapter18th/part6th/TestEOF.java" />
-        <option value="$PROJECT_DIR$/src/Chapter18th/part6th/BasicFileOutput.java" />
-        <option value="$PROJECT_DIR$/src/Chapter18th/part6th/FileOutputShortcut.java" />
-        <option value="$PROJECT_DIR$/src/Chapter18th/part6th/UsingRandomAccessFile.java" />
+        <option value="$PROJECT_DIR$/src/Chapter21th/part2/LiftOff.java" />
+        <option value="$PROJECT_DIR$/src/Chapter21th/part2/CachedThreadPool.java" />
+        <option value="$PROJECT_DIR$/src/Chapter21th/part2/FixedThreadPool.java" />
+        <option value="$PROJECT_DIR$/src/Chapter21th/part2/SingleThreadExecutor.java" />
+        <option value="$PROJECT_DIR$/src/Chapter21th/part2/CallableDemo.java" />
+        <option value="$PROJECT_DIR$/src/Chapter21th/part2/SleepingTask.java" />
+        <option value="$PROJECT_DIR$/src/Chapter21th/part2/SimplePriorities.java" />
+        <option value="$PROJECT_DIR$/src/Chapter21th/part2/SimpleDaemon.java" />
+        <option value="$PROJECT_DIR$/src/Chapter21th/part2/DaemonThreadFactory.java" />
+        <option value="$PROJECT_DIR$/src/Chapter21th/part2/DaemonFromFactory.java" />
+        <option value="$PROJECT_DIR$/src/Chapter21th/part2/DaemonThreadPoolExecutor.java" />
+        <option value="$PROJECT_DIR$/src/Chapter21th/part2/Daemons.java" />
+        <option value="$PROJECT_DIR$/src/Chapter21th/part2/ADaemon.java" />
+        <option value="$PROJECT_DIR$/src/Chapter21th/part2/SimpleThread.java" />
+        <option value="$PROJECT_DIR$/src/Chapter21th/part2/SelfManaged.java" />
+        <option value="$PROJECT_DIR$/src/Chapter21th/part2/ThreadVaritions.java" />
+        <option value="$PROJECT_DIR$/src/Chapter21th/part2/Joining.java" />
+        <option value="$PROJECT_DIR$/src/Chapter21th/part2/CaptureUncaughtException.java" />
+        <option value="$PROJECT_DIR$/src/Chapter21th/part2/part3/IntGenerator.java" />
+        <option value="$PROJECT_DIR$/src/Chapter21th/part2/part3/EvenChecker.java" />
+        <option value="$PROJECT_DIR$/src/Chapter21th/part2/part3/EvenGenerator.java" />
+        <option value="$PROJECT_DIR$/src/Chapter21th/part2/part3/SychronizedEvenGenerator.java" />
+        <option value="$PROJECT_DIR$/src/Chapter21th/part2/part3/MutexEvenGenerator.java" />
+        <option value="$PROJECT_DIR$/src/Chapter21th/part2/part3/AttemptLocking.java" />
+        <option value="$PROJECT_DIR$/src/Chapter21th/part2/part3/AtomicityTest.java" />
+        <option value="$PROJECT_DIR$/src/Chapter21th/part2/part3/SerialNumberGenerator.java" />
+        <option value="$PROJECT_DIR$/src/Chapter21th/part2/part3/SerialNumberChecker.java" />
+        <option value="$PROJECT_DIR$/src/Chapter21th/part2/part3/AtomicIntegerTest.java" />
+        <option value="$PROJECT_DIR$/src/Chapter21th/part2/part3/AtomicEvenGenerator.java" />
+        <option value="$PROJECT_DIR$/src/Chapter21th/part2/part3/ExplicitCriticalSection.java" />
+        <option value="$PROJECT_DIR$/src/Chapter21th/part2/part3/CriticalSection.java" />
+        <option value="$PROJECT_DIR$/src/Chapter21th/part2/part3/SyncObject.java" />
+        <option value="$PROJECT_DIR$/src/Chapter21th/part2/part3/ThreadLocalVariableHolder.java" />
+        <option value="$PROJECT_DIR$/src/Chapter21th/part2/part4/OrnamentalGarden.java" />
+        <option value="$PROJECT_DIR$/src/Utils/StringUtils.java" />
+        <option value="$PROJECT_DIR$/src/Chapter21th/part2/part4/CloseResource.java" />
+        <option value="$PROJECT_DIR$/src/Chapter21th/part2/part4/NIOInterruption.java" />
+        <option value="$PROJECT_DIR$/src/Chapter21th/part2/part4/MutiLock.java" />
+        <option value="$PROJECT_DIR$/src/Chapter21th/part2/part4/Interrupting2.java" />
+        <option value="$PROJECT_DIR$/src/Chapter21th/part2/part4/InterruptingIdiom.java" />
+        <option value="$PROJECT_DIR$/src/Chapter21th/part2/part5/WaxOMatic.java" />
+        <option value="$PROJECT_DIR$/src/Chapter21th/part2/part4/Interrupting.java" />
+        <option value="$PROJECT_DIR$/src/Chapter21th/part2/part5/NotifyVSNotifyAll.java" />
+        <option value="$PROJECT_DIR$/src/Chapter21th/part2/part5/Restaurant.java" />
+        <option value="$PROJECT_DIR$/src/Chapter21th/part2/part5/WaxOMatic2.java" />
+        <option value="$PROJECT_DIR$/src/Chapter21th/part2/part5/BlockingQueue/TestBlockingQueues.java" />
+        <option value="$PROJECT_DIR$/src/Chapter21th/part2/part5/BlockingQueue/ToastOMatic.java" />
+        <option value="$PROJECT_DIR$/src/Chapter21th/part2/part5/BlockingQueue/PipedIO.java" />
+        <option value="$PROJECT_DIR$/src/Chapter21th/part2/part5/deadLock/Chopstick.java" />
+        <option value="$PROJECT_DIR$/src/Chapter21th/part2/part5/deadLock/Philosopher.java" />
+        <option value="$PROJECT_DIR$/src/Chapter21th/part2/part5/deadLock/DeadlockingDiningPhilosophers.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-7" />
+    <option name="x" value="953" />
     <option name="width" value="974" />
-    <option name="height" value="1047" />
+    <option name="height" value="528" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -241,7 +437,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -258,20 +453,28 @@
               <item name="DayliPractice" type="b2602c69:ProjectViewProjectNode" />
               <item name="DayliPractice" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="part1" type="462c0819:PsiDirectoryNode" />
+              <item name="part2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DayliPractice" type="b2602c69:ProjectViewProjectNode" />
               <item name="DayliPractice" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter18th" type="462c0819:PsiDirectoryNode" />
+              <item name="part2" type="462c0819:PsiDirectoryNode" />
+              <item name="part5" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DayliPractice" type="b2602c69:ProjectViewProjectNode" />
               <item name="DayliPractice" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter18th" type="462c0819:PsiDirectoryNode" />
-              <item name="part6th" type="462c0819:PsiDirectoryNode" />
+              <item name="part2" type="462c0819:PsiDirectoryNode" />
+              <item name="part5" type="462c0819:PsiDirectoryNode" />
+              <item name="deadLock" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DayliPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DayliPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Utils" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DayliPractice" type="b2602c69:ProjectViewProjectNode" />
@@ -280,12 +483,26 @@
             <path>
               <item name="DayliPractice" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="stdlib.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="xom-1.3.2" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="DayliPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="xom-1.3.2" type="70bed36:NamedLibraryElementNode" />
+              <item name="xom-1.3.2.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DayliPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="xom-1.3.2" type="70bed36:NamedLibraryElementNode" />
+              <item name="xom-1.3.2.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="xom" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -303,19 +520,20 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566128134926" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="last_opened_file_path" value="D:/学习/spring/springmvc4" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="August9th" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\practie\DayliPractice\src\util" />
       <recent name="D:\practie\src\August8th" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="August9th" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -330,13 +548,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.UsingRandomAccessFile">
-    <configuration name="BasicFileOutput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter18th.part6th.BasicFileOutput" />
+  <component name="RunManager" selected="Application.DeadlockingDiningPhilosophers">
+    <configuration name="DeadlockingDiningPhilosophers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter21th.part2.part5.deadLock.DeadlockingDiningPhilosophers" />
       <module name="practie" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter18th.part6th.*" />
+          <option name="PATTERN" value="Chapter21th.part2.part5.deadLock.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -344,12 +562,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FileOutputShortcut" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter18th.part6th.FileOutputShortcut" />
+    <configuration name="Restaurant" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter21th.part2.part5.Restaurant" />
       <module name="practie" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter18th.part6th.*" />
+          <option name="PATTERN" value="Chapter21th.part2.part5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -357,12 +575,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FormattedMemoryInt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter18th.part6th.FormattedMemoryInt" />
+    <configuration name="TestBlockingQueues" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter21th.part2.part5.BlockingQueue.TestBlockingQueues" />
       <module name="practie" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter18th.part6th.*" />
+          <option name="PATTERN" value="Chapter21th.part2.part5.BlockingQueue.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -370,12 +588,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestEOF" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter18th.part6th.TestEOF" />
+    <configuration name="ToastOMatic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter21th.part2.part5.BlockingQueue.ToastOMatic" />
       <module name="practie" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter18th.part6th.*" />
+          <option name="PATTERN" value="Chapter21th.part2.part5.BlockingQueue.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -383,12 +601,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UsingRandomAccessFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter18th.part6th.UsingRandomAccessFile" />
+    <configuration name="WaxOMatic2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter21th.part2.part5.WaxOMatic2" />
       <module name="practie" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter18th.part6th.*" />
+          <option name="PATTERN" value="Chapter21th.part2.part5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -397,19 +615,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.FormattedMemoryInt" />
-      <item itemvalue="Application.TestEOF" />
-      <item itemvalue="Application.BasicFileOutput" />
-      <item itemvalue="Application.FileOutputShortcut" />
-      <item itemvalue="Application.UsingRandomAccessFile" />
+      <item itemvalue="Application.Restaurant" />
+      <item itemvalue="Application.WaxOMatic2" />
+      <item itemvalue="Application.TestBlockingQueues" />
+      <item itemvalue="Application.ToastOMatic" />
+      <item itemvalue="Application.DeadlockingDiningPhilosophers" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.UsingRandomAccessFile" />
-        <item itemvalue="Application.FileOutputShortcut" />
-        <item itemvalue="Application.BasicFileOutput" />
-        <item itemvalue="Application.TestEOF" />
-        <item itemvalue="Application.FormattedMemoryInt" />
+        <item itemvalue="Application.DeadlockingDiningPhilosophers" />
+        <item itemvalue="Application.ToastOMatic" />
+        <item itemvalue="Application.TestBlockingQueues" />
+        <item itemvalue="Application.WaxOMatic2" />
+        <item itemvalue="Application.Restaurant" />
       </list>
     </recent_temporary>
   </component>
@@ -452,7 +670,18 @@
       <workItem from="1572487593365" duration="19035000" />
       <workItem from="1572832818947" duration="5889000" />
       <workItem from="1572918290564" duration="7949000" />
-      <workItem from="1573003734916" duration="50302000" />
+      <workItem from="1573003734916" duration="54732000" />
+      <workItem from="1573721730322" duration="1109000" />
+      <workItem from="1573778337488" duration="5648000" />
+      <workItem from="1573864572066" duration="36908000" />
+      <workItem from="1574642678284" duration="1231000" />
+      <workItem from="1574858479275" duration="12888000" />
+      <workItem from="1575465650910" duration="4298000" />
+      <workItem from="1575879905078" duration="8780000" />
+      <workItem from="1575956666922" duration="9890000" />
+      <workItem from="1576069013792" duration="36539000" />
+      <workItem from="1577240511422" duration="30624000" />
+      <workItem from="1577754996005" duration="58814000" />
     </task>
     <task id="LOCAL-00001" summary="“放假”">
       <created>1565943125305</created>
@@ -524,17 +753,24 @@
       <option name="project" value="LOCAL" />
       <updated>1572530635076</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="new">
+      <created>1573626610636</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1573626610636</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="346011000" />
+    <option name="totallyTimeSpent" value="557170000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1130064" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2489339" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -543,15 +779,15 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32850778" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39933258" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3908686" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.24387528" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32962137" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32962137" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32628062" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32739422" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -613,520 +849,559 @@
     <option name="LAST_COMMIT_MESSAGE" value="new" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Chapter16/October31th/part1/part6/CountingGenerator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="22" column="32" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
-          <folding>
-            <element signature="e#475#476#0" expanded="true" />
-            <element signature="e#507#508#0" expanded="true" />
-            <element signature="e#1082#1083#0" expanded="true" />
-            <element signature="e#1124#1125#0" expanded="true" />
-            <element signature="e#1498#1499#0" expanded="true" />
-            <element signature="e#1530#1531#0" expanded="true" />
-            <element signature="e#1689#1690#0" expanded="true" />
-            <element signature="e#1724#1725#0" expanded="true" />
-            <element signature="e#1870#1871#0" expanded="true" />
-            <element signature="e#1905#1906#0" expanded="true" />
-            <element signature="e#2055#2056#0" expanded="true" />
-            <element signature="e#2088#2089#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter16/October31th/part1/part6/Generated.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter16/October31th/part1/part7/CopyingArrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="15" column="41" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter16/October31th/part1/part7/ComparingArrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter16/October31th/part1/part7/CompType.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="22" column="41" selection-start-line="22" selection-start-column="41" selection-end-line="22" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#746#747#0" expanded="true" />
-            <element signature="e#828#829#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter16/October31th/part1/ContainerComparison.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="648">
-          <caret line="31" column="39" selection-start-line="31" selection-start-column="39" selection-end-line="31" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter16/October31th/part1/part3/Icecream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="648">
-          <caret line="28" column="55" selection-start-line="28" selection-start-column="55" selection-end-line="28" selection-end-column="55" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter16/October31th/part1/part4/AutoboxingArrays.java">
+    <entry file="file://$PROJECT_DIR$/src/Chapter21th/part2/SingleThreadExecutor.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter16/October31th/part1/part5/ParameterizedArrayType.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter16/October31th/part1/part6/FillingArrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="22" column="48" selection-start-line="22" selection-start-column="48" selection-end-line="22" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/October9th/Generator/Generator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter16/October31th/part1/part4/MutidimensionalPrimitiveArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="10" column="92" selection-start-line="10" selection-start-column="51" selection-end-line="10" selection-end-column="92" />
+          <caret line="10" column="68" selection-start-line="10" selection-start-column="68" selection-end-line="10" selection-end-column="68" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter17th/part2/CollectionDataGeneration.java" />
-    <entry file="file://$PROJECT_DIR$/src/Chapter16/October31th/part1/part6/GeneratorTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="15" column="32" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter17th/part2/CollectionDataTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="18" column="26" lean-forward="true" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#762#763#0" expanded="true" />
-            <element signature="e#804#805#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter17th/part2/CollectionData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="14" column="39" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter17th/part2/FillingLists.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="9" column="102" lean-forward="true" selection-start-line="9" selection-start-column="102" selection-end-line="9" selection-end-column="102" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#136#137#0" expanded="true" />
-            <element signature="e#162#163#0" expanded="true" />
-            <element signature="e#192#193#0" expanded="true" />
-            <element signature="e#218#219#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter17th/part2/MapDataTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter17th/part2/MapData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1176">
-          <caret line="49" column="41" selection-start-line="49" selection-start-column="41" selection-end-line="49" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#982#983#0" expanded="true" />
-            <element signature="e#1032#1033#0" expanded="true" />
-            <element signature="e#1425#1426#0" expanded="true" />
-            <element signature="e#1460#1461#0" expanded="true" />
-            <element signature="e#1579#1580#0" expanded="true" />
-            <element signature="e#1611#1612#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter17th/part2/Pair.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/JAVA/jdk-12.0.1_windows-x64_bin/jdk-12.0.1/lib/src.zip!/java.base/java/util/List.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="563" column="7" lean-forward="true" selection-start-line="563" selection-start-column="7" selection-end-line="563" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/JAVA/jdk-12.0.1_windows-x64_bin/jdk-12.0.1/lib/src.zip!/java.base/java/util/AbstractList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="119" column="36" selection-start-line="119" selection-start-column="36" selection-end-line="119" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter17th/part2/Countries.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="15" column="44" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter17th/part2/CountingIntegerList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#429#430#0" expanded="true" />
-            <element signature="e#456#457#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter17th/part2/part6th/TypesForSets.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="52" column="42" selection-start-line="52" selection-start-column="42" selection-end-line="52" selection-end-column="42" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1922#1923#0" expanded="true" />
-            <element signature="e#1943#1944#0" expanded="true" />
-            <element signature="e#2092#2093#0" expanded="true" />
-            <element signature="e#2181#2182#0" expanded="true" />
-            <element signature="e#2211#2212#0" expanded="true" />
-            <element signature="e#2253#2254#0" expanded="true" />
-            <element signature="e#2170#2171#0" expanded="true" />
-            <element signature="e#2220#2221#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter17th/part2/part6th/SortedSetDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="317">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter17th/part2/part7th/QueueBehavior.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter17th/part2/part7th/ToDoList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="34" column="79" selection-start-line="34" selection-start-column="79" selection-end-line="34" selection-end-column="79" />
-          <folding>
-            <element signature="e#839#840#0" expanded="true" />
-            <element signature="e#878#879#0" expanded="true" />
-            <element signature="e#972#973#0" expanded="true" />
-            <element signature="e#992#993#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter17th/part2/part8th/AssociativeArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-163">
-          <caret line="18" column="48" selection-start-line="18" selection-start-column="48" selection-end-line="18" selection-end-column="48" />
-          <folding>
-            <element signature="e#166#167#0" expanded="true" />
-            <element signature="e#203#204#0" expanded="true" />
-            <element signature="e#409#439#1" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter17th/part2/part9th/GroundDog.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
-          <folding>
-            <element signature="e#114#115#0" expanded="true" />
-            <element signature="e#140#141#0" expanded="true" />
-            <element signature="e#170#171#0" expanded="true" />
-            <element signature="e#194#195#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter17th/part2/part9th/Prediction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter17th/part2/part9th/SpringDetector.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="101">
-          <caret line="24" column="84" selection-start-line="24" selection-start-column="84" selection-end-line="24" selection-end-column="84" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter17th/part2/part9th/GroundDog2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="4" column="41" lean-forward="true" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
-          <folding>
-            <element signature="e#196#197#0" expanded="true" />
-            <element signature="e#247#248#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter17th/part2/part9th/MapEntry.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="18" column="26" lean-forward="true" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
-          <folding>
-            <element signature="e#472#473#0" expanded="true" />
-            <element signature="e#813#814#0" expanded="true" />
-            <element signature="e#839#840#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/JAVA/jdk-12.0.1_windows-x64_bin/jdk-12.0.1/lib/src.zip!/java.base/java/util/AbstractMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="170" column="6" lean-forward="true" selection-start-line="170" selection-start-column="6" selection-end-line="170" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter17th/part2/part9th/SimpleHashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="63" column="11" selection-start-line="63" selection-start-column="11" selection-end-line="63" selection-end-column="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#192#222#1" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter17th/part2/part9th/SlowMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="485">
-          <caret line="34" column="9" lean-forward="true" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#707#719#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter17th/part2/part9th/SpringDetector2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="5" column="40" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/August30th/Pattern/Rudolph.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter18th/PPrint.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#711#712#0" expanded="true" />
-            <element signature="e#732#733#0" expanded="true" />
-            <element signature="e#805#806#0" expanded="true" />
-            <element signature="e#826#827#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter18th/Directory.java">
+    <entry file="file://$PROJECT_DIR$/src/Chapter21th/part2/CallableDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="265">
-          <caret line="80" column="45" selection-start-line="80" selection-start-column="45" selection-end-line="80" selection-end-column="45" />
+          <caret line="31" column="34" selection-start-line="31" selection-start-column="34" selection-end-line="31" selection-end-column="34" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#541#542#0" expanded="true" />
-            <element signature="e#631#632#0" expanded="true" />
-            <element signature="e#713#714#0" expanded="true" />
-            <element signature="e#763#764#0" expanded="true" />
-            <element signature="e#971#972#0" expanded="true" />
-            <element signature="e#1018#1019#0" expanded="true" />
-            <element signature="e#1175#1176#0" expanded="true" />
-            <element signature="e#1271#1272#0" expanded="true" />
-            <element signature="e#1765#1766#0" expanded="true" />
-            <element signature="e#1822#1823#0" expanded="true" />
-            <element signature="e#1881#1882#0" expanded="true" />
-            <element signature="e#1928#1929#0" expanded="true" />
-            <element signature="e#1974#1975#0" expanded="true" />
-            <element signature="e#2020#2021#0" expanded="true" />
-            <element signature="e#2487#2488#0" expanded="true" />
-            <element signature="e#2545#2546#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter18th/DirList3.java">
+    <entry file="file://$PROJECT_DIR$/src/Chapter21th/part2/SimplePriorities.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="17" column="56" selection-start-line="17" selection-start-column="56" selection-end-line="17" selection-end-column="56" />
+        <state relative-caret-position="336">
+          <caret line="18" column="11" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#582#583#0" expanded="true" />
-            <element signature="e#660#661#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter18th/DirList2.java">
+    <entry file="file://$PROJECT_DIR$/src/Chapter21th/part2/SimpleDaemon.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="10" column="62" selection-start-line="10" selection-start-column="62" selection-end-line="10" selection-end-column="62" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#455#456#0" expanded="true" />
-            <element signature="e#525#526#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="552">
+          <caret line="23" column="40" selection-start-line="23" selection-start-column="40" selection-end-line="23" selection-end-column="40" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter18th/DirList.java">
+    <entry file="file://$PROJECT_DIR$/src/Chapter21th/part2/DaemonThreadFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="485">
-          <caret line="29" column="58" lean-forward="true" selection-start-line="29" selection-start-column="58" selection-end-line="29" selection-end-column="58" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#276#277#0" expanded="true" />
-            <element signature="e#308#309#0" expanded="true" />
-            <element signature="e#838#839#0" expanded="true" />
-            <element signature="e#892#893#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="168">
+          <caret line="7" column="68" selection-start-line="7" selection-start-column="68" selection-end-line="7" selection-end-column="68" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter18th/part6th/BufferedInputFile.java">
+    <entry file="file://$PROJECT_DIR$/src/Chapter21th/part2/DaemonFromFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="13" column="56" selection-start-line="13" selection-start-column="56" selection-end-line="13" selection-end-column="56" />
+        <state relative-caret-position="552">
+          <caret line="25" column="36" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="36" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter18th/part6th/FormattedMemoryInt.java">
+    <entry file="file://$PROJECT_DIR$/src/Chapter21th/part2/DaemonThreadPoolExecutor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="13" column="76" selection-start-line="13" selection-start-column="76" selection-end-line="13" selection-end-column="76" />
+        <state relative-caret-position="144">
+          <caret line="8" column="116" selection-start-line="8" selection-start-column="116" selection-end-line="8" selection-end-column="116" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter18th/part6th/MemoryInput.java">
+    <entry file="file://$PROJECT_DIR$/src/Chapter21th/part2/Daemons.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="10" column="51" lean-forward="true" selection-start-line="10" selection-start-column="51" selection-end-line="10" selection-end-column="51" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="768">
+          <caret line="32" column="68" selection-start-line="32" selection-start-column="68" selection-end-line="32" selection-end-column="68" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter18th/part6th/TestEOF.java">
+    <entry file="file://$PROJECT_DIR$/src/Chapter21th/part2/ADaemon.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="9" column="88" selection-start-line="9" selection-start-column="88" selection-end-line="9" selection-end-column="88" />
+        <state relative-caret-position="504">
+          <caret line="21" column="58" selection-start-line="21" selection-start-column="58" selection-end-line="21" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/JAVA/jdk-12.0.1_windows-x64_bin/jdk-12.0.1/lib/src.zip!/java.base/java/util/concurrent/Executors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4536">
+          <caret line="232" column="78" selection-start-line="232" selection-start-column="78" selection-end-line="232" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter21th/part2/SelfManaged.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter21th/part2/ThreadVaritions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="27" column="9" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
+          <folding>
+            <element signature="e#641#642#0" expanded="true" />
+            <element signature="e#680#681#0" expanded="true" />
+            <element signature="e#740#741#0" expanded="true" />
+            <element signature="e#778#779#0" expanded="true" />
+            <element signature="e#1438#1439#0" expanded="true" />
+            <element signature="e#1485#1486#0" expanded="true" />
+            <element signature="e#2127#2128#0" expanded="true" />
+            <element signature="e#2183#2184#0" expanded="true" />
+            <element signature="e#2330#2331#0" expanded="true" />
+            <element signature="e#2364#2365#0" expanded="true" />
+            <element signature="e#3032#3033#0" expanded="true" />
+            <element signature="e#3118#3119#0" expanded="true" />
+            <element signature="e#3300#3301#0" expanded="true" />
+            <element signature="e#3332#3333#0" expanded="true" />
+            <element signature="e#3893#3894#0" expanded="true" />
+            <element signature="e#3948#3949#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter21th/part2/Joining.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="31" column="59" selection-start-line="31" selection-start-column="59" selection-end-line="31" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter21th/part2/CaptureUncaughtException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="23" column="70" selection-start-line="23" selection-start-column="70" selection-end-line="23" selection-end-column="70" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#427#428#0" expanded="true" />
+            <element signature="e#448#449#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/JAVA/jdk-12.0.1_windows-x64_bin/jdk-12.0.1/lib/src.zip!/java.base/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="1402" column="22" selection-start-line="1402" selection-start-column="22" selection-end-line="1402" selection-end-column="22" />
+          <folding>
+            <element signature="e#19044#19045#0" expanded="true" />
+            <element signature="e#19085#19086#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter21th/part2/SimpleThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-192">
+          <caret line="3" column="35" selection-start-line="3" selection-start-column="35" selection-end-line="3" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter21th/part2/SleepingTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="518">
+          <caret line="25" column="36" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="36" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter18th/part6th/BasicFileOutput.java">
+    <entry file="file://$PROJECT_DIR$/src/Chapter21th/part2/part3/IntGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+          <folding>
+            <element signature="e#264#265#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter21th/part2/part3/EvenGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+          <folding>
+            <element signature="e#298#299#0" expanded="true" />
+            <element signature="e#324#325#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter21th/part2/part3/SychronizedEvenGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="62" selection-start-line="6" selection-start-column="62" selection-end-line="6" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter21th/part2/part3/MutexEvenGenerator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
-          <caret line="8" column="88" lean-forward="true" selection-start-line="8" selection-start-column="88" selection-end-line="8" selection-end-column="143" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter18th/part6th/FileOutputShortcut.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+          <caret line="10" column="41" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter18th/part6th/UsingRandomAccessFile.java">
+    <entry file="file://$PROJECT_DIR$/src/Chapter21th/part2/part3/AttemptLocking.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="313">
-          <caret line="22" column="106" selection-start-line="22" selection-start-column="106" selection-end-line="22" selection-end-column="106" />
+        <state relative-caret-position="1440">
+          <caret line="61" column="42" selection-start-line="61" selection-start-column="42" selection-end-line="61" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter21th/part2/part3/AtomicityTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter21th/part2/part3/SerialNumberChecker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="48" column="78" selection-start-line="48" selection-start-column="78" selection-end-line="48" selection-end-column="78" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter21th/part2/part3/SerialNumberGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="41" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter21th/part2/part3/AtomicEvenGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="93" selection-start-line="10" selection-start-column="93" selection-end-line="10" selection-end-column="93" />
+          <folding>
+            <element signature="e#252#253#0" expanded="true" />
+            <element signature="e#304#305#0" expanded="true" />
+            <element signature="e#348#349#0" expanded="true" />
+            <element signature="e#407#408#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter21th/part2/part3/EvenChecker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="17" column="17" lean-forward="true" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1485#1486#0" expanded="true" />
+            <element signature="e#1511#1512#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter21th/part2/part3/AtomicIntegerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret line="14" column="49" lean-forward="true" selection-start-line="14" selection-start-column="49" selection-end-line="14" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#676#851#0" expanded="true" />
+            <element signature="e#850#851#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter21th/part2/part3/ExplicitCriticalSection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-106">
+          <caret line="20" column="24" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter21th/part2/part3/CriticalSection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="13" column="68" selection-start-line="13" selection-start-column="68" selection-end-line="13" selection-end-column="68" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#630#631#0" expanded="true" />
+            <element signature="e#668#669#0" expanded="true" />
+            <element signature="e#785#786#0" expanded="true" />
+            <element signature="e#850#851#0" expanded="true" />
+            <element signature="e#1323#1324#0" expanded="true" />
+            <element signature="e#1373#1374#0" expanded="true" />
+            <element signature="e#2724#2725#0" expanded="true" />
+            <element signature="e#2752#2753#0" expanded="true" />
+            <element signature="e#2870#2871#0" expanded="true" />
+            <element signature="e#2955#2956#0" expanded="true" />
+            <element signature="e#3129#3130#0" expanded="true" />
+            <element signature="e#3157#3158#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter21th/part2/part3/SyncObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="18" column="20" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
+          <folding>
+            <element signature="e#784#876#0" expanded="true" />
+            <element signature="e#875#876#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter21th/part2/part3/ThreadLocalVariableHolder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1152">
+          <caret line="47" column="21" selection-start-line="47" selection-start-column="21" selection-end-line="47" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#379#380#0" expanded="true" />
+            <element signature="e#403#404#0" expanded="true" />
+            <element signature="e#833#834#0" expanded="true" />
+            <element signature="e#883#884#0" expanded="true" />
+            <element signature="e#926#927#0" expanded="true" />
+            <element signature="e#966#967#0" expanded="true" />
+            <element signature="e#995#996#0" expanded="true" />
+            <element signature="e#1029#1030#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter21th/part2/part4/OrnamentalGarden.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-976">
+          <caret line="34" column="44" lean-forward="true" selection-start-line="34" selection-start-column="44" selection-end-line="34" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1187#1188#0" expanded="true" />
+            <element signature="e#1241#1242#0" expanded="true" />
+            <element signature="e#1804#1805#0" expanded="true" />
+            <element signature="e#1833#1834#0" expanded="true" />
+            <element signature="e#1863#1864#0" expanded="true" />
+            <element signature="e#1916#1917#0" expanded="true" />
+            <element signature="e#1955#1956#0" expanded="true" />
+            <element signature="e#2005#2006#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Utils/StringUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+          <folding>
+            <element signature="e#78#79#0" expanded="true" />
+            <element signature="e#103#104#0" expanded="true" />
+            <element signature="e#166#167#0" expanded="true" />
+            <element signature="e#195#196#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter21th/part2/part4/NIOInterruption.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="48" column="58" selection-start-line="48" selection-start-column="58" selection-end-line="48" selection-end-column="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#609#610#0" expanded="true" />
+            <element signature="e#636#637#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter21th/part2/part4/MutiLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="9" column="56" selection-start-line="9" selection-start-column="56" selection-end-line="9" selection-end-column="56" />
+          <folding>
+            <element signature="e#696#797#0" expanded="true" />
+            <element signature="e#796#797#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter21th/part2/part4/CloseResource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="536">
+          <caret line="26" column="18" lean-forward="true" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter21th/part2/part4/Interrupting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1184">
+          <caret line="83" column="41" selection-start-line="83" selection-start-column="41" selection-end-line="83" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter21th/part2/part4/Interrupting2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#312#313#0" expanded="true" />
+            <element signature="e#339#340#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter21th/part2/part4/InterruptingIdiom.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="85" column="16" selection-start-line="85" selection-start-column="16" selection-end-line="85" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#302#303#0" expanded="true" />
+            <element signature="e#344#345#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter21th/part2/part5/WaxOMatic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="23" column="11" lean-forward="true" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter21th/part2/part5/WaxOMatic2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-880">
+          <caret line="41" column="65" selection-start-line="41" selection-start-column="65" selection-end-line="41" selection-end-column="65" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1714#1715#0" expanded="true" />
+            <element signature="e#1737#1738#0" expanded="true" />
+            <element signature="e#2222#2223#0" expanded="true" />
+            <element signature="e#2245#2246#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter21th/part2/part5/Restaurant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="23" column="32" lean-forward="true" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#161#162#0" expanded="true" />
+            <element signature="e#185#186#0" expanded="true" />
+            <element signature="e#397#398#0" expanded="true" />
+            <element signature="e#427#428#0" expanded="true" />
+            <element signature="e#1160#1161#0" expanded="true" />
+            <element signature="e#1190#1191#0" expanded="true" />
+            <element signature="e#2473#2474#0" expanded="true" />
+            <element signature="e#2505#2506#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter21th/part2/part5/NotifyVSNotifyAll.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="888">
+          <caret line="62" column="32" selection-start-line="62" selection-start-column="32" selection-end-line="62" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter21th/part2/LiftOff.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="18" lean-forward="true" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter21th/part2/part5/BlockingQueue/TestBlockingQueues.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="66" column="34" selection-start-line="66" selection-start-column="34" selection-end-line="66" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#551#552#0" expanded="true" />
+            <element signature="e#582#583#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter21th/part2/part5/BlockingQueue/ToastOMatic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="13" column="121" selection-start-line="13" selection-start-column="121" selection-end-line="13" selection-end-column="121" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#756#757#0" expanded="true" />
+            <element signature="e#802#803#0" expanded="true" />
+            <element signature="e#2776#2777#0" expanded="true" />
+            <element signature="e#2816#2817#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter21th/part2/part5/BlockingQueue/PipedIO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="53" column="79" selection-start-line="53" selection-start-column="79" selection-end-line="53" selection-end-column="79" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter21th/part2/part5/deadLock/Chopstick.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" column="68" selection-start-line="3" selection-start-column="68" selection-end-line="3" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter21th/part2/part5/deadLock/Philosopher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="14" column="23" lean-forward="true" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1280#1281#0" expanded="true" />
+            <element signature="e#1304#1305#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter21th/part2/part5/deadLock/DeadlockingDiningPhilosophers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="15" column="97" selection-start-line="15" selection-start-column="97" selection-end-line="15" selection-end-column="97" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1198,7 +1473,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>stdlib</last-edited>
+          <last-edited>xom-1.3.2</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
