@@ -2,16 +2,51 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3e2b8870-dfde-4e7d-996a-395776690097" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/August18th/LinkedListFeatures.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/August18th/MapOfList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/August18th/PetMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/August18th/QueueDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/August18th/SetOfInteger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/August18th/SetOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/August18th/Stack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/August18th/StackTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/August18th/Statistics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August6th/part1_interface/Apply.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August6th/part1_interface/Downcase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August6th/part1_interface/Processor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August6th/part1_interface/Splitter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August6th/part1_interface/Upcase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August6th/part1_interface/part2_interface/Apply.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August6th/part1_interface/part2_interface/BandPass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August6th/part1_interface/part2_interface/Downcase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August6th/part1_interface/part2_interface/Filter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August6th/part1_interface/part2_interface/FilterAdapter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August6th/part1_interface/part2_interface/FilterProcessor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August6th/part1_interface/part2_interface/HighPass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August6th/part1_interface/part2_interface/LowPass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August6th/part1_interface/part2_interface/Processor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August6th/part1_interface/part2_interface/Spliter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August6th/part1_interface/part2_interface/StringProcessor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August6th/part1_interface/part2_interface/Upcase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August6th/part1_interface/part2_interface/Waveform.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August6th/part1_interface/part3_interface/C.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August6th/part1_interface/part3_interface/C4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August6th/part1_interface/part3_interface/I3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/August6th/part1_interface/Apply.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August6th/processor/Apply.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/August6th/part1_interface/Downcase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August6th/processor/Downcase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/August6th/part1_interface/Processor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August6th/processor/Processor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/August6th/part1_interface/Splitter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August6th/processor/Splitter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/August6th/part1_interface/Upcase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August6th/processor/Upcase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/August6th/part1_interface/part2_interface/Apply.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August6th/part2_interface/stringProcessor/Apply.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/August6th/part1_interface/part2_interface/BandPass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August6th/part2_interface/filter/BandPass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/August6th/part1_interface/part2_interface/Downcase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August6th/part2_interface/stringProcessor/Downcase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/August6th/part1_interface/part2_interface/Filter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August6th/part2_interface/filter/Filter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/August6th/part1_interface/part2_interface/FilterAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August6th/part2_interface/filter/FilterAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/August6th/part1_interface/part2_interface/FilterProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August6th/part2_interface/filter/FilterProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/August6th/part1_interface/part2_interface/HighPass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August6th/part2_interface/filter/HighPass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/August6th/part1_interface/part2_interface/LowPass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August6th/part2_interface/filter/LowPass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/August6th/part1_interface/part2_interface/Processor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August6th/part2_interface/stringProcessor/Processor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/August6th/part1_interface/part2_interface/Spliter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August6th/part2_interface/stringProcessor/Spliter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/August6th/part1_interface/part2_interface/StringProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August6th/part2_interface/stringProcessor/StringProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/August6th/part1_interface/part2_interface/Upcase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August6th/part2_interface/stringProcessor/Upcase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/August6th/part1_interface/part2_interface/Waveform.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August6th/part2_interface/filter/Waveform.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/August6th/part1_interface/part3_interface/C.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August6th/part3_interface/C.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/August6th/part1_interface/part3_interface/C4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August6th/part3_interface/C4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/August6th/part1_interface/part3_interface/I3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August6th/part3_interface/I3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/access/local/PackagedClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/access/local/PackagedClass.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -39,127 +74,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/August14th/ListIteration.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="529">
-              <caret line="34" column="10" selection-start-line="34" selection-start-column="10" selection-end-line="34" selection-end-column="10" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/August18th/LinkedListFeatures.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="128">
-              <caret line="31" column="70" selection-start-line="31" selection-start-column="70" selection-end-line="31" selection-end-column="70" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/August18th/Stack.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="10" column="55" selection-start-line="10" selection-start-column="55" selection-end-line="10" selection-end-column="55" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/August18th/StackTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="48">
-              <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
-              <folding>
-                <element signature="e#122#130#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/August18th/SetOfInteger.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="128">
-              <caret line="9" column="47" selection-start-line="9" selection-start-column="47" selection-end-line="9" selection-end-column="47" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#249#258#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/August18th/SetOperation.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="224">
-              <caret line="18" selection-start-line="18" selection-end-line="18" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#180#188#0" expanded="true" />
-                <element signature="e#450#458#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/August18th/Statistics.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="10" column="36" lean-forward="true" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#247#265#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/August18th/PetMap.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="296">
-              <caret line="20" column="51" selection-start-line="20" selection-start-column="51" selection-end-line="20" selection-end-column="51" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#206#219#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/August18th/MapOfList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="23" column="47" selection-start-line="23" selection-start-column="47" selection-end-line="23" selection-end-column="47" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#334#363#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/August18th/QueueDemo.java">
+        <entry file="file://$PROJECT_DIR$/src/August7th/part1/A.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#427#436#0" expanded="true" />
-                <element signature="e#632#643#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="-472">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -180,21 +99,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/August8th/part2_anonymous/Chess.java" />
-        <option value="$PROJECT_DIR$/src/August8th/part2_nested/Parcel11.java" />
-        <option value="$PROJECT_DIR$/src/August8th/part2_nested/ClassInInterface.java" />
-        <option value="$PROJECT_DIR$/src/August8th/part2_nested/practice20.java" />
-        <option value="$PROJECT_DIR$/src/August8th/part2_nested/practice20Imp.java" />
-        <option value="$PROJECT_DIR$/src/August8th/part3_closure/MyIncrement.java" />
-        <option value="$PROJECT_DIR$/src/August8th/part3_closure/Increment.java" />
-        <option value="$PROJECT_DIR$/src/August8th/part3_closure/Callee1.java" />
-        <option value="$PROJECT_DIR$/src/August8th/part3_closure/Callee2.java" />
-        <option value="$PROJECT_DIR$/src/August8th/part3_closure/Caller.java" />
-        <option value="$PROJECT_DIR$/src/August8th/part3_closure/Callbacks.java" />
-        <option value="$PROJECT_DIR$/src/August8th/part4_controller/Event.java" />
-        <option value="$PROJECT_DIR$/src/August8th/part4_controller/Controller.java" />
-        <option value="$PROJECT_DIR$/src/August8th/part4_controller/GreenHouseController.java" />
-        <option value="$PROJECT_DIR$/src/August8th/part4_controller/TestController.java" />
         <option value="$PROJECT_DIR$/src/August9th/NameChecker.java" />
         <option value="$PROJECT_DIR$/src/August9th/Executer.java" />
         <option value="$PROJECT_DIR$/src/August9th/Person.java" />
@@ -231,6 +135,21 @@
         <option value="$PROJECT_DIR$/src/August18th/PetMap.java" />
         <option value="$PROJECT_DIR$/src/August18th/MapOfList.java" />
         <option value="$PROJECT_DIR$/src/August18th/QueueDemo.java" />
+        <option value="$PROJECT_DIR$/src/access/local/PackagedClass.java" />
+        <option value="$PROJECT_DIR$/src/August6th/part1_interface/Apply.java" />
+        <option value="$PROJECT_DIR$/src/August6th/part1_interface/Upcase.java" />
+        <option value="$PROJECT_DIR$/src/August6th/part1_interface/Splitter.java" />
+        <option value="$PROJECT_DIR$/src/August6th/part1_interface/Processor.java" />
+        <option value="$PROJECT_DIR$/src/August6th/part1_interface/part2_interface/Apply.java" />
+        <option value="$PROJECT_DIR$/src/August6th/part1_interface/part2_interface/BandPass.java" />
+        <option value="$PROJECT_DIR$/src/August6th/part1_interface/part2_interface/filter/BandPass.java" />
+        <option value="$PROJECT_DIR$/src/August6th/part1_interface/part2_interface/stringProcessor/StringProcessor.java" />
+        <option value="$PROJECT_DIR$/src/August6th/part2_interface/stringProcessor/StringProcessor.java" />
+        <option value="$PROJECT_DIR$/src/August6th/part2_interface/stringProcessor/Processor.java" />
+        <option value="$PROJECT_DIR$/src/August6th/part2_interface/stringProcessor/Upcase.java" />
+        <option value="$PROJECT_DIR$/src/August6th/part2_interface/filter/FilterProcessor.java" />
+        <option value="$PROJECT_DIR$/src/August6th/part2_interface/stringProcessor/Apply.java" />
+        <option value="$PROJECT_DIR$/src/August6th/part3_interface/C4.java" />
       </list>
     </option>
   </component>
@@ -264,7 +183,13 @@
               <item name="DayliPractice" type="b2602c69:ProjectViewProjectNode" />
               <item name="DayliPractice" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="August18th" type="462c0819:PsiDirectoryNode" />
+              <item name="local" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DayliPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DayliPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="part1" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -286,7 +211,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566128134926" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1580272444886" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="Lombok plugin" />
   </component>
@@ -310,13 +235,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.QueueDemo">
-    <configuration name="MapOfList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="August18th.MapOfList" />
+  <component name="RunManager" selected="Application.C4">
+    <configuration name="Apply" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="August6th.part1_interface.Apply" />
       <module name="practie" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="August18th.*" />
+          <option name="PATTERN" value="August6th.part1_interface.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -324,8 +249,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PetMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="August18th.PetMap" />
+    <configuration name="C4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="August6th.part3_interface.C4" />
+      <module name="practie" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="August6th.part3_interface.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FilterProcessor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="August6th.part2_interface.filter.FilterProcessor" />
+      <module name="practie" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="August6th.part2_interface.filter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MapOfList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="August18th.MapOfList" />
       <module name="practie" />
       <extension name="coverage">
         <pattern>
@@ -350,46 +301,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SetOfInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="August18th.SetOfInteger" />
-      <module name="practie" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="August18th.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SetOperation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="August18th.SetOperation" />
-      <module name="practie" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="August18th.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Application.SetOfInteger" />
-      <item itemvalue="Application.SetOperation" />
-      <item itemvalue="Application.PetMap" />
       <item itemvalue="Application.MapOfList" />
       <item itemvalue="Application.QueueDemo" />
+      <item itemvalue="Application.Apply" />
+      <item itemvalue="Application.FilterProcessor" />
+      <item itemvalue="Application.C4" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.C4" />
+        <item itemvalue="Application.FilterProcessor" />
+        <item itemvalue="Application.Apply" />
         <item itemvalue="Application.QueueDemo" />
         <item itemvalue="Application.MapOfList" />
-        <item itemvalue="Application.PetMap" />
-        <item itemvalue="Application.SetOperation" />
-        <item itemvalue="Application.SetOfInteger" />
       </list>
     </recent_temporary>
   </component>
@@ -410,6 +335,7 @@
       <workItem from="1565750301099" duration="8779000" />
       <workItem from="1565937195660" duration="5486000" />
       <workItem from="1566115985498" duration="8504000" />
+      <workItem from="1580112126351" duration="6812000" />
     </task>
     <task id="LOCAL-00001" summary="“放假”">
       <created>1565943125305</created>
@@ -422,13 +348,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="90456000" />
+    <option name="totallyTimeSpent" value="97268000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16792738" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17019667" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -437,7 +362,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32764506" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3327645" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39933258" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -459,7 +384,7 @@
       <window_info anchor="right" id="Palette&#9;" order="8" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13059701" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17019667" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -468,8 +393,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32925472" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.19112629" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39933258" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -478,7 +403,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.32925472" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32764506" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -498,282 +423,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="“放假”" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/August8th/part2_nested/Parcel11.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="505">
-          <caret line="41" column="9" selection-start-line="41" selection-start-column="9" selection-end-line="41" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#225#226#0" expanded="true" />
-            <element signature="e#256#257#0" expanded="true" />
-            <element signature="e#468#469#0" expanded="true" />
-            <element signature="e#506#507#0" expanded="true" />
-            <element signature="e#562#563#0" expanded="true" />
-            <element signature="e#596#597#0" expanded="true" />
-            <element signature="e#875#876#0" expanded="true" />
-            <element signature="e#920#921#0" expanded="true" />
-            <element signature="e#961#962#0" expanded="true" />
-            <element signature="e#1003#1004#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/August8th/part2_nested/practice20Imp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
-          <folding>
-            <element signature="e#102#103#0" expanded="true" />
-            <element signature="e#147#148#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/August8th/part3_closure/Incrementable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/August8th/part3_closure/Caller.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="8" column="38" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
-          <folding>
-            <element signature="e#130#131#0" expanded="true" />
-            <element signature="e#167#168#0" expanded="true" />
-            <element signature="e#184#185#0" expanded="true" />
-            <element signature="e#216#217#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/August8th/part3_closure/MyIncrement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
-          <folding>
-            <element signature="e#88#89#0" expanded="true" />
-            <element signature="e#109#110#0" expanded="true" />
-            <element signature="e#176#177#0" expanded="true" />
-            <element signature="e#193#194#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/August8th/part3_closure/Callee1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="45" selection-start-line="2" selection-start-column="45" selection-end-line="2" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/August8th/part3_closure/Callee2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
-          <folding>
-            <element signature="e#313#314#0" expanded="true" />
-            <element signature="e#361#362#0" expanded="true" />
-            <element signature="e#409#410#0" expanded="true" />
-            <element signature="e#445#446#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/August8th/part3_closure/Callbacks.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="5" column="31" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../JAVA/jdk-12.0.1_windows-x64_bin/jdk-12.0.1/lib/src.zip!/java.base/java/lang/System.java" />
-    <entry file="jar://$PROJECT_DIR$/../JAVA/jdk-12.0.1_windows-x64_bin/jdk-12.0.1/lib/src.zip!/java.base/java/util/ArrayList.java" />
-    <entry file="file://$PROJECT_DIR$/src/August8th/part4_controller/TestController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/August8th/part4_controller/GreenHouseController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="56" selection-start-line="56" selection-end-line="56" />
-          <folding>
-            <element signature="e#204#205#0" expanded="true" />
-            <element signature="e#232#233#0" expanded="true" />
-            <element signature="e#274#275#0" expanded="true" />
-            <element signature="e#309#310#0" expanded="true" />
-            <element signature="e#344#345#0" expanded="true" />
-            <element signature="e#387#388#0" expanded="true" />
-            <element signature="e#476#477#0" expanded="true" />
-            <element signature="e#504#505#0" expanded="true" />
-            <element signature="e#546#547#0" expanded="true" />
-            <element signature="e#582#583#0" expanded="true" />
-            <element signature="e#617#618#0" expanded="true" />
-            <element signature="e#649#650#0" expanded="true" />
-            <element signature="e#785#786#0" expanded="true" />
-            <element signature="e#813#814#0" expanded="true" />
-            <element signature="e#855#856#0" expanded="true" />
-            <element signature="e#891#892#0" expanded="true" />
-            <element signature="e#926#927#0" expanded="true" />
-            <element signature="e#958#959#0" expanded="true" />
-            <element signature="e#1057#1058#0" expanded="true" />
-            <element signature="e#1085#1086#0" expanded="true" />
-            <element signature="e#1127#1128#0" expanded="true" />
-            <element signature="e#1162#1163#0" expanded="true" />
-            <element signature="e#1197#1198#0" expanded="true" />
-            <element signature="e#1229#1230#0" expanded="true" />
-            <element signature="e#1372#1373#0" expanded="true" />
-            <element signature="e#1400#1401#0" expanded="true" />
-            <element signature="e#1442#1443#0" expanded="true" />
-            <element signature="e#1520#1521#0" expanded="true" />
-            <element signature="e#1552#1553#0" expanded="true" />
-            <element signature="e#1687#1688#0" expanded="true" />
-            <element signature="e#1718#1719#0" expanded="true" />
-            <element signature="e#1757#1758#0" expanded="true" />
-            <element signature="e#1795#1796#0" expanded="true" />
-            <element signature="e#1833#1834#0" expanded="true" />
-            <element signature="e#1865#1866#0" expanded="true" />
-            <element signature="e#2054#2055#0" expanded="true" />
-            <element signature="e#2082#2083#0" expanded="true" />
-            <element signature="e#2124#2125#0" expanded="true" />
-            <element signature="e#2162#2163#0" expanded="true" />
-            <element signature="e#2215#2216#0" expanded="true" />
-            <element signature="e#2247#2248#0" expanded="true" />
-            <element signature="e#2926#2927#0" expanded="true" />
-            <element signature="e#2976#2977#0" expanded="true" />
-            <element signature="e#3048#3049#0" expanded="true" />
-            <element signature="e#3076#3077#0" expanded="true" />
-            <element signature="e#3168#3169#0" expanded="true" />
-            <element signature="e#3200#3201#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/August8th/part4_controller/Controller.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#164#171#0" expanded="true" />
-            <element signature="e#208#209#0" expanded="true" />
-            <element signature="e#240#241#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/August8th/part4_controller/Event.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-          <folding>
-            <element signature="e#456#457#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/August9th/Executer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/August9th/Collections/AddingGroups.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="18" column="84" selection-start-line="18" selection-start-column="84" selection-end-line="18" selection-end-column="84" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#216#225#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/August9th/NameChecker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/August9th/Collections/PrintingContainers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="489">
-          <caret line="27" column="65" selection-start-line="27" selection-start-column="65" selection-end-line="27" selection-end-column="65" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/common/Individual.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-112">
-          <caret line="49" column="27" selection-start-line="49" selection-start-column="27" selection-end-line="49" selection-end-column="27" />
-          <folding>
-            <element signature="e#255#256#0" expanded="true" />
-            <element signature="e#287#288#0" expanded="true" />
-            <element signature="e#374#375#0" expanded="true" />
-            <element signature="e#451#452#0" expanded="true" />
-            <element signature="e#522#523#0" expanded="true" />
-            <element signature="e#547#548#0" expanded="true" />
-            <element signature="e#646#647#0" expanded="true" />
-            <element signature="e#720#721#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/common/pets/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/common/pets/Pet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
-          <folding>
-            <element signature="e#114#115#0" expanded="true" />
-            <element signature="e#140#141#0" expanded="true" />
-            <element signature="e#159#160#0" expanded="true" />
-            <element signature="e#181#182#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/common/pets/Dog.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/common/pets/Mutt.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/common/pets/Pug.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/common/pets/Cat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/common/pets/EgyptianMau.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
@@ -903,9 +552,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/August9th/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-334">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/August14th/ListIteration.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="529">
+        <state relative-caret-position="720">
           <caret line="34" column="10" selection-start-line="34" selection-start-column="10" selection-end-line="34" selection-end-column="10" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -915,7 +574,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/August18th/LinkedListFeatures.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
+        <state relative-caret-position="600">
           <caret line="31" column="70" selection-start-line="31" selection-start-column="70" selection-end-line="31" selection-end-column="70" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -932,63 +591,35 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/August18th/StackTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
+        <state relative-caret-position="72">
           <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
-          <folding>
-            <element signature="e#122#130#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/August18th/SetOfInteger.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
+        <state relative-caret-position="144">
           <caret line="9" column="47" selection-start-line="9" selection-start-column="47" selection-end-line="9" selection-end-column="47" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#249#258#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/August18th/SetOperation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
+        <state relative-caret-position="384">
           <caret line="18" selection-start-line="18" selection-end-line="18" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#180#188#0" expanded="true" />
-            <element signature="e#450#458#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/August18th/Statistics.java">
+    <entry file="file://$PROJECT_DIR$/src/August18th/QueueDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="10" column="36" lean-forward="true" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#247#265#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/August18th/PetMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="296">
-          <caret line="20" column="51" selection-start-line="20" selection-start-column="51" selection-end-line="20" selection-end-column="51" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#206#219#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/August9th/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-334">
-          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+        <state relative-caret-position="272">
+          <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1001,20 +632,210 @@
           <caret line="23" column="47" selection-start-line="23" selection-start-column="47" selection-end-line="23" selection-end-column="47" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#334#363#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/August18th/QueueDemo.java">
+    <entry file="file://$PROJECT_DIR$/src/August18th/PetMap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+        <state relative-caret-position="320">
+          <caret line="20" column="51" selection-start-line="20" selection-start-column="51" selection-end-line="20" selection-end-column="51" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#427#436#0" expanded="true" />
-            <element signature="e#632#643#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/August18th/Statistics.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="10" column="36" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/A.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/access/local/Foregin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/access/local/PackagedClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="5" column="44" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/August6th/processor/Downcase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/August6th/processor/Apply.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/August6th/processor/Processor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/August6th/part2_interface/stringProcessor/Downcase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/August6th/processor/Upcase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/August6th/processor/Splitter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/August6th/part2_interface/stringProcessor/Spliter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/August6th/part2_interface/stringProcessor/Processor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" column="21" lean-forward="true" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/August6th/part2_interface/stringProcessor/Upcase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="4" column="85" selection-start-line="4" selection-start-column="85" selection-end-line="4" selection-end-column="85" />
+          <folding>
+            <element signature="e#149#150#0" expanded="true" />
+            <element signature="e#201#202#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/August6th/part2_interface/stringProcessor/StringProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="10" column="31" lean-forward="true" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/August6th/part2_interface/filter/Waveform.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/August6th/part2_interface/filter/HighPass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/August6th/part2_interface/filter/LowPass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/August6th/part2_interface/filter/Filter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/August6th/part2_interface/filter/FilterAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="e#231#232#0" expanded="true" />
+            <element signature="e#267#268#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/August6th/part2_interface/filter/BandPass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/August6th/part2_interface/filter/FilterProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="14" column="16" lean-forward="true" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/August6th/part2_interface/stringProcessor/Apply.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="9" column="56" lean-forward="true" selection-start-line="9" selection-start-column="56" selection-end-line="9" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/August6th/part3_interface/C4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="36" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/August6th/part3_interface/C.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/August6th/part3_interface/I3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/August7th/part1/A.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-472">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
