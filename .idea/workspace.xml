@@ -1,52 +1,607 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/thinkingInJava/Pattern/Rudolph.java" line="8" mnemonic="8" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="3e2b8870-dfde-4e7d-996a-395776690097" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/xom_1_2_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Algorithem/HanioiTowerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProjectTest/test.bpmn2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ToOffer/Eight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ToOffer/Eightteen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ToOffer/Eightteen_practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ToOffer/Eleven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ToOffer/Fifteen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ToOffer/Fifteen_practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ToOffer/Five.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ToOffer/Four.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ToOffer/Fourteen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ToOffer/Fourteen_practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ToOffer/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ToOffer/Nine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ToOffer/Nineteen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ToOffer/Seven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ToOffer/Seventeen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ToOffer/Seventeen_practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ToOffer/Six.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ToOffer/Sixteen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ToOffer/Ten.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ToOffer/TenOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ToOffer/TenThree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ToOffer/TenTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ToOffer/Thirteen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ToOffer/Thirteen_practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ToOffer/Three.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ToOffer/Twelve.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ToOffer/Twelve_practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ToOffer/Twentt2th.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ToOffer/Twenty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ToOffer/Twenty1th.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ToOffer/Twenty1th_practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ToOffer/Twenty2th_practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ToOffer/Twenty3th.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ToOffer/Twenty_practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Utils/StringUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/KMPAlgorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/StringPlusTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/testList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/Algorithms/RandomNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/August19th/AdapterMethodIdiom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/August19th/ArraysIsNotIterable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/August19th/CollectionSequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/August19th/InterfaceVSIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/August19th/IteratorClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/August19th/ModifyingArrayAsList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/August19th/MutiIterableClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/August19th/NonCollectionSequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/August19th/PetSequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/August19th/PriorityQueueDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/August19th/ReversibleArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/August20th/BlankFinal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/August20th/Dinosaur.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/August20th/FinalArguments.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/August20th/FinalData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/August20th/FinalOverWritingIllusion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/August20th/Gizmo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/August20th/Jurassic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/August20th/OverwritingPrivate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/August20th/OverwritingPrivate2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/August20th/SmallBrain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/August20th/Static/Beetle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/August20th/Static/Insect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/August20th/Value.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/August20th/WithFinals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/August23th/FullConstructors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/August23th/InheritingException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/August23th/LoggingException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/August23th/LoggingException2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/August23th/LoggingExceptions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/August23th/MyException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/August23th/SimpleException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/August23th/part2/ExtraFeatures.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/August23th/part2/MyException2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/August23th/part3/DynamicFields.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/August23th/part3/DynamicFiledsException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/August23th/part3/ExceptionMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/August23th/part3/OneException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/August23th/part3/ReThrowNew.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/August23th/part3/Rethrowing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/August23th/part3/TwoException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/August23th/part3/WhoCalled.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/August26th/ConstructorOfException/CleanUp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/August26th/ConstructorOfException/InputFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/August26th/Finally/practice/AlwaysFinally.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/August26th/Finally/practice/ExceptionSilencer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/August26th/Finally/practice/FinallyWorks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/August26th/Finally/practice/FourException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/August26th/Finally/practice/HoHumException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/August26th/Finally/practice/LostMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/August26th/Finally/practice/MutipleReturns.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/August26th/Finally/practice/OnOffException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/August26th/Finally/practice/OnOffException1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/August26th/Finally/practice/OnOffSwitch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/August26th/Finally/practice/Practice9_CaughtAll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/August26th/Finally/practice/Switch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/August26th/Finally/practice/ThreeException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/August26th/Finally/practice/VeryImportantException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/August26th/Finally/practice/WithFinally.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/August26th/LimitsOfException/BaseBallException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/August26th/LimitsOfException/Foul.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/August26th/LimitsOfException/Inning.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/August26th/LimitsOfException/PopFoul.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/August26th/LimitsOfException/RainedOut.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/August26th/LimitsOfException/Storm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/August26th/LimitsOfException/StormInning.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/August26th/LimitsOfException/StormingException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/August26th/LimitsOfException/Strike.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/August26th/LimitsOfException/UmpireArgument.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/August26th/MyException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/August26th/MyExceptionDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/August26th/NeverCaught.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/Chapter18th/DirList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/Chapter18th/DirList2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/Chapter18th/DirList3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/Chapter18th/Directory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/Chapter18th/PPrint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/Chapter18th/part10th/AvailableCharSets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/Chapter18th/part10th/ChannelCopy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/Chapter18th/part10th/GetChannel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/Chapter18th/part10th/GetData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/Chapter18th/part10th/TransferTo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/Chapter18th/part11th/GZIPcompres.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/Chapter18th/part11th/ZipCompress.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/Chapter18th/part12th/Blip3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/Chapter18th/part12th/Blips.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/Chapter18th/part12th/Logon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/Chapter18th/part12th/MyWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/Chapter18th/part12th/Worm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/Chapter18th/part13th/People.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/Chapter18th/part13th/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/Chapter18th/part6th/BasicFileOutput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/Chapter18th/part6th/BufferedInputFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/Chapter18th/part6th/FileOutputShortcut.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/Chapter18th/part6th/FormattedMemoryInt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/Chapter18th/part6th/MemoryInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/Chapter18th/part6th/TestEOF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/Chapter18th/part6th/UsingRandomAccessFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/Chapter18th/part7th/BinaryFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/Chapter18th/part7th/TextFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/Chapter18th/part8th/ChangeSystemOut.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/Chapter18th/part8th/Echo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/Chapter18th/part8th/Redirecting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/Chapter18th/part9th/OSExecute.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/Chapter18th/part9th/OSExecuteDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/Chapter18th/part9th/OSExecuteException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/Chapter21th/part2/ADaemon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/Chapter21th/part2/BasicThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/Chapter21th/part2/CachedThreadPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/Chapter21th/part2/CallableDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/Chapter21th/part2/CaptureUncaughtException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/Chapter21th/part2/DaemonFromFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/Chapter21th/part2/DaemonThreadFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/Chapter21th/part2/DaemonThreadPoolExecutor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/Chapter21th/part2/Daemons.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/Chapter21th/part2/FixedThreadPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/Chapter21th/part2/Joining.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/Chapter21th/part2/LiftOff.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/Chapter21th/part2/MainThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/Chapter21th/part2/MoreBasicThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/Chapter21th/part2/SelfManaged.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/Chapter21th/part2/SimpleDaemon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/Chapter21th/part2/SimplePriorities.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/Chapter21th/part2/SimpleThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/Chapter21th/part2/SingleThreadExecutor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/Chapter21th/part2/SleepingTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/Chapter21th/part2/ThreadVaritions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/Chapter21th/part3/AtomicEvenGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/Chapter21th/part3/AtomicIntegerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/Chapter21th/part3/AtomicityTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/Chapter21th/part3/AttemptLocking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/Chapter21th/part3/CriticalSection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/Chapter21th/part3/EvenChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/Chapter21th/part3/EvenGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/Chapter21th/part3/ExplicitCriticalSection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/Chapter21th/part3/IntGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/Chapter21th/part3/MutexEvenGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/Chapter21th/part3/SerialNumberChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/Chapter21th/part3/SerialNumberGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/Chapter21th/part3/SychronizedEvenGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/Chapter21th/part3/SyncObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/Chapter21th/part3/ThreadLocalVariableHolder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/Chapter21th/part4/CloseResource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/Chapter21th/part4/Interrupting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/Chapter21th/part4/Interrupting2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/Chapter21th/part4/InterruptingIdiom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/Chapter21th/part4/MutiLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/Chapter21th/part4/NIOInterruption.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/Chapter21th/part4/OrnamentalGarden.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/Chapter21th/part5/BlockingQueue/PipedIO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/Chapter21th/part5/BlockingQueue/TestBlockingQueues.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/Chapter21th/part5/BlockingQueue/ToastOMatic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/Chapter21th/part5/NotifyVSNotifyAll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/Chapter21th/part5/Restaurant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/Chapter21th/part5/WaxOMatic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/Chapter21th/part5/WaxOMatic2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/Chapter21th/part6th/deadLock/Chopstick.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/Chapter21th/part6th/deadLock/DeadlockingDiningPhilosophers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/Chapter21th/part6th/deadLock/Philosopher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/Chapter21th/part7th/CountDownLatchDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/Chapter21th/part7th/DelayQueueDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/Chapter21th/part7th/ExchangerDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/Chapter21th/part7th/Fat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/Chapter21th/part7th/GreenHouseScheduler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/Chapter21th/part7th/HorseRace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/Chapter21th/part7th/Pool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/Chapter21th/part7th/PriorityBlockingQueueDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/Chapter21th/part7th/SemaphoreDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/Chapter21th/part8/BankTellerSimulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/Chapter21th/part8/restaurant2/RestaurantWithQueues.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/ExceptionOfConstructor/CleanUpIdiom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/ExceptionOfConstructor/ConstructorException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/ExceptionOfConstructor/ConstructorHierarchies/Annoyance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/ExceptionOfConstructor/ConstructorHierarchies/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/ExceptionOfConstructor/ConstructorHierarchies/Sneeze.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/ExceptionOfConstructor/MainException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/ExceptionOfConstructor/NeedsCleanUp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/ExceptionOfConstructor/NeedsCleanUp2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/ExceptionOfConstructor/TurnOffChecking/SomeOtherException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/ExceptionOfConstructor/TurnOffChecking/TurnOffChecking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/ExceptionOfConstructor/TurnOffChecking/WrapCheckedException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/October10th/Aisle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/October10th/BankTeller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/October10th/BasicGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/October10th/BasicGeneratorDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/October10th/CheckoutStand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/October10th/CountedObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/October10th/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/October10th/ErasedType/ErasedTypeEquivalence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/October10th/Generators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/October10th/GenericMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/October10th/GenericVarargs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/October10th/InstantiateType/ClassAsFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/October10th/InstantiateType/Creator/Creator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/October10th/InstantiateType/Creator/CreatorGeneric.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/October10th/InstantiateType/Creator/GenericWithCreate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/October10th/InstantiateType/Creator/X.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/October10th/InstantiateType/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/October10th/InstantiateType/FactoryConstraint/FactoryConstraint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/October10th/InstantiateType/FactoryConstraint/FactoryI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/October10th/InstantiateType/FactoryConstraint/Foo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/October10th/InstantiateType/FactoryConstraint/IntegerFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/October10th/InstantiateType/FactoryConstraint/Widget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/October10th/InstantiateType/InstantiateGenericType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/October10th/ListOfGenerics/ListOfGenerics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/October10th/Office.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/October10th/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/October10th/Sets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/October10th/Shelf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/October10th/Store.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/October10th/Teller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/October10th/Tuple/FiveTuple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/October10th/Tuple/FourthTuple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/October10th/Tuple/ThreeTuple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/October10th/Tuple/TwoTuple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/October10th/TupleList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/October9th/Generator/Americano.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/October9th/Generator/Breve.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/October9th/Generator/Cappuccino.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/October9th/Generator/Coffee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/October9th/Generator/Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/October9th/Generator/Generator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/October9th/Generator/IterableFibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/October9th/Generator/Latte.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/October9th/Generator/Mocha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/October9th/LinkedStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/October9th/RandomList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/Pattern/IntegerMatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/Pattern/Practice10/Strings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/Pattern/Replacing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/Pattern/Resetting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/Pattern/Rudolph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/Pattern/SplitDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/Pattern/Splitting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/Pattern/Strings/Practice11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/Pattern/TestRegularExpression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/September5th/Rtti/Candy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/September5th/Rtti/ClassInitialization/ClassInitialization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/September5th/Rtti/ClassInitialization/Initable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/September5th/Rtti/ClassInitialization/Initable2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/September5th/Rtti/ClassInitialization/Initable3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/September5th/Rtti/Cookie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/September5th/Rtti/Gum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/September5th/Rtti/SweetShop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/September5th/Rtti/toys/FancyToy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/September5th/Rtti/toys/HasBatteries.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/September5th/Rtti/toys/Shoots.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/September5th/Rtti/toys/Toy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/September5th/Rtti/toys/ToyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/September5th/Rtti/toys/Waterproof.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/String/Concatenation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/String/FormatterClass/Conversion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/String/FormatterClass/DatabaseException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/String/FormatterClass/Receipt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/String/FormatterClass/Turtle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/String/Immutable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/String/InfiniteRecursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/String/UsingStringBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/String/WhitherStringBulider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/part1/ContainerComparison.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/part1/EnumClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/part1/SpaceShip.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/part1/part3/Icecream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/part1/part4/AutoboxingArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/part1/part4/MutidimensionalPrimitiveArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/part1/part4/Reflection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/part1/part5/EnumImplementation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/part1/part5/ParameterizedArrayType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/part1/part6/CountingGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/part1/part6/Enums.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/part1/part6/FillingArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/part1/part6/Generated.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/part1/part6/GeneratorTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/part1/part6/RandomTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/part1/part7/CompType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/part1/part7/ComparingArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/part1/part7/CopyingArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/part1/part7/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/part1/part7/Food.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/part1/part7/FoodTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/part1/part7/Meal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/part1/part7/SecurityCategory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/part2/CollectionData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/part2/CollectionDataTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/part2/CountingIntegerList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/part2/Countries.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/part2/FillingLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/part2/MapData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/part2/MapDataTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/part2/Pair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/part2/part6th/SortedSetDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/part2/part6th/TypesForSets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/part2/part7th/QueueBehavior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/part2/part7th/ToDoList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/part2/part8th/AssociativeArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/part2/part9th/GroundDog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/part2/part9th/GroundDog2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/part2/part9th/MapEntry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/part2/part9th/Prediction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/part2/part9th/SimpleHashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/part2/part9th/SlowMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/part2/part9th/SpringDetector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/part2/part9th/SpringDetector2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practie/August6th/part1_interface/Apply.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practie/August6th/part1_interface/Downcase.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practie/August6th/part1_interface/Processor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practie/August6th/part1_interface/Splitter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practie/August6th/part1_interface/Upcase.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practie/August6th/part1_interface/part2_interface/Apply.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practie/August6th/part1_interface/part2_interface/BandPass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practie/August6th/part1_interface/part2_interface/Downcase.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practie/August6th/part1_interface/part2_interface/Filter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practie/August6th/part1_interface/part2_interface/FilterAdapter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practie/August6th/part1_interface/part2_interface/FilterProcessor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practie/August6th/part1_interface/part2_interface/HighPass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practie/August6th/part1_interface/part2_interface/LowPass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practie/August6th/part1_interface/part2_interface/Processor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practie/August6th/part1_interface/part2_interface/Spliter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practie/August6th/part1_interface/part2_interface/StringProcessor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practie/August6th/part1_interface/part2_interface/Upcase.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practie/August6th/part1_interface/part2_interface/Waveform.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practie/August6th/part1_interface/part3_interface/C.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practie/August6th/part1_interface/part3_interface/C4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practie/August6th/part1_interface/part3_interface/I3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/August6th/part1_interface/Apply.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August6th/processor/Apply.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/August6th/part1_interface/Downcase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August6th/processor/Downcase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/August6th/part1_interface/Processor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August6th/processor/Processor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/August6th/part1_interface/Splitter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August6th/processor/Splitter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/August6th/part1_interface/Upcase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August6th/processor/Upcase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/August6th/part1_interface/part2_interface/Apply.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August6th/part2_interface/stringProcessor/Apply.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/August6th/part1_interface/part2_interface/BandPass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August6th/part2_interface/filter/BandPass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/August6th/part1_interface/part2_interface/Downcase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August6th/part2_interface/stringProcessor/Downcase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/August6th/part1_interface/part2_interface/Filter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August6th/part2_interface/filter/Filter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/August6th/part1_interface/part2_interface/FilterAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August6th/part2_interface/filter/FilterAdapter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/August6th/part1_interface/part2_interface/FilterProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August6th/part2_interface/filter/FilterProcessor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/August6th/part1_interface/part2_interface/HighPass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August6th/part2_interface/filter/HighPass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/August6th/part1_interface/part2_interface/LowPass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August6th/part2_interface/filter/LowPass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/August6th/part1_interface/part2_interface/Processor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August6th/part2_interface/stringProcessor/Processor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/August6th/part1_interface/part2_interface/Spliter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August6th/part2_interface/stringProcessor/Spliter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/August6th/part1_interface/part2_interface/StringProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August6th/part2_interface/stringProcessor/StringProcessor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/August6th/part1_interface/part2_interface/Upcase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August6th/part2_interface/stringProcessor/Upcase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/August6th/part1_interface/part2_interface/Waveform.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August6th/part2_interface/filter/Waveform.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/August6th/part1_interface/part3_interface/C.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August6th/part3_interface/C.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/August6th/part1_interface/part3_interface/C4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August6th/part3_interface/C4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/August6th/part1_interface/part3_interface/I3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August6th/part3_interface/I3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/access/local/PackagedClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/access/local/PackagedClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August7th/part1/A$B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August7th/part1/A$BImp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August7th/part1/A$BImp2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August7th/part1/A$C.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August7th/part1/A$CImp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August7th/part1/A$CImp2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August7th/part1/A$D.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August7th/part1/A$DImp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August7th/part1/A$DImp2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August7th/part1/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August7th/part1/part2_factoryMethod/Factories.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August7th/part1/part2_factoryMethod/Implementation1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August7th/part1/part2_factoryMethod/Implementation1Factory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August7th/part1/part2_factoryMethod/Implementation2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August7th/part1/part2_factoryMethod/Implementation2Factory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August7th/part1/part2_factoryMethod/Service.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August7th/part1/part2_factoryMethod/ServiceFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August7th/part1/part3_factory_game/Checkers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August7th/part1/part3_factory_game/CheckersFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August7th/part1/part3_factory_game/Chess.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August7th/part1/part3_factory_game/ChessFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August7th/part1/part3_factory_game/Game.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August7th/part1/part3_factory_game/GameFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August7th/part1/part3_factory_game/Games.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August7th/part1/part4_innerClasses/Parce1$Contents.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August7th/part1/part4_innerClasses/Parce1$Destination.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August7th/part1/part4_innerClasses/Parce1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August7th/part1/part4_innerClasses/Parcel2$Contents.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August7th/part1/part4_innerClasses/Parcel2$Destination.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August7th/part1/part4_innerClasses/Parcel2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August7th/part1/part5_innerClasses/Contents.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August7th/part1/part5_innerClasses/Destination.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August7th/part1/part5_innerClasses/DotNew$Inner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August7th/part1/part5_innerClasses/DotNew.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August7th/part1/part5_innerClasses/DotThis$Inner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August7th/part1/part5_innerClasses/DotThis.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August7th/part1/part5_innerClasses/Parcel5$1PDestination.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August7th/part1/part5_innerClasses/Parcel5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August7th/part1/part5_innerClasses/Parcel6$1TrackingSlip.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August7th/part1/part5_innerClasses/Parcel6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August7th/part1/part5_innerClasses/Parcel7$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August7th/part1/part5_innerClasses/Parcel7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August7th/part1/part5_innerClasses/Parcel8$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August7th/part1/part5_innerClasses/Parcel8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August7th/part1/part5_innerClasses/Parcel9$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August7th/part1/part5_innerClasses/Parcel9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August7th/part1/part5_innerClasses/Selector.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August7th/part1/part5_innerClasses/Sequence$SequenceSelector.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August7th/part1/part5_innerClasses/Sequence.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August7th/part1/part5_innerClasses/TestOuterAccess$inner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August7th/part1/part5_innerClasses/TestOuterAccess.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August7th/part1/part5_innerClasses/Wrapping.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August8th/Factories.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August8th/Implementation1$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August8th/Implementation1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August8th/Implementation2$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August8th/Implementation2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August8th/Service.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August8th/ServiceFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August8th/part2_anonymous/Checkers$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August8th/part2_anonymous/Checkers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August8th/part2_anonymous/Chess$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August8th/part2_anonymous/Chess.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August8th/part2_anonymous/Game.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August8th/part2_anonymous/GameFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August8th/part2_anonymous/Games.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August8th/part2_nested/ClassInInterface$Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August8th/part2_nested/ClassInInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August8th/part2_nested/Parcel11$ParcelContents.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August8th/part2_nested/Parcel11$ParcelDestination$AnotherLevel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August8th/part2_nested/Parcel11$ParcelDestination.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August8th/part2_nested/Parcel11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August8th/part2_nested/practice20$Inner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August8th/part2_nested/practice20.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August8th/part2_nested/practice20Imp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August8th/part3_closure/Callbacks.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August8th/part3_closure/Callee1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August8th/part3_closure/Callee2$Closure.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August8th/part3_closure/Callee2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August8th/part3_closure/Caller.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August8th/part3_closure/Incrementable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August8th/part3_closure/MyIncrement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August8th/part4_controller/Controller.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August8th/part4_controller/Event.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August8th/part4_controller/GreenHouseController$Bell.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August8th/part4_controller/GreenHouseController$LightOff.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August8th/part4_controller/GreenHouseController$LightOn.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August8th/part4_controller/GreenHouseController$Restart.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August8th/part4_controller/GreenHouseController$Terminate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August8th/part4_controller/GreenHouseController$ThermostatDay.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August8th/part4_controller/GreenHouseController$ThermostatNight.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August8th/part4_controller/GreenHouseController$WaterOff.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August8th/part4_controller/GreenHouseController$WaterOn.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August8th/part4_controller/GreenHouseController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/August8th/part4_controller/TestController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/access/local/Foregin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/access/local/PackagedClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/july31th/ConstructPractice/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/july31th/ConstructPractice/B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/july31th/ConstructPractice/C.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/july31th/ConstructPractice/part2/BroadGame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/july31th/ConstructPractice/part2/Chess.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/july31th/ConstructPractice/part2/Game.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/july31th/ConstructPractice/part3/Amphibian.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/july31th/ConstructPractice/part3/Frog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/july31th/ConstructPractice/part4/FinalData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/july31th/ConstructPractice/part4/Value.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/july31th/CreateSimple.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/july31th/Simple.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/july31th/main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/newVarArgs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/optionStringArguements.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/spiciness.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practie/varAras.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practie.iml" beforeDir="false" afterPath="$PROJECT_DIR$/practie.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thinkingInJava/A.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/August14th/CrossContainerIteration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thinkingInJava/August14th/CrossContainerIteration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/August14th/ListIteration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thinkingInJava/August14th/ListIteration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/August14th/SimpleIteration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thinkingInJava/August14th/SimpleIteration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/August18th/LinkedListFeatures.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thinkingInJava/August18th/LinkedListFeatures.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/August18th/MapOfList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thinkingInJava/August18th/MapOfList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/August18th/PetMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thinkingInJava/August18th/PetMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/August18th/QueueDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thinkingInJava/August18th/QueueDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/August18th/SetOfInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thinkingInJava/August18th/SetOfInteger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/August18th/SetOperation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thinkingInJava/August18th/SetOperation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/August18th/Stack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thinkingInJava/August18th/Stack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/August18th/StackTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thinkingInJava/August18th/StackTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/August18th/Statistics.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thinkingInJava/August18th/Statistics.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/August6th/part2_interface/filter/BandPass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thinkingInJava/August6th/part2_interface/filter/BandPass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/August6th/part2_interface/filter/Filter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thinkingInJava/August6th/part2_interface/filter/Filter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/August6th/part2_interface/filter/FilterAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thinkingInJava/August6th/part2_interface/filter/FilterAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/August6th/part2_interface/filter/FilterProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thinkingInJava/August6th/part2_interface/filter/FilterProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/August6th/part2_interface/filter/HighPass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thinkingInJava/August6th/part2_interface/filter/HighPass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/August6th/part2_interface/filter/LowPass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thinkingInJava/August6th/part2_interface/filter/LowPass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/August6th/part2_interface/filter/Waveform.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thinkingInJava/August6th/part2_interface/filter/Waveform.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/August6th/part2_interface/stringProcessor/Apply.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thinkingInJava/August6th/part2_interface/stringProcessor/Apply.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/August6th/part2_interface/stringProcessor/Downcase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thinkingInJava/August6th/part2_interface/stringProcessor/Downcase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/August6th/part2_interface/stringProcessor/Processor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thinkingInJava/August6th/part2_interface/stringProcessor/Processor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/August6th/part2_interface/stringProcessor/Spliter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thinkingInJava/August6th/part2_interface/stringProcessor/Spliter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/August6th/part2_interface/stringProcessor/StringProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thinkingInJava/August6th/part2_interface/stringProcessor/StringProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/August6th/part2_interface/stringProcessor/Upcase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thinkingInJava/August6th/part2_interface/stringProcessor/Upcase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/August6th/part3_interface/C.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thinkingInJava/August6th/part3_interface/C.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/August6th/part3_interface/C4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thinkingInJava/August6th/part3_interface/C4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/August6th/part3_interface/I3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thinkingInJava/August6th/part3_interface/I3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/August6th/processor/Apply.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thinkingInJava/August6th/processor/Apply.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/August6th/processor/Downcase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thinkingInJava/August6th/processor/Downcase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/August6th/processor/Processor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thinkingInJava/August6th/processor/Processor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/August6th/processor/Splitter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thinkingInJava/August6th/processor/Splitter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/August6th/processor/Upcase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thinkingInJava/August6th/processor/Upcase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/August7th/part1/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thinkingInJava/part1/A.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/August7th/part1/part2_factoryMethod/Factories.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thinkingInJava/part1/part2_factoryMethod/Factories.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/August7th/part1/part2_factoryMethod/Implementation1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thinkingInJava/part1/part2_factoryMethod/Implementation1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/August7th/part1/part2_factoryMethod/Implementation1Factory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thinkingInJava/part1/part2_factoryMethod/Implementation1Factory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/August7th/part1/part2_factoryMethod/Implementation2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thinkingInJava/part1/part2_factoryMethod/Implementation2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/August7th/part1/part2_factoryMethod/Implementation2Factory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thinkingInJava/part1/part2_factoryMethod/Implementation2Factory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/August7th/part1/part2_factoryMethod/Service.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thinkingInJava/part1/part2_factoryMethod/Service.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/August7th/part1/part2_factoryMethod/ServiceFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thinkingInJava/part1/part2_factoryMethod/ServiceFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/August7th/part1/part3_factory_game/Checkers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thinkingInJava/part1/part3_factory_game/Checkers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/August7th/part1/part3_factory_game/CheckersFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thinkingInJava/part1/part3_factory_game/CheckersFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/August7th/part1/part3_factory_game/Chess.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thinkingInJava/part1/part3_factory_game/Chess.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/August7th/part1/part3_factory_game/ChessFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thinkingInJava/part1/part3_factory_game/ChessFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/August7th/part1/part3_factory_game/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thinkingInJava/part1/part3_factory_game/Game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/August7th/part1/part3_factory_game/GameFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thinkingInJava/part1/part3_factory_game/GameFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/August7th/part1/part3_factory_game/Games.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thinkingInJava/part1/part3_factory_game/Games.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/August7th/part1/part4_innerClasses/Parce1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thinkingInJava/part1/part4_innerClasses/Parce1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/August7th/part1/part4_innerClasses/Parcel2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thinkingInJava/part1/part4_innerClasses/Parcel2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/August7th/part1/part5_innerClasses/Contents.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thinkingInJava/part1/part5_innerClasses/Contents.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/August7th/part1/part5_innerClasses/Destination.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thinkingInJava/part1/part5_innerClasses/Destination.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/August7th/part1/part5_innerClasses/DotNew.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thinkingInJava/part1/part5_innerClasses/DotNew.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/August7th/part1/part5_innerClasses/DotThis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thinkingInJava/part1/part5_innerClasses/DotThis.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/August7th/part1/part5_innerClasses/Parcel5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thinkingInJava/part1/part5_innerClasses/Parcel5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/August7th/part1/part5_innerClasses/Parcel6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thinkingInJava/part1/part5_innerClasses/Parcel6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/August7th/part1/part5_innerClasses/Parcel7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thinkingInJava/part1/part5_innerClasses/Parcel7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/August7th/part1/part5_innerClasses/Parcel8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thinkingInJava/part1/part5_innerClasses/Parcel8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/August7th/part1/part5_innerClasses/Parcel9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thinkingInJava/part1/part5_innerClasses/Parcel9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/August7th/part1/part5_innerClasses/Selector.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thinkingInJava/part1/part5_innerClasses/Selector.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/August7th/part1/part5_innerClasses/Sequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thinkingInJava/part1/part5_innerClasses/Sequence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/August7th/part1/part5_innerClasses/TestOuterAccess.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thinkingInJava/part1/part5_innerClasses/TestOuterAccess.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/August7th/part1/part5_innerClasses/Wrapping.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thinkingInJava/part1/part5_innerClasses/Wrapping.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/August8th/Factories.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thinkingInJava/August8th/Factories.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/August8th/Implementation1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thinkingInJava/August8th/Implementation1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/August8th/Implementation2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thinkingInJava/August8th/Implementation2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/August8th/Service.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thinkingInJava/August8th/Service.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/August8th/ServiceFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thinkingInJava/August8th/ServiceFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/August8th/part2_anonymous/Checkers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thinkingInJava/August8th/part2_anonymous/Checkers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/August8th/part2_anonymous/Chess.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thinkingInJava/August8th/part2_anonymous/Chess.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/August8th/part2_anonymous/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thinkingInJava/August8th/part2_anonymous/Game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/August8th/part2_anonymous/GameFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thinkingInJava/August8th/part2_anonymous/GameFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/August8th/part2_anonymous/Games.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thinkingInJava/August8th/part2_anonymous/Games.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/August8th/part2_nested/ClassInInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thinkingInJava/August8th/part2_nested/ClassInInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/August8th/part2_nested/Parcel11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thinkingInJava/August8th/part2_nested/Parcel11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/August8th/part2_nested/practice20.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thinkingInJava/August8th/part2_nested/practice20.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/August8th/part2_nested/practice20Imp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thinkingInJava/August8th/part2_nested/practice20Imp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/August8th/part3_closure/Callbacks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thinkingInJava/August8th/part3_closure/Callbacks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/August8th/part3_closure/Callee1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thinkingInJava/August8th/part3_closure/Callee1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/August8th/part3_closure/Callee2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thinkingInJava/August8th/part3_closure/Callee2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/August8th/part3_closure/Caller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thinkingInJava/August8th/part3_closure/Caller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/August8th/part3_closure/Incrementable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thinkingInJava/August8th/part3_closure/Incrementable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/August8th/part3_closure/MyIncrement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thinkingInJava/August8th/part3_closure/MyIncrement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/August8th/part4_controller/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thinkingInJava/August8th/part4_controller/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/August8th/part4_controller/Event.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thinkingInJava/August8th/part4_controller/Event.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/August8th/part4_controller/GreenHouseController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thinkingInJava/August8th/part4_controller/GreenHouseController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/August8th/part4_controller/TestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thinkingInJava/August8th/part4_controller/TestController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/August9th/Collections/AddingGroups.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thinkingInJava/August9th/Collections/AddingGroups.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/August9th/Collections/PrintingContainers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thinkingInJava/August9th/Collections/PrintingContainers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/August9th/Executer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thinkingInJava/August9th/Executer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/August9th/NameChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thinkingInJava/August9th/NameChecker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/August9th/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thinkingInJava/August9th/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/access/local/Foregin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thinkingInJava/local/Foregin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/access/local/PackagedClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thinkingInJava/local/PackagedClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/ForNameCreator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thinkingInJava/common/ForNameCreator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/Individual.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thinkingInJava/common/Individual.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/LiteralPetCreator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thinkingInJava/common/LiteralPetCreator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/PetCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thinkingInJava/common/PetCount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/Pets.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thinkingInJava/common/Pets.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/PetsCreator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thinkingInJava/common/PetsCreator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/pets/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thinkingInJava/common/pets/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/pets/Cymric.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thinkingInJava/common/pets/Cymric.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/pets/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thinkingInJava/common/pets/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/pets/EgyptianMau.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thinkingInJava/common/pets/EgyptianMau.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/pets/Hamster.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thinkingInJava/common/pets/Hamster.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/pets/Manx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thinkingInJava/common/pets/Manx.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/pets/Mouse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thinkingInJava/common/pets/Mouse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/pets/Mutt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thinkingInJava/common/pets/Mutt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/pets/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thinkingInJava/common/pets/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/pets/Pet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thinkingInJava/common/pets/Pet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/pets/Pug.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thinkingInJava/common/pets/Pug.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/pets/Rat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thinkingInJava/common/pets/Rat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/pets/Rodent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thinkingInJava/common/pets/Rodent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/july31th/ConstructPractice/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thinkingInJava/july31th/ConstructPractice/A.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/july31th/ConstructPractice/B.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thinkingInJava/july31th/ConstructPractice/B.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/july31th/ConstructPractice/C.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thinkingInJava/july31th/ConstructPractice/C.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/july31th/ConstructPractice/part2/BroadGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thinkingInJava/july31th/ConstructPractice/part2/BroadGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/july31th/ConstructPractice/part2/Chess.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thinkingInJava/july31th/ConstructPractice/part2/Chess.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/july31th/ConstructPractice/part2/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thinkingInJava/july31th/ConstructPractice/part2/Game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/july31th/ConstructPractice/part3/Amphibian.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thinkingInJava/july31th/ConstructPractice/part3/Amphibian.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/july31th/ConstructPractice/part3/Frog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thinkingInJava/july31th/ConstructPractice/part3/Frog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/july31th/ConstructPractice/part4/FinalData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thinkingInJava/july31th/ConstructPractice/part4/FinalData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/july31th/ConstructPractice/part4/Value.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thinkingInJava/july31th/ConstructPractice/part4/Value.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/july31th/CreateSimple.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thinkingInJava/july31th/CreateSimple.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/july31th/Simple.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thinkingInJava/july31th/Simple.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/july31th/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thinkingInJava/july31th/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/newVarArgs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thinkingInJava/newVarArgs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/optionStringArguements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thinkingInJava/optionStringArguements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/spiciness.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thinkingInJava/spiciness.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/varAras.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thinkingInJava/varAras.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -75,10 +630,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/August7th/part1/A.java">
+        <entry file="file://$PROJECT_DIR$/src/ToOffer/Twenty3th.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-472">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            <state relative-caret-position="345">
+              <caret line="17" column="200" selection-start-line="17" selection-start-column="200" selection-end-line="17" selection-end-column="200" />
             </state>
           </provider>
         </entry>
@@ -88,10 +643,18 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="FxmlFile" />
         <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>DataPoint</find>
+      <find>Colle</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -99,64 +662,65 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/August9th/NameChecker.java" />
-        <option value="$PROJECT_DIR$/src/August9th/Executer.java" />
-        <option value="$PROJECT_DIR$/src/August9th/Person.java" />
-        <option value="$PROJECT_DIR$/src/August9th/Collections/AddingGroups.java" />
-        <option value="$PROJECT_DIR$/src/August9th/Collections/PrintingContainers.java" />
-        <option value="$PROJECT_DIR$/src/common/Individual.java" />
-        <option value="$PROJECT_DIR$/src/common/pets/Person.java" />
-        <option value="$PROJECT_DIR$/src/common/pets/Pet.java" />
-        <option value="$PROJECT_DIR$/src/common/pets/Dog.java" />
-        <option value="$PROJECT_DIR$/src/common/pets/Mutt.java" />
-        <option value="$PROJECT_DIR$/src/common/pets/Pug.java" />
-        <option value="$PROJECT_DIR$/src/common/pets/Cat.java" />
-        <option value="$PROJECT_DIR$/src/common/pets/EgyptianMau.java" />
-        <option value="$PROJECT_DIR$/src/common/pets/Manx.java" />
-        <option value="$PROJECT_DIR$/src/common/pets/Cymric.java" />
-        <option value="$PROJECT_DIR$/src/common/pets/Rodent.java" />
-        <option value="$PROJECT_DIR$/src/common/pets/Rat.java" />
-        <option value="$PROJECT_DIR$/src/common/pets/Mouse.java" />
-        <option value="$PROJECT_DIR$/src/common/pets/Hamster.java" />
-        <option value="$PROJECT_DIR$/src/common/PetsCreator.java" />
-        <option value="$PROJECT_DIR$/src/common/ForNameCreator.java" />
-        <option value="$PROJECT_DIR$/src/common/PetCount.java" />
-        <option value="$PROJECT_DIR$/src/common/LiteralPetCreator.java" />
-        <option value="$PROJECT_DIR$/src/common/Pets.java" />
-        <option value="$PROJECT_DIR$/src/August14th/SimpleIteration.java" />
-        <option value="$PROJECT_DIR$/src/August14th/CrossContainerIteration.java" />
-        <option value="$PROJECT_DIR$/src/August14th/ListIteration.java" />
-        <option value="$PROJECT_DIR$/src/August18th/LinkedListFeatures.java" />
-        <option value="$PROJECT_DIR$/src/August18th/Stack.java" />
-        <option value="$PROJECT_DIR$/src/August18th/StackTest.java" />
-        <option value="$PROJECT_DIR$/src/August18th/SetOfInteger.java" />
-        <option value="$PROJECT_DIR$/src/August18th/SetOperation.java" />
-        <option value="$PROJECT_DIR$/src/August18th/Statistics.java" />
-        <option value="$PROJECT_DIR$/src/August18th/PetMap.java" />
-        <option value="$PROJECT_DIR$/src/August18th/MapOfList.java" />
-        <option value="$PROJECT_DIR$/src/August18th/QueueDemo.java" />
-        <option value="$PROJECT_DIR$/src/access/local/PackagedClass.java" />
-        <option value="$PROJECT_DIR$/src/August6th/part1_interface/Apply.java" />
-        <option value="$PROJECT_DIR$/src/August6th/part1_interface/Upcase.java" />
-        <option value="$PROJECT_DIR$/src/August6th/part1_interface/Splitter.java" />
-        <option value="$PROJECT_DIR$/src/August6th/part1_interface/Processor.java" />
-        <option value="$PROJECT_DIR$/src/August6th/part1_interface/part2_interface/Apply.java" />
-        <option value="$PROJECT_DIR$/src/August6th/part1_interface/part2_interface/BandPass.java" />
-        <option value="$PROJECT_DIR$/src/August6th/part1_interface/part2_interface/filter/BandPass.java" />
-        <option value="$PROJECT_DIR$/src/August6th/part1_interface/part2_interface/stringProcessor/StringProcessor.java" />
-        <option value="$PROJECT_DIR$/src/August6th/part2_interface/stringProcessor/StringProcessor.java" />
-        <option value="$PROJECT_DIR$/src/August6th/part2_interface/stringProcessor/Processor.java" />
-        <option value="$PROJECT_DIR$/src/August6th/part2_interface/stringProcessor/Upcase.java" />
-        <option value="$PROJECT_DIR$/src/August6th/part2_interface/filter/FilterProcessor.java" />
-        <option value="$PROJECT_DIR$/src/August6th/part2_interface/stringProcessor/Apply.java" />
-        <option value="$PROJECT_DIR$/src/August6th/part3_interface/C4.java" />
+        <option value="$PROJECT_DIR$/src/Chapter21th/part2/part7th/CountDownLatchDemo.java" />
+        <option value="$PROJECT_DIR$/src/Chapter21th/part2/part7th/HorseRace.java" />
+        <option value="$PROJECT_DIR$/src/Chapter21th/part2/part7th/DelayQueue.java" />
+        <option value="$PROJECT_DIR$/src/Utils/StringUtils.java" />
+        <option value="$PROJECT_DIR$/src/Chapter21th/part2/part7th/PriorityBlockingQueueDemo.java" />
+        <option value="$PROJECT_DIR$/src/Chapter21th/part2/part7th/DelayQueueDemo.java" />
+        <option value="$PROJECT_DIR$/src/Chapter21th/part2/part7th/GreenHouseScheduler.java" />
+        <option value="$PROJECT_DIR$/src/Chapter21th/part2/part7th/Fat.java" />
+        <option value="$PROJECT_DIR$/src/Chapter21th/part2/part7th/Pool.java" />
+        <option value="$PROJECT_DIR$/src/Chapter21th/part2/part7th/SemaphoreDemo.java" />
+        <option value="$PROJECT_DIR$/src/Chapter21th/part2/part7th/ExchangerDemo.java" />
+        <option value="$PROJECT_DIR$/src/Chapter21th/part2/BasicThread.java" />
+        <option value="$PROJECT_DIR$/src/Chapter21th/part8/BankTellerSimulation.java" />
+        <option value="$PROJECT_DIR$/src/Chapter21th/part8/restaurant2/RestaurantWithQueues.java" />
+        <option value="$PROJECT_DIR$/src/ToOffer/three.java" />
+        <option value="$PROJECT_DIR$/src/ToOffer/Three.java" />
+        <option value="$PROJECT_DIR$/src/Chapter18th/part13th/People.java" />
+        <option value="$PROJECT_DIR$/src/Chapter18th/part13th/Person.java" />
+        <option value="$PROJECT_DIR$/src/ToOffer/Four.java" />
+        <option value="$PROJECT_DIR$/src/ToOffer/Five.java" />
+        <option value="$PROJECT_DIR$/src/ToOffer/Six.java" />
+        <option value="$PROJECT_DIR$/src/ToOffer/Seven.java" />
+        <option value="$PROJECT_DIR$/src/ToOffer/Eight.java" />
+        <option value="$PROJECT_DIR$/src/ToOffer/Nine.java" />
+        <option value="$PROJECT_DIR$/src/ToOffer/Ten.java" />
+        <option value="$PROJECT_DIR$/src/ToOffer/TenOne.java" />
+        <option value="$PROJECT_DIR$/src/ToOffer/TenTwo.java" />
+        <option value="$PROJECT_DIR$/src/ToOffer/TenThree.java" />
+        <option value="$PROJECT_DIR$/src/ToOffer/Eleven.java" />
+        <option value="$PROJECT_DIR$/src/ToOffer/Twelve.java" />
+        <option value="$PROJECT_DIR$/src/ToOffer/Twelve_practice.java" />
+        <option value="$PROJECT_DIR$/src/ToOffer/Thirteen.java" />
+        <option value="$PROJECT_DIR$/src/ToOffer/Thirteen_practice.java" />
+        <option value="$PROJECT_DIR$/src/ToOffer/Fourteen.java" />
+        <option value="$PROJECT_DIR$/src/ToOffer/Fourteen_practice.java" />
+        <option value="$PROJECT_DIR$/src/ToOffer/Fifteen.java" />
+        <option value="$PROJECT_DIR$/src/ToOffer/Fifteen_practice.java" />
+        <option value="$PROJECT_DIR$/src/ToOffer/Sixteen.java" />
+        <option value="$PROJECT_DIR$/src/ToOffer/Seventeen_practice.java" />
+        <option value="$PROJECT_DIR$/src/ToOffer/Seventeen.java" />
+        <option value="$PROJECT_DIR$/src/ToOffer/Eightteen.java" />
+        <option value="$PROJECT_DIR$/src/ToOffer/ListNode.java" />
+        <option value="$PROJECT_DIR$/src/ToOffer/Eightteen_practice.java" />
+        <option value="$PROJECT_DIR$/src/ToOffer/Nineteen.java" />
+        <option value="$PROJECT_DIR$/src/ToOffer/Twenty.java" />
+        <option value="$PROJECT_DIR$/src/ToOffer/Twenty_practice.java" />
+        <option value="$PROJECT_DIR$/src/ToOffer/Twenty1th.java" />
+        <option value="$PROJECT_DIR$/src/ToOffer/Twenty1th_practice.java" />
+        <option value="$PROJECT_DIR$/src/ToOffer/Twentt2th.java" />
+        <option value="$PROJECT_DIR$/src/ToOffer/Twenty2th_practice.java" />
+        <option value="$PROJECT_DIR$/src/ToOffer/Twenty3th.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-179" />
-    <option name="width" value="1400" />
-    <option name="height" value="1000" />
+    <option name="x" value="489" />
+    <option name="y" value="76" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -167,6 +731,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -183,19 +748,12 @@
               <item name="DayliPractice" type="b2602c69:ProjectViewProjectNode" />
               <item name="DayliPractice" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="local" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DayliPractice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DayliPractice" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="part1" type="462c0819:PsiDirectoryNode" />
+              <item name="ToOffer" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -211,15 +769,21 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1580272444886" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="Lombok plugin" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1587030865835" />
+    <property name="last_opened_file_path" value="C:/Program Files/Java/xom-1.2.5.jar!/" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="ToOffer" />
       <recent name="August9th" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\practie\DayliPractice\src\util" />
       <recent name="D:\practie\src\August8th" />
     </key>
   </component>
@@ -235,13 +799,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.C4">
-    <configuration name="Apply" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="August6th.part1_interface.Apply" />
+  <component name="RunManager" selected="Application.Seventeen">
+    <configuration name="Four" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ToOffer.Four" />
       <module name="practie" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="August6th.part1_interface.*" />
+          <option name="PATTERN" value="ToOffer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -249,12 +813,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="August6th.part3_interface.C4" />
+    <configuration name="Seven" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ToOffer.Seven" />
       <module name="practie" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="August6th.part3_interface.*" />
+          <option name="PATTERN" value="ToOffer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -262,12 +826,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FilterProcessor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="August6th.part2_interface.filter.FilterProcessor" />
+    <configuration name="Seventeen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ToOffer.Seventeen" />
       <module name="practie" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="August6th.part2_interface.filter.*" />
+          <option name="PATTERN" value="ToOffer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -275,12 +839,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MapOfList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="August18th.MapOfList" />
+    <configuration name="Six" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ToOffer.Six" />
       <module name="practie" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="August18th.*" />
+          <option name="PATTERN" value="ToOffer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -288,12 +852,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QueueDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="August18th.QueueDemo" />
+    <configuration name="TenOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ToOffer.TenOne" />
       <module name="practie" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="August18th.*" />
+          <option name="PATTERN" value="ToOffer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -302,19 +866,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.MapOfList" />
-      <item itemvalue="Application.QueueDemo" />
-      <item itemvalue="Application.Apply" />
-      <item itemvalue="Application.FilterProcessor" />
-      <item itemvalue="Application.C4" />
+      <item itemvalue="Application.Four" />
+      <item itemvalue="Application.Six" />
+      <item itemvalue="Application.Seven" />
+      <item itemvalue="Application.TenOne" />
+      <item itemvalue="Application.Seventeen" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.C4" />
-        <item itemvalue="Application.FilterProcessor" />
-        <item itemvalue="Application.Apply" />
-        <item itemvalue="Application.QueueDemo" />
-        <item itemvalue="Application.MapOfList" />
+        <item itemvalue="Application.Seventeen" />
+        <item itemvalue="Application.TenOne" />
+        <item itemvalue="Application.Seven" />
+        <item itemvalue="Application.Six" />
+        <item itemvalue="Application.Four" />
       </list>
     </recent_temporary>
   </component>
@@ -335,7 +899,47 @@
       <workItem from="1565750301099" duration="8779000" />
       <workItem from="1565937195660" duration="5486000" />
       <workItem from="1566115985498" duration="8504000" />
-      <workItem from="1580112126351" duration="6812000" />
+      <workItem from="1566183480419" duration="46000" />
+      <workItem from="1566183549917" duration="14639000" />
+      <workItem from="1566261111543" duration="599000" />
+      <workItem from="1566262705292" duration="12435000" />
+      <workItem from="1566523481928" duration="18796000" />
+      <workItem from="1566780694378" duration="19386000" />
+      <workItem from="1566871172306" duration="8793000" />
+      <workItem from="1567038950251" duration="47000" />
+      <workItem from="1567049326232" duration="19937000" />
+      <workItem from="1567385873449" duration="6299000" />
+      <workItem from="1567644055765" duration="352000" />
+      <workItem from="1567661368762" duration="13687000" />
+      <workItem from="1567750288934" duration="6587000" />
+      <workItem from="1568181552339" duration="892000" />
+      <workItem from="1568190334015" duration="4420000" />
+      <workItem from="1569397565114" duration="8478000" />
+      <workItem from="1570584856351" duration="28839000" />
+      <workItem from="1570696553241" duration="4228000" />
+      <workItem from="1571104440724" duration="3920000" />
+      <workItem from="1572487593365" duration="19035000" />
+      <workItem from="1572832818947" duration="5889000" />
+      <workItem from="1572918290564" duration="7949000" />
+      <workItem from="1573003734916" duration="54732000" />
+      <workItem from="1573721730322" duration="1109000" />
+      <workItem from="1573778337488" duration="5648000" />
+      <workItem from="1573864572066" duration="36908000" />
+      <workItem from="1574642678284" duration="1231000" />
+      <workItem from="1574858479275" duration="12888000" />
+      <workItem from="1575465650910" duration="4298000" />
+      <workItem from="1575879905078" duration="8780000" />
+      <workItem from="1575956666922" duration="9890000" />
+      <workItem from="1576069013792" duration="36539000" />
+      <workItem from="1577240511422" duration="30624000" />
+      <workItem from="1577754996005" duration="73150000" />
+      <workItem from="1578550180671" duration="9924000" />
+      <workItem from="1578634889677" duration="54038000" />
+      <workItem from="1579005195175" duration="5097000" />
+      <workItem from="1580355399247" duration="35595000" />
+      <workItem from="1580886942142" duration="7642000" />
+      <workItem from="1586788736995" duration="16848000" />
+      <workItem from="1586958511769" duration="11406000" />
     </task>
     <task id="LOCAL-00001" summary="“放假”">
       <created>1565943125305</created>
@@ -344,16 +948,93 @@
       <option name="project" value="LOCAL" />
       <updated>1565943125305</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="8月19号，集合的练习">
+      <created>1566206981016</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1566206981016</updated>
+    </task>
+    <task id="LOCAL-00003" summary="STATIC练习">
+      <created>1566523535396</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1566523535396</updated>
+    </task>
+    <task id="LOCAL-00004" summary="异常捕捉的练习">
+      <created>1566784243059</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1566784243059</updated>
+    </task>
+    <task id="LOCAL-00005" summary="异常的限制&#10;异常与finally&#10;异常与构造器">
+      <created>1566810976178</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1566810976179</updated>
+    </task>
+    <task id="LOCAL-00006" summary="异常与构造器&#10;屏蔽“被检查的异常”&#10;捕获异常的规则">
+      <created>1566898088379</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1566898088379</updated>
+    </task>
+    <task id="LOCAL-00007" summary="“BufferedReader”+&quot;Scanner&quot;">
+      <created>1567488495894</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1567488495894</updated>
+    </task>
+    <task id="LOCAL-00008" summary="“9月5号的安排”">
+      <created>1567644364757</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1567644364757</updated>
+    </task>
+    <task id="LOCAL-00009" summary="“类型信息”-class对象，类字面常量">
+      <created>1567671262291</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1567671262291</updated>
+    </task>
+    <task id="LOCAL-00010" summary="new">
+      <created>1572530635076</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1572530635076</updated>
+    </task>
+    <task id="LOCAL-00011" summary="new">
+      <created>1573626610636</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1573626610636</updated>
+    </task>
+    <task id="LOCAL-00012" summary="new">
+      <created>1578451237044</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1578451237045</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="97268000" />
+    <option name="totallyTimeSpent" value="712671000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17019667" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24508321" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -361,18 +1042,19 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3327645" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39933258" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3651877" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.24745762" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.15084746" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32962137" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.32764506" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32628062" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.32935154" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.17966102" />
+      <window_info anchor="bottom" id="Duplicate detector" order="13" weight="0.32881355" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -384,7 +1066,7 @@
       <window_info anchor="right" id="Palette&#9;" order="8" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17019667" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13059701" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -393,8 +1075,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.19112629" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39933258" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32925472" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -403,7 +1085,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.32764506" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32925472" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -420,424 +1102,516 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="“放假”" />
-    <option name="LAST_COMMIT_MESSAGE" value="“放假”" />
+    <MESSAGE value="8月19号，集合的练习" />
+    <MESSAGE value="STATIC练习" />
+    <MESSAGE value="异常捕捉的练习" />
+    <MESSAGE value="异常的限制&#10;异常与finally&#10;异常与构造器" />
+    <MESSAGE value="异常与构造器&#10;屏蔽“被检查的异常”&#10;捕获异常的规则" />
+    <MESSAGE value="“BufferedReader”+&quot;Scanner&quot;" />
+    <MESSAGE value="“9月5号的安排”" />
+    <MESSAGE value="“类型信息”-class对象，类字面常量" />
+    <MESSAGE value="new" />
+    <option name="LAST_COMMIT_MESSAGE" value="new" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/common/pets/EgyptianMau.java">
+    <entry file="file://$PROJECT_DIR$/src/thinkingInJava/Chapter21th/part2/CaptureUncaughtException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="20" column="6" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/thinkingInJava/Chapter21th/part2/SimpleDaemon.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
-          <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-12.0.1/lib/src.zip!/java.base/java/util/HashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="549" column="13" selection-start-line="549" selection-start-column="13" selection-end-line="549" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/common/pets/Manx.java">
+    <entry file="file://$PROJECT_DIR$/src/thinkingInJava/Chapter21th/part2/CallableDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
-          <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/common/pets/Cymric.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/common/pets/Rodent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/common/pets/Rat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/common/pets/Mouse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/common/pets/Hamster.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/common/PetsCreator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/common/ForNameCreator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="28" column="25" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/common/PetCount.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="624">
-          <caret line="28" column="17" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/common/LiteralPetCreator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="14" column="123" selection-start-line="14" selection-start-column="123" selection-end-line="14" selection-end-column="123" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/common/Pets.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-          <folding>
-            <element signature="e#196#197#0" expanded="true" />
-            <element signature="e#238#239#0" expanded="true" />
-            <element signature="e#387#388#0" expanded="true" />
-            <element signature="e#433#434#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/August14th/SimpleIteration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/August14th/CrossContainerIteration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="17" column="50" selection-start-line="17" selection-start-column="50" selection-end-line="17" selection-end-column="50" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/August9th/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-334">
-          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/August14th/ListIteration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="34" column="10" selection-start-line="34" selection-start-column="10" selection-end-line="34" selection-end-column="10" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/August18th/LinkedListFeatures.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="31" column="70" selection-start-line="31" selection-start-column="70" selection-end-line="31" selection-end-column="70" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/August18th/Stack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="10" column="55" selection-start-line="10" selection-start-column="55" selection-end-line="10" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/August18th/StackTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/August18th/SetOfInteger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="9" column="47" selection-start-line="9" selection-start-column="47" selection-end-line="9" selection-end-column="47" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/August18th/SetOperation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/August18th/QueueDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/August18th/MapOfList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="23" column="47" selection-start-line="23" selection-start-column="47" selection-end-line="23" selection-end-column="47" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/August18th/PetMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="20" column="51" selection-start-line="20" selection-start-column="51" selection-end-line="20" selection-end-column="51" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/August18th/Statistics.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="10" column="36" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/A.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="13" selection-start-column="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/access/local/Foregin.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/access/local/PackagedClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="5" column="44" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/August6th/processor/Downcase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/August6th/processor/Apply.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/August6th/processor/Processor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
           <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/August6th/part2_interface/stringProcessor/Downcase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/August6th/processor/Upcase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/August6th/processor/Splitter.java">
+    <entry file="file://$PROJECT_DIR$/src/thinkingInJava/Chapter21th/part7th/ExchangerDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/August6th/part2_interface/stringProcessor/Spliter.java">
+    <entry file="file://$PROJECT_DIR$/src/thinkingInJava/part1/part7/Food.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/thinkingInJava/part1/part7/Course.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/August6th/part2_interface/stringProcessor/Processor.java">
+    <entry file="file://$PROJECT_DIR$/src/thinkingInJava/Chapter21th/part7th/SemaphoreDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="3" column="21" lean-forward="true" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/August6th/part2_interface/stringProcessor/Upcase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="4" column="85" selection-start-line="4" selection-start-column="85" selection-end-line="4" selection-end-column="85" />
+        <state relative-caret-position="1584">
+          <caret line="77" column="10" selection-start-line="77" selection-start-column="10" selection-end-line="77" selection-end-column="10" />
           <folding>
-            <element signature="e#149#150#0" expanded="true" />
-            <element signature="e#201#202#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/August6th/part2_interface/stringProcessor/StringProcessor.java">
+    <entry file="file://$PROJECT_DIR$/src/thinkingInJava/Chapter21th/part8/BankTellerSimulation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="10" column="31" lean-forward="true" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/August6th/part2_interface/filter/Waveform.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/August6th/part2_interface/filter/HighPass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/August6th/part2_interface/filter/LowPass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/August6th/part2_interface/filter/Filter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/August6th/part2_interface/filter/FilterAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="257">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        <state relative-caret-position="2376">
+          <caret line="122" column="20" selection-start-line="122" selection-start-column="20" selection-end-line="122" selection-end-column="20" />
           <folding>
-            <element signature="e#231#232#0" expanded="true" />
-            <element signature="e#267#268#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/August6th/part2_interface/filter/BandPass.java">
+    <entry file="file://$PROJECT_DIR$/src/thinkingInJava/Chapter21th/part5/Restaurant.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="113">
-          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+        <state relative-caret-position="360">
+          <caret line="23" column="32" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/August6th/part2_interface/filter/FilterProcessor.java">
+    <entry file="file://$PROJECT_DIR$/src/thinkingInJava/Chapter21th/part8/restaurant2/RestaurantWithQueues.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="14" column="16" lean-forward="true" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+        <state relative-caret-position="384">
+          <caret line="58" column="3" selection-start-line="58" selection-start-column="3" selection-end-line="58" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1095#1096#0" expanded="true" />
+            <element signature="e#1188#1189#0" expanded="true" />
+            <element signature="e#2443#2444#0" expanded="true" />
+            <element signature="e#2484#2485#0" expanded="true" />
+            <element signature="e#3524#3525#0" expanded="true" />
+            <element signature="e#3571#3572#0" expanded="true" />
+            <element signature="e#4367#4368#0" expanded="true" />
+            <element signature="e#4404#4405#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/August6th/part2_interface/stringProcessor/Apply.java">
+    <entry file="file://$PROJECT_DIR$/src/thinkingInJava/part1/part6/CountingGenerator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="137">
-          <caret line="9" column="56" lean-forward="true" selection-start-line="9" selection-start-column="56" selection-end-line="9" selection-end-column="56" />
+        <state relative-caret-position="576">
+          <caret line="26" column="24" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/August6th/part3_interface/C4.java">
+    <entry file="file://$PROJECT_DIR$/src/thinkingInJava/Chapter18th/part13th/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="8" column="32" lean-forward="true" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+          <folding>
+            <element signature="e#965#966#0" expanded="true" />
+            <element signature="e#1002#1003#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/thinkingInJava/Chapter18th/part13th/People.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ToOffer/Three.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="30" column="17" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/thinkingInJava/spiciness.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="5" column="36" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/August6th/part3_interface/C.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/August6th/part3_interface/I3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/August7th/part1/A.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-472">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/ToOffer/Five.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="11" column="156" selection-start-line="11" selection-start-column="156" selection-end-line="11" selection-end-column="156" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ToOffer/Four.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-240">
+          <caret line="17" column="70" selection-start-line="17" selection-start-column="70" selection-end-line="17" selection-end-column="70" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ToOffer/Six.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-12.0.1/lib/src.zip!/java.desktop/javax/swing/tree/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="80" column="10" lean-forward="true" selection-start-line="80" selection-start-column="10" selection-end-line="80" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-12.0.1/lib/src.zip!/java.desktop/javax/swing/tree/DefaultMutableTreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1368">
+          <caret line="274" column="15" selection-start-line="274" selection-start-column="15" selection-end-line="274" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ToOffer/Seven.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-240">
+          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+          <folding>
+            <element signature="e#175#176#0" expanded="true" />
+            <element signature="e#204#205#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ToOffer/Eight.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="57" column="19" selection-start-line="57" selection-start-column="19" selection-end-line="57" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2262#2263#0" expanded="true" />
+            <element signature="e#2308#2309#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ToOffer/Nine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="25" column="19" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ToOffer/TenOne.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ToOffer/Ten.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="7" column="7" lean-forward="true" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ToOffer/TenTwo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ToOffer/TenThree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+          <folding>
+            <element signature="e#303#304#0" expanded="true" />
+            <element signature="e#351#352#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ToOffer/Eleven.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="499">
+          <caret line="31" column="53" selection-start-line="31" selection-start-column="53" selection-end-line="31" selection-end-column="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ToOffer/Twelve_practice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ToOffer/Twelve.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="22" column="15" lean-forward="true" selection-start-line="22" selection-start-column="15" selection-end-line="22" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ToOffer/Thirteen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-66">
+          <caret line="15" column="63" selection-start-line="15" selection-start-column="63" selection-end-line="15" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ToOffer/Thirteen_practice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="455">
+          <caret line="31" column="32" selection-start-line="31" selection-start-column="32" selection-end-line="31" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-12.0.1/lib/src.zip!/java.base/java/lang/Math.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="1426" column="22" selection-start-line="1426" selection-start-column="22" selection-end-line="1426" selection-end-column="22" />
+          <folding>
+            <element signature="e#55263#55264#0" expanded="true" />
+            <element signature="e#55302#55303#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ToOffer/Fourteen_practice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="27" column="21" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ToOffer/Fourteen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="25" column="28" lean-forward="true" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ToOffer/Fifteen_practice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ToOffer/Fifteen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+          <folding>
+            <element signature="e#429#430#0" expanded="true" />
+            <element signature="e#471#472#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ToOffer/Sixteen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ToOffer/Seventeen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="42" column="45" selection-start-line="42" selection-start-column="45" selection-end-line="42" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ToOffer/Seventeen_practice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="19" column="10" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ToOffer/ListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ToOffer/Eightteen_practice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ToOffer/Eightteen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="419">
+          <caret line="22" column="35" lean-forward="true" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ToOffer/Twenty_practice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="78" selection-start-line="7" selection-start-column="78" selection-end-line="7" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ToOffer/Twenty.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="33" column="42" selection-start-line="33" selection-start-column="42" selection-end-line="33" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ToOffer/Nineteen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ToOffer/Twenty1th_practice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ToOffer/Twenty1th.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-110">
+          <caret line="7" column="20" lean-forward="true" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+          <folding>
+            <element signature="e#582#583#0" expanded="true" />
+            <element signature="e#615#616#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ToOffer/Twenty2th_practice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ToOffer/Twentt2th.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ToOffer/Twenty3th.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="17" column="200" selection-start-line="17" selection-start-column="200" selection-end-line="17" selection-end-column="200" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>stdlib</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>stdlib</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>practie</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>xom-1.2.5</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
