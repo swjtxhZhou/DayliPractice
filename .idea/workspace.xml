@@ -5,52 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3e2b8870-dfde-4e7d-996a-395776690097" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Chapter21th/part7th/CountDownLatchDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter21th/part7th/DelayQueueDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter21th/part7th/ExchangerDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter21th/part7th/Fat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter21th/part7th/GreenHouseScheduler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter21th/part7th/HorseRace.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter21th/part7th/Pool.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter21th/part7th/PriorityBlockingQueueDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter21th/part7th/SemaphoreDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter21th/part8/BankTellerSimulation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter21th/part8/restaurant2/RestaurantWithQueues.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter21th/part8/carBulider/CarBuilder.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter21th/part2/CachedThreadPool.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter21th/part2/CachedThreadPool.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter21th/part2/part3/AtomicEvenGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter21th/part3/AtomicEvenGenerator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter21th/part2/part3/AtomicIntegerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter21th/part3/AtomicIntegerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter21th/part2/part3/AtomicityTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter21th/part3/AtomicityTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter21th/part2/part3/AttemptLocking.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter21th/part3/AttemptLocking.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter21th/part2/part3/CriticalSection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter21th/part3/CriticalSection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter21th/part2/part3/EvenChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter21th/part3/EvenChecker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter21th/part2/part3/EvenGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter21th/part3/EvenGenerator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter21th/part2/part3/ExplicitCriticalSection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter21th/part3/ExplicitCriticalSection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter21th/part2/part3/IntGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter21th/part3/IntGenerator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter21th/part2/part3/MutexEvenGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter21th/part3/MutexEvenGenerator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter21th/part2/part3/SerialNumberChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter21th/part3/SerialNumberChecker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter21th/part2/part3/SerialNumberGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter21th/part3/SerialNumberGenerator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter21th/part2/part3/SychronizedEvenGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter21th/part3/SychronizedEvenGenerator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter21th/part2/part3/SyncObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter21th/part3/SyncObject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter21th/part2/part3/ThreadLocalVariableHolder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter21th/part3/ThreadLocalVariableHolder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter21th/part2/part4/CloseResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter21th/part4/CloseResource.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter21th/part2/part4/Interrupting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter21th/part4/Interrupting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter21th/part2/part4/Interrupting2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter21th/part4/Interrupting2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter21th/part2/part4/InterruptingIdiom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter21th/part4/InterruptingIdiom.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter21th/part2/part4/MutiLock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter21th/part4/MutiLock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter21th/part2/part4/NIOInterruption.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter21th/part4/NIOInterruption.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter21th/part2/part4/OrnamentalGarden.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter21th/part4/OrnamentalGarden.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter21th/part2/part5/BlockingQueue/PipedIO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter21th/part5/BlockingQueue/PipedIO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter21th/part2/part5/BlockingQueue/TestBlockingQueues.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter21th/part5/BlockingQueue/TestBlockingQueues.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter21th/part2/part5/BlockingQueue/ToastOMatic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter21th/part5/BlockingQueue/ToastOMatic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter21th/part2/part5/NotifyVSNotifyAll.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter21th/part5/NotifyVSNotifyAll.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter21th/part2/part5/Restaurant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter21th/part5/Restaurant.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter21th/part2/part5/WaxOMatic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter21th/part5/WaxOMatic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter21th/part2/part5/WaxOMatic2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter21th/part5/WaxOMatic2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter21th/part2/part5/deadLock/Chopstick.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter21th/part6th/deadLock/Chopstick.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter21th/part2/part5/deadLock/DeadlockingDiningPhilosophers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter21th/part6th/deadLock/DeadlockingDiningPhilosophers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter21th/part2/part5/deadLock/Philosopher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter21th/part6th/deadLock/Philosopher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Utils/StringUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Utils/StringUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter21th/part8/restaurant2/RestaurantWithQueues.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter21th/part8/restaurant2/RestaurantWithQueues.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -78,55 +35,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Chapter21th/part7th/SemaphoreDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1584">
-              <caret line="77" column="10" selection-start-line="77" selection-start-column="10" selection-end-line="77" selection-end-column="10" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Chapter21th/part8/BankTellerSimulation.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2376">
-              <caret line="122" column="20" selection-start-line="122" selection-start-column="20" selection-end-line="122" selection-end-column="20" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Chapter21th/part8/restaurant2/RestaurantWithQueues.java">
+        <entry file="file://$PROJECT_DIR$/src/Chapter21th/part8/carBulider/CarBuilder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="384">
-              <caret line="58" column="3" selection-start-line="58" selection-start-column="3" selection-end-line="58" selection-end-column="3" />
+            <state relative-caret-position="537">
+              <caret line="203" column="290" selection-start-line="203" selection-start-column="290" selection-end-line="203" selection-end-column="290" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1095#1096#0" expanded="true" />
-                <element signature="e#1188#1189#0" expanded="true" />
-                <element signature="e#2443#2444#0" expanded="true" />
-                <element signature="e#2484#2485#0" expanded="true" />
-                <element signature="e#3524#3525#0" expanded="true" />
-                <element signature="e#3571#3572#0" expanded="true" />
-                <element signature="e#4367#4368#0" expanded="true" />
-                <element signature="e#4404#4405#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Chapter21th/part5/Restaurant.java">
+        <entry file="file://$PROJECT_DIR$/src/Chapter21th/part7th/HorseRace.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="23" column="32" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
+            <state relative-caret-position="504">
+              <caret line="25" column="26" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -150,6 +75,7 @@
     <findStrings>
       <find>DataPoint</find>
       <find>Colle</find>
+      <find>Re</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -158,7 +84,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Chapter21th/part2/SelfManaged.java" />
         <option value="$PROJECT_DIR$/src/Chapter21th/part2/ThreadVaritions.java" />
         <option value="$PROJECT_DIR$/src/Chapter21th/part2/Joining.java" />
         <option value="$PROJECT_DIR$/src/Chapter21th/part2/CaptureUncaughtException.java" />
@@ -209,11 +134,13 @@
         <option value="$PROJECT_DIR$/src/Chapter21th/part2/BasicThread.java" />
         <option value="$PROJECT_DIR$/src/Chapter21th/part8/BankTellerSimulation.java" />
         <option value="$PROJECT_DIR$/src/Chapter21th/part8/restaurant2/RestaurantWithQueues.java" />
+        <option value="$PROJECT_DIR$/src/Chapter21th/part8/carBulider/CarBuilder.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="953" />
+    <option name="x" value="672" />
+    <option name="y" value="44" />
     <option name="width" value="974" />
     <option name="height" value="528" />
   </component>
@@ -225,6 +152,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -248,6 +177,28 @@
               <item name="DayliPractice" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Chapter21th" type="462c0819:PsiDirectoryNode" />
+              <item name="part4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DayliPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DayliPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter21th" type="462c0819:PsiDirectoryNode" />
+              <item name="part7th" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DayliPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DayliPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter21th" type="462c0819:PsiDirectoryNode" />
+              <item name="part7th" type="462c0819:PsiDirectoryNode" />
+              <item name="HorseRace.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="DayliPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DayliPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter21th" type="462c0819:PsiDirectoryNode" />
               <item name="part8" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -256,14 +207,12 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Chapter21th" type="462c0819:PsiDirectoryNode" />
               <item name="part8" type="462c0819:PsiDirectoryNode" />
-              <item name="restaurant2" type="462c0819:PsiDirectoryNode" />
+              <item name="carBulider" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -308,13 +257,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.RestaurantWithQueues">
+  <component name="RunManager" selected="Application.CarBuilder">
     <configuration name="BankTellerSimulation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Chapter21th.part8.BankTellerSimulation" />
       <module name="practie" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Chapter21th.part8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CarBuilder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter21th.part8.carBulider.CarBuilder" />
+      <module name="practie" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Chapter21th.part8.carBulider.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -361,33 +323,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SemaphoreDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter21th.part2.part7th.SemaphoreDemo" />
-      <module name="practie" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Chapter21th.part2.part7th.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Application.SemaphoreDemo" />
       <item itemvalue="Application.ExchangerDemo" />
       <item itemvalue="Application.ExchangerDemo (1)" />
       <item itemvalue="Application.BankTellerSimulation" />
       <item itemvalue="Application.RestaurantWithQueues" />
+      <item itemvalue="Application.CarBuilder" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CarBuilder" />
         <item itemvalue="Application.RestaurantWithQueues" />
         <item itemvalue="Application.BankTellerSimulation" />
         <item itemvalue="Application.ExchangerDemo (1)" />
         <item itemvalue="Application.ExchangerDemo" />
-        <item itemvalue="Application.SemaphoreDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -444,7 +393,10 @@
       <workItem from="1577754996005" duration="73150000" />
       <workItem from="1578550180671" duration="9924000" />
       <workItem from="1578634889677" duration="54038000" />
-      <workItem from="1579005195175" duration="5097000" />
+      <workItem from="1579005195175" duration="5235000" />
+      <workItem from="1579137024138" duration="8827000" />
+      <workItem from="1579165152760" duration="11101000" />
+      <workItem from="1579241724152" duration="2394000" />
     </task>
     <task id="LOCAL-00001" summary="“放假”">
       <created>1565943125305</created>
@@ -530,17 +482,24 @@
       <option name="project" value="LOCAL" />
       <updated>1578451237045</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="new">
+      <created>1579051040092</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1579051040093</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="640565000" />
+    <option name="totallyTimeSpent" value="663025000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25692964" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26812366" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -549,7 +508,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.26948774" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.077951" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.24387528" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -619,26 +578,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="new" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Chapter21th/part3/SerialNumberGenerator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="10" column="41" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter21th/part3/AtomicEvenGenerator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="10" column="93" selection-start-line="10" selection-start-column="93" selection-end-line="10" selection-end-column="93" />
-          <folding>
-            <element signature="e#252#253#0" expanded="true" />
-            <element signature="e#304#305#0" expanded="true" />
-            <element signature="e#348#349#0" expanded="true" />
-            <element signature="e#407#408#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Chapter21th/part3/EvenChecker.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="158">
@@ -910,16 +849,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter21th/part7th/HorseRace.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="42" column="28" lean-forward="true" selection-start-line="42" selection-start-column="28" selection-end-line="42" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/JAVA/jdk1.8/src.zip!/java/util/concurrent/Delayed.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
@@ -1098,20 +1027,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter19th/part1/part7/Food.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter19th/part1/part7/Course.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Chapter21th/part7th/SemaphoreDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1584">
@@ -1132,6 +1047,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter21th/part8/restaurant2/RestaurantWithQueues.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1704">
+          <caret line="83" column="38" selection-start-line="83" selection-start-column="38" selection-end-line="83" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter19th/part1/part7/Food.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Chapter21th/part5/Restaurant.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
@@ -1142,20 +1074,40 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter21th/part8/restaurant2/RestaurantWithQueues.java">
+    <entry file="file://$PROJECT_DIR$/src/August30th/Pattern/Rudolph.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="58" column="3" selection-start-line="58" selection-start-column="3" selection-end-line="58" selection-end-column="3" />
+        <state relative-caret-position="192">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter19th/part1/part7/Course.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+          <folding>
+            <element signature="e#493#494#0" expanded="true" />
+            <element signature="e#536#537#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter21th/part8/carBulider/CarBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="537">
+          <caret line="203" column="290" selection-start-line="203" selection-start-column="290" selection-end-line="203" selection-end-column="290" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1095#1096#0" expanded="true" />
-            <element signature="e#1188#1189#0" expanded="true" />
-            <element signature="e#2443#2444#0" expanded="true" />
-            <element signature="e#2484#2485#0" expanded="true" />
-            <element signature="e#3524#3525#0" expanded="true" />
-            <element signature="e#3571#3572#0" expanded="true" />
-            <element signature="e#4367#4368#0" expanded="true" />
-            <element signature="e#4404#4405#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter21th/part7th/HorseRace.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="25" column="26" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
