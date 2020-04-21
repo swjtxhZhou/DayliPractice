@@ -1,0 +1,29 @@
+1: package Chapter18th.part6th;
+2: 
+3: import java.io.*;
+4: 
+5: //基本文件输出
+6: public class BasicFileOutput {
+7:     static String file = "BasicFileOutput.out";
+8:     public static void main(String[] args)throws IOException {
+9:         BufferedReader in = new BufferedReader(new StringReader(BufferedInputFile.read("D:\\practie\\DayliPractice\\src\\Chapter18th\\part6th\\BasicFileOutput.java")));
+10:         /**
+11:          * FileWriter对象可以向文件写入数据。
+12:          * 首先创建一个与指定文件连接的FileWriter。
+13:          * 通常会用BufferedWriter将其包装起来用以缓冲输出（缓冲往往能显著地增加i/o操作的性能）
+14:          * 本例中它被装饰成PrintWriter，这种方式创建的数据文件可作为普通文本文件读取
+15:          */
+16:         PrintWriter out = new PrintWriter(new BufferedWriter(new FileWriter(file)));
+17:         int lineCount = 1;
+18:         String s;
+19:         while((s=in.readLine())!=null){
+20:             out.println(lineCount+++": "+s);
+21: 
+22:         }
+23:         /**
+24:          * out显式地调用close（）。若没有这样做，就会发现缓冲区内容不会被刷新清空，那么他们也就不完整
+25:          */
+26:         out.close();
+27:         System.out.println("读取文件： "+BufferedInputFile.read(file));
+28:     }
+29: }

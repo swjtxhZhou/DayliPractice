@@ -1,0 +1,21 @@
+1: package Chapter18th.part6th;
+2: 
+3: import java.io.BufferedReader;
+4: import java.io.IOException;
+5: import java.io.PrintWriter;
+6: import java.io.StringReader;
+7: 
+8: public class FileOutputShortcut {
+9:     static String file = "FileOutputShortcut.out";
+10:     public static void main(String[] args)throws IOException {
+11:         BufferedReader in = new BufferedReader(new StringReader(BufferedInputFile.read("D:\\practie\\DayliPractice\\src\\Chapter18th\\part6th\\FileOutputShortcut.java")));
+12:         PrintWriter out = new PrintWriter(file);
+13:         int lineCount = 1;
+14:         String s;
+15:         while((s=in.readLine())!=null){
+16:             out.println(lineCount++ +": "+s);
+17:         }
+18:         out.close();
+19:         System.out.println("读取文件： "+BufferedInputFile.read(file));
+20:     }
+21: }
