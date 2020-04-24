@@ -1,7 +1,9 @@
 package ToOffer;
 
+import ToOffer.Utils.ListNode;
+
 public class Eightteen_practice {
-    public ListNode deleteNode(ListNode head,ListNode targets){
+    public ListNode deleteNode(ListNode head, ListNode targets){
         ListNode index;
         if(head==null||targets==null){return null;}
         //只有一个节点的情况

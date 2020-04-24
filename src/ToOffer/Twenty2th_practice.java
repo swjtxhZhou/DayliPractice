@@ -1,7 +1,9 @@
 package ToOffer;
 
+import ToOffer.Utils.ListNode;
+
 public class Twenty2th_practice {
-    public ListNode findKthToTail(ListNode head,int k){
+    public ListNode findKthToTail(ListNode head, int k){
         if(head==null){return null;}
         int i=0;
         ListNode p1=head;

@@ -1,5 +1,7 @@
 package ToOffer;
 
+import ToOffer.Utils.ListNode;
+
 public class Twenty3th {
     /**
      * 链表中环的入口结点
@@ -17,4 +19,19 @@ public class Twenty3th {
      *
      * 上面的等值没有很强的规律，但是我们可以发现 y+z 就是圆环的总长度，因此我们将上面的等式再分解：x=(N-2)(y+z)+z。这个等式左边是从起点x1 到环入口节点 y1 的长度，而右边是在圆环中走过 (N-2) 圈，再从相遇点 z1 再走过长度为 z 的长度。此时我们可以发现如果让两个指针同时从起点 x1 和相遇点 z1 开始，每次只走过一个距离，那么最后他们会在环入口节点相遇。
      */
+    public ListNode EntryNodeOfLoop(ListNode pHead) {
+        if (pHead == null || pHead.next == null)
+            return null;
+        ListNode slow = pHead, fast = pHead;
+        do {
+            fast = fast.next.next;
+            slow = slow.next;
+        } while (slow != fast);
+        fast = pHead;
+        while (slow != fast) {
+            slow = slow.next;
+            fast = fast.next;
+        }
+        return slow;
+    }
 }

@@ -1,5 +1,7 @@
 package ToOffer;
 
+import ToOffer.Utils.ListNode;
+
 public class Eightteen {
     /**
      * 在 O(1) 时间内删除链表节点

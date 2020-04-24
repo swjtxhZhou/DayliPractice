@@ -1,5 +1,7 @@
 package ToOffer;
 
+import ToOffer.Utils.ListNode;
+
 public class Twentt2th {
     /**
      * 链表中倒数第 K 个结点
