@@ -4,29 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/src/thinkingInJava/Pattern/Rudolph.java" line="8" mnemonic="8" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3e2b8870-dfde-4e7d-996a-395776690097" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/xom_1_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ToOffer/Twenty4th.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ToOffer/Twenty4th_practice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ToOffer/Twenty5th.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ToOffer/Twenty6th.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ToOffer/Twenty6th_practice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ToOffer/Twenty7th.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ToOffer/Twenty7th_practice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ToOffer/Twenty8th.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ToOffer/Twenty8th_practice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ToOffer/Twenty9th.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/thinkingInJava/October9th/Generator/CoffeeGenerator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/xom_1_2_5.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practie.iml" beforeDir="false" afterPath="$PROJECT_DIR$/practie.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ToOffer/Eightteen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ToOffer/Eightteen.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ToOffer/Eightteen_practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ToOffer/Eightteen_practice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ToOffer/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ToOffer/Utils/ListNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ToOffer/Twentt2th.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ToOffer/Twentt2th.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ToOffer/Twenty2th_practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ToOffer/Twenty2th_practice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ToOffer/Twenty3th.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ToOffer/Twenty3th.java" afterDir="false" />
-    </list>
+    <list default="true" id="3e2b8870-dfde-4e7d-996a-395776690097" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -52,26 +30,7 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ToOffer/Twenty8th.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="9" column="45" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/ToOffer/Twenty8th_practice.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -91,6 +50,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -181,13 +141,6 @@
               <item name="DayliPractice" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="ToOffer" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DayliPractice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DayliPractice" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ToOffer" type="462c0819:PsiDirectoryNode" />
-              <item name="Utils" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DayliPractice" type="b2602c69:ProjectViewProjectNode" />
@@ -479,12 +432,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="726169000" />
+    <option name="totallyTimeSpent" value="726190000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16577825" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1673774" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -499,7 +452,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32962137" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="8" visible="true" weight="0.033407573" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.32628062" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.32935154" />
@@ -549,6 +502,32 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="“放假”" />
