@@ -5,6 +5,7 @@ import java.util.ArrayList;
 public class Thirty4th {
     /**
      * 输入一颗二叉树和一个整数，打印出二叉树中结点值的和为输入整数的所有路径。路径定义为从树的根结点开始往下一直到叶结点所经过的结点形成一条路径。
+     * 深度优先搜索
      */
     private ArrayList<ArrayList<Integer>> ret = new ArrayList<>();
 
@@ -24,7 +25,7 @@ public class Thirty4th {
             backtracking(node.left, target, path);
             backtracking(node.right, target, path);
         }
-        path.remove(path.size() - 1);//往下也走不通了，将这个节点的值减去
+        path.remove(path.size() - 1);//已经将这个节点的左右子树走完了，可能会存在可以走通的路线，返回上一层的时候要移去这个节点，继续去寻找其他的出路，如果不移去这个节点该条Path中存储的值就会是有问题的。
     }
 
     public ArrayList<ArrayList<Integer>> FindPath2(TreeNode root,int target) {

@@ -5,18 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3e2b8870-dfde-4e7d-996a-395776690097" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ToOffer/Thirty.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ToOffer/Thirty1th.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ToOffer/Thirty1th_practice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ToOffer/Thirty2th.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ToOffer/Thirty2th2part.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ToOffer/Thirty2th_practice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ToOffer/Thirty3th.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ToOffer/Thirty3th_practice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ToOffer/Thirty_practice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ToOffer/Twenty9th_practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ToOffer/Thirty4th_practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ToOffer/Thirty5th.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ToOffer/Utils/RandomListNode.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ToOffer/Twenty9th.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ToOffer/Twenty9th.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ToOffer/Thirty4th.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ToOffer/Thirty4th.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -45,10 +38,23 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/ToOffer/Thirty3th.java">
+        <entry file="file://$PROJECT_DIR$/src/ToOffer/Thirty5th.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="26" column="24" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="24" />
+            <state relative-caret-position="144">
+              <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ToOffer/Utils/RandomListNode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="48">
+              <caret line="2" column="29" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
+              <folding>
+                <element signature="e#216#217#0" expanded="true" />
+                <element signature="e#258#259#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -83,9 +89,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/ToOffer/Eight.java" />
-        <option value="$PROJECT_DIR$/src/ToOffer/Nine.java" />
-        <option value="$PROJECT_DIR$/src/ToOffer/Ten.java" />
         <option value="$PROJECT_DIR$/src/ToOffer/TenOne.java" />
         <option value="$PROJECT_DIR$/src/ToOffer/TenTwo.java" />
         <option value="$PROJECT_DIR$/src/ToOffer/TenThree.java" />
@@ -131,9 +134,12 @@
         <option value="$PROJECT_DIR$/src/ToOffer/Thirty1th.java" />
         <option value="$PROJECT_DIR$/src/ToOffer/Thirty2th.java" />
         <option value="$PROJECT_DIR$/src/ToOffer/Thirty2th_practice.java" />
-        <option value="$PROJECT_DIR$/src/ToOffer/Thirty4th.java" />
         <option value="$PROJECT_DIR$/src/ToOffer/Thirty3th.java" />
         <option value="$PROJECT_DIR$/src/ToOffer/Thirty3th_practice.java" />
+        <option value="$PROJECT_DIR$/src/ToOffer/Thirty4th.java" />
+        <option value="$PROJECT_DIR$/src/ToOffer/Thirty4th_practice.java" />
+        <option value="$PROJECT_DIR$/src/ToOffer/Utils/RandomListNode.java" />
+        <option value="$PROJECT_DIR$/src/ToOffer/Thirty5th.java" />
       </list>
     </option>
   </component>
@@ -151,7 +157,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -178,7 +184,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -371,6 +377,7 @@
       <workItem from="1587607766008" duration="10948000" />
       <workItem from="1587625520418" duration="1348000" />
       <workItem from="1587626921098" duration="1202000" />
+      <workItem from="1587800319804" duration="1865000" />
     </task>
     <task id="LOCAL-00001" summary="“放假”">
       <created>1565943125305</created>
@@ -463,17 +470,31 @@
       <option name="project" value="LOCAL" />
       <updated>1587707477321</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="4.24提交">
+      <created>1587739999104</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1587739999104</updated>
+    </task>
+    <task id="LOCAL-00015" summary="4.24提交">
+      <created>1587741592695</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1587741592695</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="742090000" />
+    <option name="totallyTimeSpent" value="745564000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1673774" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16897655" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -482,7 +503,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3651877" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.24721603" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.24721603" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.10244989" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -564,6 +585,20 @@
         </entry>
       </map>
     </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="“放假”" />
@@ -580,37 +615,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="4.24提交" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/ToOffer/Eleven.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="499">
-          <caret line="31" column="53" selection-start-line="31" selection-start-column="53" selection-end-line="31" selection-end-column="53" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ToOffer/Twelve_practice.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ToOffer/Twelve.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="22" column="15" lean-forward="true" selection-start-line="22" selection-start-column="15" selection-end-line="22" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ToOffer/Thirteen.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-66">
-          <caret line="15" column="63" selection-start-line="15" selection-start-column="63" selection-end-line="15" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ToOffer/Thirteen_practice.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="455">
@@ -970,6 +974,38 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="26" column="24" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ToOffer/Thirty4th.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-568">
+          <caret line="6" column="7" lean-forward="true" selection-start-line="6" selection-start-column="7" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ToOffer/Thirty4th_practice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="23" column="35" lean-forward="true" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ToOffer/Utils/RandomListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="29" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
+          <folding>
+            <element signature="e#216#217#0" expanded="true" />
+            <element signature="e#258#259#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ToOffer/Thirty5th.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
         </state>
       </provider>
     </entry>
