@@ -5,16 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3e2b8870-dfde-4e7d-996a-395776690097" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ToOffer/Forty1_2th.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ToOffer/Forty1_2th_practice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ToOffer/Forty2th.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ToOffer/Forty2th_practice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ToOffer/Forty3th.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ToOffer/Forty3th_practice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ToOffer/Forty4th.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ToOffer/Forty5th.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ToOffer/Forty6th.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ToOffer/Forty6th_pratice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ToOffer/Forty8th.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ToOffer/Forty8th_practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ToOffer/Forty9th.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ToOffer/Forty9th_practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ToOffer/Forty_7th.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ToOffer/Forty_7th_practice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/xom_1_3_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/xom_1_3_2.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ToOffer/Forty6th.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ToOffer/Forty6th.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -42,11 +42,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/ToOffer/Forty6th.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ToOffer/Forty9th.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="528">
-              <caret line="23" column="35" lean-forward="true" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
+            <state relative-caret-position="286">
+              <caret line="13" column="28" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ToOffer/Forty9th_practice.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="440">
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
             </state>
           </provider>
         </entry>
@@ -81,13 +90,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/ToOffer/Twenty1th_practice.java" />
-        <option value="$PROJECT_DIR$/src/ToOffer/Twenty3th.java" />
-        <option value="$PROJECT_DIR$/src/thinkingInJava/October9th/Generator/CoffeeGenerator.java" />
-        <option value="$PROJECT_DIR$/src/ToOffer/ListNode.java" />
-        <option value="$PROJECT_DIR$/src/ToOffer/Utils/ListNode.java" />
-        <option value="$PROJECT_DIR$/src/ToOffer/Eightteen.java" />
-        <option value="$PROJECT_DIR$/src/ToOffer/Eightteen_practice.java" />
         <option value="$PROJECT_DIR$/src/ToOffer/Twentt2th.java" />
         <option value="$PROJECT_DIR$/src/ToOffer/Twenty2th_practice.java" />
         <option value="$PROJECT_DIR$/src/ToOffer/Twenty4th.java" />
@@ -132,6 +134,13 @@
         <option value="$PROJECT_DIR$/src/ToOffer/Forty4th.java" />
         <option value="$PROJECT_DIR$/src/ToOffer/Forty5th.java" />
         <option value="$PROJECT_DIR$/src/ToOffer/Forty6th.java" />
+        <option value="$PROJECT_DIR$/src/ToOffer/Forty6th_pratice.java" />
+        <option value="$PROJECT_DIR$/src/ToOffer/Forty_7th.java" />
+        <option value="$PROJECT_DIR$/src/ToOffer/Forty_7th_practice.java" />
+        <option value="$PROJECT_DIR$/src/ToOffer/Forty8th.java" />
+        <option value="$PROJECT_DIR$/src/ToOffer/Forty8th_practice.java" />
+        <option value="$PROJECT_DIR$/src/ToOffer/Forty9th.java" />
+        <option value="$PROJECT_DIR$/src/ToOffer/Forty9th_practice.java" />
       </list>
     </option>
   </component>
@@ -149,7 +158,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -172,6 +180,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -188,8 +197,8 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1588694095212" />
-    <property name="last_opened_file_path" value="E:/software_installed/swrlapi-drools-engine/swrlapi-drools-engine" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1588758793659" />
+    <property name="last_opened_file_path" value="C:/Program Files/Java/xom-1.2.5.jar!/" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
@@ -221,7 +230,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Thirty8th">
+  <component name="RunManager" selected="Application.Forty9th_practice">
+    <configuration name="Forty9th_practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ToOffer.Forty9th_practice" />
+      <module name="practie" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ToOffer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Thirty7th" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ToOffer.Thirty7th" />
       <module name="practie" />
@@ -241,19 +263,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ToOffer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Twenty4th" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ToOffer.Twenty4th" />
-      <module name="practie" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ToOffer.Utils.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -288,19 +297,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Twenty4th" />
       <item itemvalue="Application.Twenty4th_practice" />
       <item itemvalue="Application.Twenty9th" />
       <item itemvalue="Application.Thirty7th" />
       <item itemvalue="Application.Thirty8th" />
+      <item itemvalue="Application.Forty9th_practice" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Forty9th_practice" />
         <item itemvalue="Application.Thirty8th" />
         <item itemvalue="Application.Thirty7th" />
         <item itemvalue="Application.Twenty9th" />
         <item itemvalue="Application.Twenty4th_practice" />
-        <item itemvalue="Application.Twenty4th" />
       </list>
     </recent_temporary>
   </component>
@@ -370,7 +379,8 @@
       <workItem from="1588125685569" duration="34000" />
       <workItem from="1588165616199" duration="6158000" />
       <workItem from="1588345975709" duration="672000" />
-      <workItem from="1588689772420" duration="4278000" />
+      <workItem from="1588689772420" duration="4522000" />
+      <workItem from="1588749826927" duration="8172000" />
     </task>
     <task id="LOCAL-00001" summary="“放假”">
       <created>1565943125305</created>
@@ -491,17 +501,23 @@
       <option name="project" value="LOCAL" />
       <updated>1588074596040</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="5.5commit">
+      <created>1588694203685</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1588694203685</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="775403000" />
+    <option name="totallyTimeSpent" value="783819000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25692964" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2595949" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -511,7 +527,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3651877" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.19599108" />
-      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.093541205" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.09312639" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -520,7 +536,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.32628062" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.32935154" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.1792873" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.17849223" />
       <window_info anchor="bottom" id="Duplicate detector" order="13" weight="0.32881355" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -621,7 +637,8 @@
     <MESSAGE value="4.24提交" />
     <MESSAGE value="4.25commit" />
     <MESSAGE value="4.28commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="4.28commit" />
+    <MESSAGE value="5.5commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="5.5commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -632,69 +649,16 @@
           <properties />
           <option name="timeStamp" value="2" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ToOffer/Forty9th_practice.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/ToOffer/Twenty4th.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="51" column="8" selection-start-line="51" selection-start-column="8" selection-end-line="56" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ToOffer/Twenty5th.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="482">
-          <caret line="46" selection-start-line="46" selection-end-line="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ToOffer/Twenty6th_practice.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="12" column="94" selection-start-line="12" selection-start-column="94" selection-end-line="12" selection-end-column="94" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ToOffer/Twenty7th_practice.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="9" column="26" lean-forward="true" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ToOffer/Twenty7th.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ToOffer/Twenty6th.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ToOffer/Twenty8th.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="9" column="45" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ToOffer/Twenty8th_practice.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ToOffer/Twenty9th.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="560">
@@ -1001,10 +965,66 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/ToOffer/Forty8th_practice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="20" column="29" lean-forward="true" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ToOffer/Forty8th.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="27" column="19" lean-forward="true" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ToOffer/Forty_7th_practice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ToOffer/Forty_7th.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="21" column="32" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ToOffer/Forty6th_pratice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="20" lean-forward="true" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/ToOffer/Forty6th.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="23" column="35" lean-forward="true" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
+        <state relative-caret-position="195">
+          <caret line="12" column="29" lean-forward="true" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ToOffer/Forty9th.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="28" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/thinkingInJava/Chapter18th/part13th/People.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="23" lean-forward="true" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ToOffer/Forty9th_practice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
         </state>
       </provider>
     </entry>
@@ -1067,6 +1087,7 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
