@@ -50,7 +50,7 @@ public class Fifty1th {
         MergeSort(array, mid+1, end);
         MergeOne(array, start, mid, end);
     }
-    //那一部分开始排序？？？
+    //
     private void MergeOne(int[] array, int start, int mid, int end){
         int[] temp = new int[end-start+1];//新建的temp把该次排序的数组有序的存放
         int k=0,i=start,j=mid+1;
@@ -61,7 +61,7 @@ public class Fifty1th {
             else{
 //如果前面的元素大于后面的，那么在前面元素之后的元素都能和后面的元素构成逆序对
                 temp[k++] = array[j++];//因为前面的元素比后面的元素大，那么后面这个元素就是前面的元素加上后面这个元素的最小值
-                cnt = (cnt + (mid-i+1))%1000000007;//mid-i是i到j之间的元素数量，加上自身就是mid-i+1;
+                cnt = (cnt + (mid-i+1));//mid-i是i到j之间的元素数量，加上自身就是mid-i+1;
             }
         }
         /**
