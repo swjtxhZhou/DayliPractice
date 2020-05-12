@@ -38,6 +38,7 @@ class ProfitCalculator {
         AsynchronousFileChannel fileChannel = AsynchronousFileChannel.open(
                 Paths.get("/asynchronous.txt"), StandardOpenOption.READ,
                 StandardOpenOption.WRITE, StandardOpenOption.CREATE);
+
         CompletionHandler<Integer, Object> handler = new CompletionHandler<Integer, Object>() {
 
             @Override
