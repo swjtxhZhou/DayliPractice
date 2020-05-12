@@ -5,13 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3e2b8870-dfde-4e7d-996a-395776690097" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ToOffer/Sixty1th.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ToOffer/Sixty1th_practice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ToOffer/Sixty2th.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ToOffer/Sixty2th_practice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ToOffer/Sixty3th.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ToOffer/Sixty3th_practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ToOffer/Sixty4th.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ToOffer/Sixty5th.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ToOffer/Sixty6th.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ToOffer/Sixty6th_practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ToOffer/Sixty7th.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ToOffer/Sixty7th_practice.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaToGod/IO/AIO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaToGod/IO/AIO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ToOffer/Sixty3th.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ToOffer/Sixty3th.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,22 +42,55 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ToOffer/Sixty.java">
+        <entry file="file://$PROJECT_DIR$/src/ToOffer/Sixty4th.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
-              <caret line="22" column="22" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="264">
+              <caret line="10" column="55" selection-start-line="10" selection-start-column="55" selection-end-line="10" selection-end-column="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ToOffer/Sixty5th.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="192">
+              <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ToOffer/Sixty6th.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="10" column="45" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ToOffer/Sixty6th_practice.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="6" column="75" selection-start-line="6" selection-start-column="75" selection-end-line="6" selection-end-column="75" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ToOffer/Sixty7th.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="22" column="22" lean-forward="true" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/ToOffer/Sixty3th.java">
+        <entry file="file://$PROJECT_DIR$/src/ToOffer/Sixty7th_practice.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="6" column="49" selection-start-line="6" selection-start-column="49" selection-end-line="6" selection-end-column="49" />
+            <state relative-caret-position="800">
+              <caret line="45" column="39" selection-start-line="45" selection-start-column="39" selection-end-line="45" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -90,13 +125,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/ToOffer/Thirty9th_pracitce.java" />
-        <option value="$PROJECT_DIR$/src/ToOffer/Forty.java" />
-        <option value="$PROJECT_DIR$/src/ToOffer/Forty_practice.java" />
-        <option value="$PROJECT_DIR$/src/ToOffer/Forty1th.java" />
-        <option value="$PROJECT_DIR$/src/ToOffer/Forty2th.java" />
-        <option value="$PROJECT_DIR$/src/ToOffer/Forty2th_practice.java" />
-        <option value="$PROJECT_DIR$/src/ToOffer/Forty3th_practice.java" />
         <option value="$PROJECT_DIR$/src/ToOffer/Forty3th.java" />
         <option value="$PROJECT_DIR$/src/ToOffer/Forty4th.java" />
         <option value="$PROJECT_DIR$/src/ToOffer/Forty5th.java" />
@@ -141,6 +169,13 @@
         <option value="$PROJECT_DIR$/src/ToOffer/Sixty2th.java" />
         <option value="$PROJECT_DIR$/src/ToOffer/Sixty2th_practice.java" />
         <option value="$PROJECT_DIR$/src/ToOffer/Sixty3th.java" />
+        <option value="$PROJECT_DIR$/src/ToOffer/Sixty3th_practice.java" />
+        <option value="$PROJECT_DIR$/src/ToOffer/Sixty4th.java" />
+        <option value="$PROJECT_DIR$/src/ToOffer/Sixty5th.java" />
+        <option value="$PROJECT_DIR$/src/ToOffer/Sixty6th.java" />
+        <option value="$PROJECT_DIR$/src/ToOffer/Sixty6th_practice.java" />
+        <option value="$PROJECT_DIR$/src/ToOffer/Sixty7th.java" />
+        <option value="$PROJECT_DIR$/src/ToOffer/Sixty7th_practice.java" />
       </list>
     </option>
   </component>
@@ -407,7 +442,7 @@
       <workItem from="1588749826927" duration="8172000" />
       <workItem from="1589007607801" duration="25863000" />
       <workItem from="1589200387314" duration="4307000" />
-      <workItem from="1589250819094" duration="10138000" />
+      <workItem from="1589250819094" duration="17265000" />
     </task>
     <task id="LOCAL-00001" summary="“放假”">
       <created>1565943125305</created>
@@ -563,17 +598,24 @@
       <option name="project" value="LOCAL" />
       <updated>1589262786880</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="film-5.12-ToOffer—TobeTopJavaer">
+      <created>1589276168436</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1589276168436</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="833722000" />
+    <option name="totallyTimeSpent" value="840849000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18443497" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1705757" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -582,7 +624,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3651877" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.23496659" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.23734534" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.5044543" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -712,49 +754,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/ToOffer/Forty_7th_practice.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ToOffer/Forty_7th.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="21" column="32" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ToOffer/Forty6th_pratice.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="20" lean-forward="true" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ToOffer/Forty6th.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="12" column="29" lean-forward="true" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/thinkingInJava/Chapter18th/part13th/People.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="23" lean-forward="true" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaToGod.java" />
-    <entry file="file://$PROJECT_DIR$/src/thinkingInJava/Chapter18th/part13th/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://D:/JAVA/jdk-12.0.1_windows-x64_bin/jdk-12.0.1/lib/src.zip!/java.base/java/lang/String.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="248">
@@ -1086,9 +1085,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/ToOffer/Sixty3th_practice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ToOffer/Sixty3th.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="397">
+          <caret line="25" column="94" selection-start-line="25" selection-start-column="94" selection-end-line="25" selection-end-column="94" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/ToOffer/Sixty.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
+        <state relative-caret-position="368">
           <caret line="22" column="22" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1096,10 +1109,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ToOffer/Sixty3th.java">
+    <entry file="file://$PROJECT_DIR$/src/ToOffer/Sixty4th.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="6" column="49" selection-start-line="6" selection-start-column="49" selection-end-line="6" selection-end-column="49" />
+        <state relative-caret-position="264">
+          <caret line="10" column="55" selection-start-line="10" selection-start-column="55" selection-end-line="10" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ToOffer/Sixty5th.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ToOffer/Sixty6th.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="10" column="45" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ToOffer/Sixty6th_practice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="6" column="75" selection-start-line="6" selection-start-column="75" selection-end-line="6" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ToOffer/Sixty7th.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="22" column="22" lean-forward="true" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ToOffer/Sixty7th_practice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="800">
+          <caret line="45" column="39" selection-start-line="45" selection-start-column="39" selection-end-line="45" selection-end-column="39" />
         </state>
       </provider>
     </entry>
