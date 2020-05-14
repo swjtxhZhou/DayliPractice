@@ -7,7 +7,7 @@ public class Sixty4th {
      */
     public int Sum_solution(int n){
         int sum = n;
-        //第二个条件永远为真，由第一个条件判断是否继续向下执行
+        //第二个条件永远为真，由第一个条件判断是否继续向下执行，到达最底层Sum的值就从1开始返回并累加到sum
         boolean b = (n>0)&&((sum+=Sum_solution(n-1))>0);
         return sum;
     }

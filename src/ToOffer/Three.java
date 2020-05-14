@@ -21,6 +21,7 @@ public class Three {
          * 1.2，若不相同，将当前的数字存储到该数字对应的位置上面
          */
         for(int i=0; i<length;i++){
+
             while(nums[i] != i){
 
                 if(nums[i] == nums[nums[i]]){
