@@ -5,23 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3e2b8870-dfde-4e7d-996a-395776690097" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/cglib_3_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaToGod/DynamicProxy/CglibProxy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaToGod/DynamicProxy/MyInvocationHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaToGod/DynamicProxy/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaToGod/DynamicProxy/UserServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaToGod/Extends_Super/Apple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaToGod/Extends_Super/Banana.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaToGod/Extends_Super/Food.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaToGod/Extends_Super/Fruit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaToGod/Extends_Super/GenericTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaToGod/Serializable/ExternalizableDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaToGod/Serializable/SerializableDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaToGod/Serializable/User1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaToGod/Serializable/User2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaToGod/Serializable/User3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practie.iml" beforeDir="false" afterPath="$PROJECT_DIR$/practie.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -505,7 +489,7 @@
       <workItem from="1588749826927" duration="8172000" />
       <workItem from="1589007607801" duration="25863000" />
       <workItem from="1589200387314" duration="4307000" />
-      <workItem from="1589250819094" duration="39770000" />
+      <workItem from="1589250819094" duration="41010000" />
     </task>
     <task id="LOCAL-00001" summary="“放假”">
       <created>1565943125305</created>
@@ -689,11 +673,18 @@
       <option name="project" value="LOCAL" />
       <updated>1589435147079</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="film-5.15-ToOffer-toGoodJavaer">
+      <created>1589502481897</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1589502481897</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="863354000" />
+    <option name="totallyTimeSpent" value="864594000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -825,7 +816,8 @@
     <MESSAGE value="film-5.12-ToOffer—TobeTopJavaer" />
     <MESSAGE value="film-5.12-ToOffer" />
     <MESSAGE value="film-5.14-ToOffer" />
-    <option name="LAST_COMMIT_MESSAGE" value="film-5.14-ToOffer" />
+    <MESSAGE value="film-5.15-ToOffer-toGoodJavaer" />
+    <option name="LAST_COMMIT_MESSAGE" value="film-5.15-ToOffer-toGoodJavaer" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
