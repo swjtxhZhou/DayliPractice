@@ -34,6 +34,29 @@ public class MiniMumPathSum {
         return dp[row-1][col-1];
     }
     //一位数组
-    
+    public int minPathSum_OnePlat(int[][] grid){
+        if(grid==null||grid.length==0||grid[0].length==0){
+            return 0;
+        }
+        int row = grid.length;
+        int col = grid[0].length;
+        int[] dp = new int[col];
+        for(int i=0;i<row;i++){
+            for(int j=0;j<col;j++){
+                if(j==0){
+                    //只能从上侧走向这个位置
+                    dp[j]=dp[j];
+                }else if(i==0){//这一步是第一遍初始化dp[]数组,每次换一行后都会更新dp[]的状态
+                    //只能从左侧走向这个位置
+                    dp[j]=dp[j-1];
+                }else{
+                    dp[j]=Math.min(dp[j],dp[j-1]);
+                }
+                //第二个判断只会在第一次循环中使用，每次主要是第一个判断和第三个判断起作用
+                dp[j]+=grid[i][j];
+            }
+        }
+        return dp[col-1];
+    }
 
 }

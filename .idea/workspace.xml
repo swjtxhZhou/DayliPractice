@@ -4,14 +4,10 @@
     <bookmark url="file://$PROJECT_DIR$/src/thinkingInJava/Pattern/Rudolph.java" line="8" mnemonic="8" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3e2b8870-dfde-4e7d-996a-395776690097" name="Default Changelist" comment="film-5.15-ToOffer-toGoodJavaer">
-      <change afterPath="$PROJECT_DIR$/src/Algorithem/DynamicPlan/ClimbingStaris.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Algorithem/DynamicPlan/CowProduct.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Algorithem/DynamicPlan/HouseRapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Algorithem/DynamicPlan/HouseRapper2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Algorithem/DynamicPlan/MailMix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Algorithem/DynamicPlan/MatrixPath/MiniMumPathSum.java" afterDir="false" />
+    <list default="true" id="3e2b8870-dfde-4e7d-996a-395776690097" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Algorithem/DynamicPlan/MatrixPath/UniquePath.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Algorithem/DynamicPlan/MatrixPath/MiniMumPathSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Algorithem/DynamicPlan/MatrixPath/MiniMumPathSum.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -84,11 +80,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Algorithem/DynamicPlan/MatrixPath/MiniMumPathSum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="424">
-              <caret line="36" column="4" selection-start-line="36" selection-start-column="4" selection-end-line="36" selection-end-column="4" />
+            <state relative-caret-position="928">
+              <caret line="54" column="54" selection-start-line="54" selection-start-column="54" selection-end-line="54" selection-end-column="54" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Algorithem/DynamicPlan/MatrixPath/UniquePath.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="328">
+              <caret line="32" column="46" selection-start-line="32" selection-start-column="46" selection-end-line="32" selection-end-column="46" />
             </state>
           </provider>
         </entry>
@@ -123,7 +128,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/ToOffer/Fifty8th.java" />
         <option value="$PROJECT_DIR$/src/ToOffer/Fifty8th_practice.java" />
         <option value="$PROJECT_DIR$/src/ToOffer/Fifty8th_2nd.java" />
         <option value="$PROJECT_DIR$/src/ToOffer/Fifty9th.java" />
@@ -174,6 +178,7 @@
         <option value="$PROJECT_DIR$/src/Algorithem/DynamicPlan/MailMix.java" />
         <option value="$PROJECT_DIR$/src/Algorithem/DynamicPlan/CowProduct.java" />
         <option value="$PROJECT_DIR$/src/Algorithem/DynamicPlan/MatrixPath/MiniMumPathSum.java" />
+        <option value="$PROJECT_DIR$/src/Algorithem/DynamicPlan/MatrixPath/UniquePath.java" />
       </list>
     </option>
   </component>
@@ -442,7 +447,7 @@
       <workItem from="1588749826927" duration="8172000" />
       <workItem from="1589007607801" duration="25863000" />
       <workItem from="1589200387314" duration="4307000" />
-      <workItem from="1589250819094" duration="50572000" />
+      <workItem from="1589250819094" duration="53417000" />
     </task>
     <task id="LOCAL-00001" summary="“放假”">
       <created>1565943125305</created>
@@ -647,17 +652,24 @@
       <option name="project" value="LOCAL" />
       <updated>1589606728111</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="film-5.16-ToOffer-DynimicPlan">
+      <created>1589616613148</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1589616613148</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="874156000" />
+    <option name="totallyTimeSpent" value="877001000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="976" height="1056" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.033842795" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15938865" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -753,7 +765,8 @@
     <MESSAGE value="film-5.12-ToOffer" />
     <MESSAGE value="film-5.14-ToOffer" />
     <MESSAGE value="film-5.15-ToOffer-toGoodJavaer" />
-    <option name="LAST_COMMIT_MESSAGE" value="film-5.15-ToOffer-toGoodJavaer" />
+    <MESSAGE value="film-5.16-ToOffer-DynimicPlan" />
+    <option name="LAST_COMMIT_MESSAGE" value="film-5.16-ToOffer-DynimicPlan" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -768,13 +781,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://D:/JAVA/jdk-12.0.1_windows-x64_bin/jdk-12.0.1/lib/src.zip!/java.base/java/io/Serializable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="365">
-          <caret line="178" column="17" selection-start-line="178" selection-start-column="17" selection-end-line="178" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/JavaToGod/IO/User1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
@@ -1186,8 +1192,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Algorithem/DynamicPlan/MatrixPath/MiniMumPathSum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="424">
-          <caret line="36" column="4" selection-start-line="36" selection-start-column="4" selection-end-line="36" selection-end-column="4" />
+        <state relative-caret-position="928">
+          <caret line="54" column="54" selection-start-line="54" selection-start-column="54" selection-end-line="54" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Algorithem/DynamicPlan/MatrixPath/UniquePath.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="32" column="46" selection-start-line="32" selection-start-column="46" selection-end-line="32" selection-end-column="46" />
         </state>
       </provider>
     </entry>
