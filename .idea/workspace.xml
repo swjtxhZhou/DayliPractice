@@ -5,7 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3e2b8870-dfde-4e7d-996a-395776690097" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Algorithem/DynamicPlan/分割整数/DecodeWays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Algorithem/DynamicPlan/分割整数/IntegerBreak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Algorithem/DynamicPlan/分割整数/PerfectSquares.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Algorithem/DynamicPlan/数组区间/ArithmeticSlices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Algorithem/DynamicPlan/数组区间/RangeSumQuery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Algorithem/DynamicPlan/最长公共子序列/LongestCommonSubsequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Algorithem/DynamicPlan/最长递增子序列/LongestIncreasingSubsequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Algorithem/DynamicPlan/最长递增子序列/MaximumlengthOfPairChain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Algorithem/DynamicPlan/最长递增子序列/WiggleSubsequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Algorithem/DynamicPlan/背包问题/KnapSack.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Algorithem/DynamicPlan/ClimbingStaris.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Algorithem/DynamicPlan/契波那契数列/ClimbingStaris.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Algorithem/DynamicPlan/CowProduct.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Algorithem/DynamicPlan/契波那契数列/CowProduct.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Algorithem/DynamicPlan/HouseRapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Algorithem/DynamicPlan/契波那契数列/HouseRapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Algorithem/DynamicPlan/HouseRapper2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Algorithem/DynamicPlan/契波那契数列/HouseRapper2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Algorithem/DynamicPlan/MailMix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Algorithem/DynamicPlan/契波那契数列/MailMix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Fifty4th.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ToOffer/Fifty4th.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,64 +50,55 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Algorithem/DynamicPlan/ClimbingStaris.java">
+        <entry file="file://$PROJECT_DIR$/src/Algorithem/DynamicPlan/最长递增子序列/LongestIncreasingSubsequence.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="6" column="52" selection-start-line="6" selection-start-column="52" selection-end-line="6" selection-end-column="52" />
+            <state relative-caret-position="48">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Algorithem/DynamicPlan/HouseRapper.java">
+        <entry file="file://$PROJECT_DIR$/src/Algorithem/DynamicPlan/最长递增子序列/MaximumlengthOfPairChain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="528">
-              <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+            <state relative-caret-position="506">
+              <caret line="20" column="28" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Algorithem/DynamicPlan/HouseRapper2.java">
+        <entry file="file://$PROJECT_DIR$/src/Algorithem/DynamicPlan/最长递增子序列/WiggleSubsequence.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="504">
-              <caret line="21" column="23" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
+            <state relative-caret-position="648">
+              <caret line="22" column="33" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Algorithem/DynamicPlan/MailMix.java">
+        <entry file="file://$PROJECT_DIR$/src/Algorithem/DynamicPlan/最长公共子序列/LongestCommonSubsequence.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="568">
-              <caret line="18" column="58" selection-start-line="18" selection-start-column="58" selection-end-line="18" selection-end-column="58" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Algorithem/DynamicPlan/CowProduct.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Algorithem/DynamicPlan/MatrixPath/MiniMumPathSum.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="928">
-              <caret line="54" column="54" selection-start-line="54" selection-start-column="54" selection-end-line="54" selection-end-column="54" />
+            <state relative-caret-position="650">
+              <caret line="29" column="24" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Algorithem/DynamicPlan/MatrixPath/UniquePath.java">
+        <entry file="file://$PROJECT_DIR$/src/Algorithem/DynamicPlan/背包问题/KnapSack.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="328">
-              <caret line="32" column="46" selection-start-line="32" selection-start-column="46" selection-end-line="32" selection-end-column="46" />
+            <state relative-caret-position="464">
+              <caret line="23" column="67" lean-forward="true" selection-start-line="23" selection-start-column="67" selection-end-line="23" selection-end-column="67" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ToOffer/Fifty4th.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="96">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -126,11 +133,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/ToOffer/Fifty8th_practice.java" />
-        <option value="$PROJECT_DIR$/src/ToOffer/Fifty8th_2nd.java" />
-        <option value="$PROJECT_DIR$/src/ToOffer/Fifty9th.java" />
-        <option value="$PROJECT_DIR$/src/ToOffer/Fifty9th_practice.java" />
-        <option value="$PROJECT_DIR$/src/ToOffer/Sixty.java" />
         <option value="$PROJECT_DIR$/src/JavaToGod/Enum_learn.java" />
         <option value="$PROJECT_DIR$/src/JavaToGod/BIO_Example.java" />
         <option value="$PROJECT_DIR$/src/JavaToGod/IO/BIO_Example.java" />
@@ -177,6 +179,11 @@
         <option value="$PROJECT_DIR$/src/Algorithem/DynamicPlan/CowProduct.java" />
         <option value="$PROJECT_DIR$/src/Algorithem/DynamicPlan/MatrixPath/MiniMumPathSum.java" />
         <option value="$PROJECT_DIR$/src/Algorithem/DynamicPlan/MatrixPath/UniquePath.java" />
+        <option value="$PROJECT_DIR$/src/Algorithem/DynamicPlan/最长递增子序列/MaximumlengthOfPairChain.java" />
+        <option value="$PROJECT_DIR$/src/Algorithem/DynamicPlan/最长递增子序列/WiggleSubsequence.java" />
+        <option value="$PROJECT_DIR$/src/Algorithem/DynamicPlan/最长公共子序列/LongestCommonSubsequence.java" />
+        <option value="$PROJECT_DIR$/src/ToOffer/Fifty4th.java" />
+        <option value="$PROJECT_DIR$/src/Algorithem/DynamicPlan/背包问题/KnapSack.java" />
       </list>
     </option>
   </component>
@@ -227,7 +234,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Algorithem" type="462c0819:PsiDirectoryNode" />
               <item name="DynamicPlan" type="462c0819:PsiDirectoryNode" />
-              <item name="MatrixPath" type="462c0819:PsiDirectoryNode" />
+              <item name="背包问题" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DayliPractice" type="b2602c69:ProjectViewProjectNode" />
@@ -259,12 +266,12 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1588758793659" />
-    <property name="last_opened_file_path" value="C:/Program Files/JAVA/cglib-3.3.0.jar!/" />
+    <property name="last_opened_file_path" value="D:/Algorithms/数据结构与算法基础/Java-算法与数据结构/笔记、代码、课件、资料/代码/Algorithm/src/com/atguigu/dynamic/KnapsackProblem.java" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
@@ -668,13 +675,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="877038000" />
+    <option name="totallyTimeSpent" value="883600000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="976" height="1056" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15938865" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.03275109" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -683,7 +690,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3651877" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.28507796" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.28507796" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.5044543" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -786,61 +793,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/JavaToGod/IO/User1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/JAVA/jdk-12.0.1_windows-x64_bin/jdk-12.0.1/lib/src.zip!/java.base/java/io/PrintStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="543" column="21" selection-start-line="543" selection-start-column="21" selection-end-line="543" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaToGod/IO/NIO_Example.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="17" column="38" lean-forward="true" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/JAVA/jdk-12.0.1_windows-x64_bin/jdk-12.0.1/lib/src.zip!/java.base/java/util/concurrent/Future.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="129" column="12" selection-start-line="129" selection-start-column="12" selection-end-line="129" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaToGod/IO/AIO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="109">
-          <caret line="28" selection-start-line="28" selection-end-line="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ToOffer/Sixty1th_practice.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ToOffer/Sixty2th_practice.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="3" column="32" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ToOffer/Sixty2th.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
@@ -1160,52 +1112,71 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Algorithem/DynamicPlan/ClimbingStaris.java">
+    <entry file="file://$PROJECT_DIR$/src/Algorithem/DynamicPlan/ClimbingStaris.java" />
+    <entry file="file://$PROJECT_DIR$/src/Algorithem/DynamicPlan/HouseRapper.java" />
+    <entry file="file://$PROJECT_DIR$/src/Algorithem/DynamicPlan/HouseRapper2.java" />
+    <entry file="file://$PROJECT_DIR$/src/Algorithem/DynamicPlan/MailMix.java" />
+    <entry file="file://$PROJECT_DIR$/src/Algorithem/DynamicPlan/CowProduct.java" />
+    <entry file="file://$PROJECT_DIR$/src/Algorithem/DynamicPlan/MatrixPath/UniquePath.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="6" column="52" selection-start-line="6" selection-start-column="52" selection-end-line="6" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Algorithem/DynamicPlan/HouseRapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Algorithem/DynamicPlan/HouseRapper2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="21" column="23" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Algorithem/DynamicPlan/MailMix.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="568">
-          <caret line="18" column="58" selection-start-line="18" selection-start-column="58" selection-end-line="18" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Algorithem/DynamicPlan/CowProduct.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+        <state relative-caret-position="513">
+          <caret line="32" column="46" selection-start-line="32" selection-start-column="46" selection-end-line="32" selection-end-column="46" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Algorithem/DynamicPlan/MatrixPath/MiniMumPathSum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="928">
+        <state relative-caret-position="770">
           <caret line="54" column="54" selection-start-line="54" selection-start-column="54" selection-end-line="54" selection-end-column="54" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Algorithem/DynamicPlan/MatrixPath/UniquePath.java">
+    <entry file="file://$PROJECT_DIR$/src/Algorithem/DynamicPlan/最长递增子序列/LongestIncreasingSubsequence.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="328">
-          <caret line="32" column="46" selection-start-line="32" selection-start-column="46" selection-end-line="32" selection-end-column="46" />
+        <state relative-caret-position="48">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Algorithem/DynamicPlan/最长递增子序列/MaximumlengthOfPairChain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="20" column="28" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Algorithem/DynamicPlan/最长递增子序列/WiggleSubsequence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="22" column="33" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Algorithem/DynamicPlan/最长公共子序列/LongestCommonSubsequence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="650">
+          <caret line="29" column="24" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ToOffer/Fifty4th.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Algorithms/数据结构与算法基础/Java-算法与数据结构/笔记、代码、课件、资料/代码/Algorithm/src/com/atguigu/dynamic/KnapsackProblem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Algorithem/DynamicPlan/背包问题/KnapSack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="23" column="67" lean-forward="true" selection-start-line="23" selection-start-column="67" selection-end-line="23" selection-end-column="67" />
         </state>
       </provider>
     </entry>
