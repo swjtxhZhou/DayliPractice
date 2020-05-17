@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3e2b8870-dfde-4e7d-996a-395776690097" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Algorithem/DynamicPlan/MatrixPath/UniquePath.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithem/DynamicPlan/MatrixPath/MiniMumPathSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Algorithem/DynamicPlan/MatrixPath/MiniMumPathSum.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -447,7 +445,7 @@
       <workItem from="1588749826927" duration="8172000" />
       <workItem from="1589007607801" duration="25863000" />
       <workItem from="1589200387314" duration="4307000" />
-      <workItem from="1589250819094" duration="53417000" />
+      <workItem from="1589250819094" duration="53454000" />
     </task>
     <task id="LOCAL-00001" summary="“放假”">
       <created>1565943125305</created>
@@ -659,11 +657,18 @@
       <option name="project" value="LOCAL" />
       <updated>1589616613148</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="film-5.16-ToOffer-DynimicPlan">
+      <created>1589619447386</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1589619447386</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="877001000" />
+    <option name="totallyTimeSpent" value="877038000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="976" height="1056" extended-state="0" />
