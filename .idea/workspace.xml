@@ -5,11 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3e2b8870-dfde-4e7d-996a-395776690097" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/JavaToGod/Concurrent/Concurrent_Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ToOffer/practice/To1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ToOffer/practice/To4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ToOffer/practice/To5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ToOffer/practice/To6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ToOffer/practice/To10_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ToOffer/practice/To10_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ToOffer/practice/To10_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ToOffer/practice/To10_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ToOffer/practice/To7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ToOffer/practice/To8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ToOffer/practice/To9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ToOffer/practice/TreeNode.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -37,51 +40,54 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Algorithem/DynamicPlan/背包问题/FindMaxForm.java">
+        <entry file="file://$PROJECT_DIR$/src/ToOffer/practice/To9.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="648">
-              <caret line="19" selection-start-line="19" selection-end-line="19" />
+            <state relative-caret-position="336">
+              <caret line="14" column="48" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="48" />
+              <folding>
+                <element signature="e#139#148#0" expanded="true" />
+                <element signature="e#189#198#0" expanded="true" />
+                <element signature="e#274#275#0" expanded="true" />
+                <element signature="e#295#296#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ToOffer/practice/To1.java">
+        <entry file="file://$PROJECT_DIR$/src/ToOffer/practice/To10_1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="120">
+              <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ToOffer/practice/To4.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="17" column="36" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ToOffer/practice/To5.java">
+        <entry file="file://$PROJECT_DIR$/src/ToOffer/practice/To10_2.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="144">
-              <caret line="15" column="48" selection-start-line="15" selection-start-column="48" selection-end-line="15" selection-end-column="48" />
+              <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ToOffer/practice/To10_3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="9" selection-start-line="9" selection-end-line="19" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/ToOffer/practice/To6.java">
+        <entry file="file://$PROJECT_DIR$/src/ToOffer/practice/To10_4.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="544">
-              <caret line="41" column="5" lean-forward="true" selection-start-line="41" selection-start-column="5" selection-end-line="41" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="336">
+              <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -116,14 +122,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/ToOffer/Sixty3th_practice.java" />
-        <option value="$PROJECT_DIR$/src/ToOffer/Sixty5th.java" />
-        <option value="$PROJECT_DIR$/src/ToOffer/Sixty6th.java" />
-        <option value="$PROJECT_DIR$/src/ToOffer/Sixty6th_practice.java" />
-        <option value="$PROJECT_DIR$/src/ToOffer/Sixty7th.java" />
-        <option value="$PROJECT_DIR$/src/ToOffer/Sixty7th_practice.java" />
-        <option value="$PROJECT_DIR$/src/ToOffer/Sixty8th_practice.java" />
-        <option value="$PROJECT_DIR$/src/ToOffer/Sixty8th.java" />
         <option value="$PROJECT_DIR$/src/ToOffer/Sixty4th.java" />
         <option value="$PROJECT_DIR$/src/ToOffer/Three.java" />
         <option value="$PROJECT_DIR$/src/ToOffer/Three_practice.java" />
@@ -167,13 +165,22 @@
         <option value="$PROJECT_DIR$/src/ToOffer/practice/To4.java" />
         <option value="$PROJECT_DIR$/src/ToOffer/practice/To5.java" />
         <option value="$PROJECT_DIR$/src/ToOffer/practice/To6.java" />
+        <option value="$PROJECT_DIR$/src/ToOffer/practice/TreeNode.java" />
+        <option value="$PROJECT_DIR$/src/ToOffer/practice/To7.java" />
+        <option value="$PROJECT_DIR$/src/ToOffer/practice/To8.java" />
+        <option value="$PROJECT_DIR$/src/ToOffer/practice/To9.java" />
+        <option value="$PROJECT_DIR$/src/ToOffer/practice/To10_1.java" />
+        <option value="$PROJECT_DIR$/src/ToOffer/practice/To10_2.java" />
+        <option value="$PROJECT_DIR$/src/ToOffer/practice/To10_3.java" />
+        <option value="$PROJECT_DIR$/src/ToOffer/practice/To10_4.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-7" />
-    <option name="width" value="974" />
-    <option name="height" value="1040" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="976" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -215,6 +222,20 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="ToOffer" type="462c0819:PsiDirectoryNode" />
               <item name="practice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DayliPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DayliPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ToOffer" type="462c0819:PsiDirectoryNode" />
+              <item name="Seven.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="DayliPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DayliPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ToOffer" type="462c0819:PsiDirectoryNode" />
+              <item name="Utils" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DayliPractice" type="b2602c69:ProjectViewProjectNode" />
@@ -309,17 +330,18 @@
     <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\practie\DayliPractice\src\util" />
+      <recent name="D:\practie\src\August8th" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ToOffer.practice" />
+      <recent name="thinkingInJava.October9th.Generator" />
+    </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="JavaToGod.IO" />
       <recent name="ToOffer" />
       <recent name="August9th" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="thinkingInJava.October9th.Generator" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\practie\DayliPractice\src\util" />
-      <recent name="D:\practie\src\August8th" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -494,7 +516,10 @@
       <workItem from="1590039445804" duration="4135000" />
       <workItem from="1590128730900" duration="1477000" />
       <workItem from="1590395365762" duration="155000" />
-      <workItem from="1590495319165" duration="6029000" />
+      <workItem from="1590495319165" duration="6106000" />
+      <workItem from="1590588227158" duration="2508000" />
+      <workItem from="1590672101753" duration="5265000" />
+      <workItem from="1590762362725" duration="4387000" />
     </task>
     <task id="LOCAL-00001" summary="“放假”">
       <created>1565943125305</created>
@@ -734,16 +759,24 @@
       <option name="project" value="LOCAL" />
       <updated>1589964869258</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="Merge branch 'ToOffer' of github.com:swjtxhZhou/DayliPractice into ToOffer&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <created>1590501366426</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1590501366426</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="913756000" />
+    <option name="totallyTimeSpent" value="925993000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="976" height="1056" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.021855012" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12772925" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -752,7 +785,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3651877" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.28507796" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.28507796" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.5044543" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -856,115 +889,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/JavaToGod/DynamicProxy/CglibProxy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="10" column="35" lean-forward="true" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaToGod/IO/BIO_Example.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaToGod/Serializable/User1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="4" column="42" selection-start-line="4" selection-start-column="42" selection-end-line="4" selection-end-column="42" />
-          <folding>
-            <element signature="e#129#130#0" expanded="true" />
-            <element signature="e#156#157#0" expanded="true" />
-            <element signature="e#196#197#0" expanded="true" />
-            <element signature="e#228#229#0" expanded="true" />
-            <element signature="e#255#256#0" expanded="true" />
-            <element signature="e#281#282#0" expanded="true" />
-            <element signature="e#316#317#0" expanded="true" />
-            <element signature="e#346#347#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaToGod/DynamicProxy/UserServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="5" column="52" selection-start-line="5" selection-start-column="52" selection-end-line="5" selection-end-column="52" />
-          <folding>
-            <element signature="e#121#122#0" expanded="true" />
-            <element signature="e#142#143#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/JAVA/jdk-12.0.1_windows-x64_bin/jdk-12.0.1/lib/src.zip!/java.base/java/io/Externalizable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="856">
-          <caret line="81" column="19" selection-start-line="81" selection-start-column="19" selection-end-line="81" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaToGod/Serializable/User2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#187#188#0" expanded="true" />
-            <element signature="e#214#215#0" expanded="true" />
-            <element signature="e#254#255#0" expanded="true" />
-            <element signature="e#286#287#0" expanded="true" />
-            <element signature="e#313#314#0" expanded="true" />
-            <element signature="e#339#340#0" expanded="true" />
-            <element signature="e#459#460#0" expanded="true" />
-            <element signature="e#489#490#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/JAVA/jdk-12.0.1_windows-x64_bin/jdk-12.0.1/lib/src.zip!/java.base/java/io/ObjectOutputStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="1025" column="9" selection-start-line="1025" selection-start-column="9" selection-end-line="1025" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaToGod/Serializable/SerializableDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaToGod/Serializable/ExternalizableDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/out/production/practie/Algorithem/HanioiTowerTest.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#621#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/JavaToGod/Serializable/User3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
@@ -1215,13 +1139,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Algorithem/DynamicPlan/背包问题/FindMaxForm.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="648">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ToOffer/practice/To1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
@@ -1231,25 +1148,111 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ToOffer/practice/To4.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
+        <state relative-caret-position="408">
           <caret line="17" column="36" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ToOffer/practice/To5.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
+        <state relative-caret-position="360">
           <caret line="15" column="48" selection-start-line="15" selection-start-column="48" selection-end-line="15" selection-end-column="48" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ToOffer/practice/To6.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="41" column="5" lean-forward="true" selection-start-line="41" selection-start-column="5" selection-end-line="41" selection-end-column="5" />
+        <state relative-caret-position="912">
+          <caret line="41" column="5" selection-start-line="41" selection-start-column="5" selection-end-line="41" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ToOffer/Utils/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ToOffer/practice/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ToOffer/Seven.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ToOffer/practice/To8.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="30" column="31" lean-forward="true" selection-start-line="30" selection-start-column="31" selection-end-line="30" selection-end-column="31" />
+          <folding>
+            <element signature="e#556#557#0" expanded="true" />
+            <element signature="e#594#595#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ToOffer/practice/To7.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="35" column="24" lean-forward="true" selection-start-line="35" selection-start-column="24" selection-end-line="35" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Algorithem/DynamicPlan/背包问题/FindMaxForm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ToOffer/practice/To9.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="14" column="48" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="48" />
+          <folding>
+            <element signature="e#139#148#0" expanded="true" />
+            <element signature="e#189#198#0" expanded="true" />
+            <element signature="e#274#275#0" expanded="true" />
+            <element signature="e#295#296#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ToOffer/practice/To10_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ToOffer/practice/To10_2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ToOffer/practice/To10_3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="9" selection-start-line="9" selection-end-line="19" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ToOffer/practice/To10_4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
         </state>
       </provider>
     </entry>
