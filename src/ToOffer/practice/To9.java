@@ -23,4 +23,5 @@ public class To9 {
             return stack2.pop();
         }
     }
+
 }
