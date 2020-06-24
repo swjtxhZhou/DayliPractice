@@ -5,26 +5,49 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3e2b8870-dfde-4e7d-996a-395776690097" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Algorithem/全排列/Perm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Algorithem/基础排序算法/Sort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProjectTest/招银/To1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ToOffer/practice/To15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ToOffer/practice/To16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ToOffer/practice/To17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ToOffer/practice/To18.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ToOffer/practice/To18_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ToOffer/practice/To19.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ToOffer/practice/To20.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ToOffer/practice/To21.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ToOffer/practice/To22.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ToOffer/practice/To23.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ToOffer/practice/To24.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ToOffer/practice/To25.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ToOffer/practice/To26.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ToOffer/practice/To28.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ToOffer/practice/To29.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ToOffer/practice/To30_notSimilar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ToOffer/practice/To31_notFamiliar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ToOffer/practice/To32_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ToOffer/practice/To32_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ToOffer/practice/To32_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ToOffer/practice/To33.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ToOffer/practice/To34.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ToOffer/practice/To35.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ToOffer/practice/To36.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ToOffer/practice/To37_notFamilar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ToOffer/practice/To38.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ToOffer/practice/To39_Boyer_Moore_Majoruty_Vote_Algorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ToOffer/practice/To40.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ToOffer/practice/To41_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ToOffer/practice/To41_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ToOffer/practice/To42.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ToOffer/practice/To43.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ToOffer/practice/To45.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ToOffer/practice/To46.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ToOffer/practice/To47.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ToOffer/practice/To48.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ToOffer/practice/To49_specialDynamicPlan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ToOffer/practice/To50.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ToOffer/practice/To51_mergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ToOffer/practice/To52.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ToOffer/practice/To53.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ToOffer/practice/To54.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ToOffer/practice/To55_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ToOffer/practice/To55_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ToOffer/practice/To56.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ToOffer/practice/To57_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ToOffer/practice/To57_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ToOffer/practice/To58_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ToOffer/practice/To58_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ToOffer/practice/To59.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ToOffer/practice/To60_notFamilar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ToOffer/practice/To61.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ToOffer/practice/To62.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ToOffer/practice/To63.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ToOffer/practice/To64.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ToOffer/practice/To65.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ToOffer/practice/To9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ToOffer/practice/To9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ToOffer/Utils/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ToOffer/Utils/ListNode.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -53,31 +76,67 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ToOffer/practice/To28.java">
+        <entry file="file://$PROJECT_DIR$/src/ToOffer/practice/To61.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="528">
-              <caret line="17" column="55" selection-start-line="17" selection-start-column="55" selection-end-line="17" selection-end-column="55" />
+            <state relative-caret-position="536">
+              <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ToOffer/practice/To62.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="205">
+              <caret line="58" column="12" selection-start-line="58" selection-start-column="12" selection-end-line="58" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ToOffer/practice/To63.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="18" column="43" selection-start-line="18" selection-start-column="43" selection-end-line="18" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ToOffer/practice/To64.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="8" selection-start-line="8" selection-end-line="10" selection-end-column="5" />
+              <folding>
+                <element signature="e#233#234#0" expanded="true" />
+                <element signature="e#281#282#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/ToOffer/practice/To29.java">
+        <entry file="file://$PROJECT_DIR$/src/ToOffer/practice/To65.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="143">
-              <caret line="12" selection-start-line="12" selection-end-line="35" selection-end-column="19" />
+            <state relative-caret-position="192">
+              <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#147#148#0" expanded="true" />
+                <element signature="e#168#169#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ToOffer/Twenty9th.java">
+        <entry file="file://$PROJECT_DIR$/src/ToOffer/Utils/ListNode.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="287">
-              <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+            <state relative-caret-position="192">
+              <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+              <folding>
+                <element signature="e#191#192#0" expanded="true" />
+                <element signature="e#229#230#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -112,64 +171,65 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Algorithem/DynamicPlan/MailMix.java" />
-        <option value="$PROJECT_DIR$/src/Algorithem/DynamicPlan/CowProduct.java" />
-        <option value="$PROJECT_DIR$/src/Algorithem/DynamicPlan/MatrixPath/MiniMumPathSum.java" />
-        <option value="$PROJECT_DIR$/src/Algorithem/DynamicPlan/MatrixPath/UniquePath.java" />
-        <option value="$PROJECT_DIR$/src/Algorithem/DynamicPlan/最长递增子序列/MaximumlengthOfPairChain.java" />
-        <option value="$PROJECT_DIR$/src/Algorithem/DynamicPlan/最长递增子序列/WiggleSubsequence.java" />
-        <option value="$PROJECT_DIR$/src/Algorithem/DynamicPlan/最长公共子序列/LongestCommonSubsequence.java" />
-        <option value="$PROJECT_DIR$/src/ToOffer/Fifty4th.java" />
-        <option value="$PROJECT_DIR$/src/Algorithem/DynamicPlan/背包问题/KnapSack.java" />
-        <option value="$PROJECT_DIR$/src/Algorithem/DynamicPlan/背包问题/CanPartiton.java" />
-        <option value="$PROJECT_DIR$/src/Algorithem/DynamicPlan/背包问题/FindTargetSumWays.java" />
-        <option value="$PROJECT_DIR$/src/Algorithem/DynamicPlan/背包问题/FindMaxForm.java" />
-        <option value="$PROJECT_DIR$/src/test/Interface_Deno.java" />
-        <option value="$PROJECT_DIR$/src/test/Interface_Demo.java" />
-        <option value="$PROJECT_DIR$/src/test/Collection_Demo.java" />
-        <option value="$PROJECT_DIR$/src/JavaToGod/Concurrent/Concurrent_Demo.java" />
-        <option value="$PROJECT_DIR$/src/ToOffer/practice/To1.java" />
-        <option value="$PROJECT_DIR$/src/ToOffer/practice/To4.java" />
-        <option value="$PROJECT_DIR$/src/ToOffer/practice/To5.java" />
-        <option value="$PROJECT_DIR$/src/ToOffer/practice/To6.java" />
-        <option value="$PROJECT_DIR$/src/ToOffer/practice/TreeNode.java" />
-        <option value="$PROJECT_DIR$/src/ToOffer/practice/To7.java" />
-        <option value="$PROJECT_DIR$/src/ToOffer/practice/To8.java" />
-        <option value="$PROJECT_DIR$/src/ToOffer/practice/To10_1.java" />
-        <option value="$PROJECT_DIR$/src/ToOffer/practice/To10_2.java" />
-        <option value="$PROJECT_DIR$/src/ToOffer/practice/To10_3.java" />
-        <option value="$PROJECT_DIR$/src/ToOffer/practice/To10_4.java" />
-        <option value="$PROJECT_DIR$/src/ToOffer/practice/To11.java" />
-        <option value="$PROJECT_DIR$/src/ToOffer/practice/To12.java" />
-        <option value="$PROJECT_DIR$/src/ToOffer/practice/To13.java" />
-        <option value="$PROJECT_DIR$/src/ToOffer/practice/To14.java" />
-        <option value="$PROJECT_DIR$/src/海量数据处理/MassiveIp.java" />
-        <option value="$PROJECT_DIR$/src/ToOffer/practice/To9.java" />
-        <option value="$PROJECT_DIR$/src/Algorithem/基础排序算法/Sort.java" />
-        <option value="$PROJECT_DIR$/src/Algorithem/全排列/Perm.java" />
-        <option value="$PROJECT_DIR$/src/ProjectTest/招银/To1.java" />
-        <option value="$PROJECT_DIR$/src/ToOffer/practice/To15.java" />
-        <option value="$PROJECT_DIR$/src/ToOffer/practice/To16.java" />
-        <option value="$PROJECT_DIR$/src/ToOffer/practice/To17.java" />
-        <option value="$PROJECT_DIR$/src/ToOffer/practice/To18.java" />
-        <option value="$PROJECT_DIR$/src/ToOffer/practice/To18_1.java" />
-        <option value="$PROJECT_DIR$/src/ToOffer/practice/To19.java" />
-        <option value="$PROJECT_DIR$/src/ToOffer/practice/To20.java" />
-        <option value="$PROJECT_DIR$/src/ToOffer/practice/To21.java" />
-        <option value="$PROJECT_DIR$/src/ToOffer/practice/To22.java" />
-        <option value="$PROJECT_DIR$/src/ToOffer/practice/To23.java" />
-        <option value="$PROJECT_DIR$/src/ToOffer/practice/To24.java" />
-        <option value="$PROJECT_DIR$/src/ToOffer/practice/To25.java" />
-        <option value="$PROJECT_DIR$/src/ToOffer/practice/To26.java" />
-        <option value="$PROJECT_DIR$/src/ToOffer/practice/To28.java" />
-        <option value="$PROJECT_DIR$/src/ToOffer/practice/To29.java" />
+        <option value="$PROJECT_DIR$/src/ToOffer/practice/To30_notSimilar.java" />
+        <option value="$PROJECT_DIR$/src/ToOffer/practice/To30.java" />
+        <option value="$PROJECT_DIR$/src/ToOffer/practice/To31.java" />
+        <option value="$PROJECT_DIR$/src/ToOffer/practice/To32_1.java" />
+        <option value="$PROJECT_DIR$/src/ToOffer/practice/To32_2.java" />
+        <option value="$PROJECT_DIR$/src/ToOffer/practice/To32_3.java" />
+        <option value="$PROJECT_DIR$/src/ToOffer/practice/To33.java" />
+        <option value="$PROJECT_DIR$/src/ToOffer/practice/To34.java" />
+        <option value="$PROJECT_DIR$/src/ToOffer/practice/To35.java" />
+        <option value="$PROJECT_DIR$/src/ToOffer/practice/To36.java" />
+        <option value="$PROJECT_DIR$/src/ToOffer/practice/To37.java" />
+        <option value="$PROJECT_DIR$/src/ToOffer/practice/To38.java" />
+        <option value="$PROJECT_DIR$/src/ToOffer/practice/To39.java" />
+        <option value="$PROJECT_DIR$/src/ToOffer/practice/To39_Boyer_Moore_Majoruty_Vote_Algorithm.java" />
+        <option value="$PROJECT_DIR$/src/ToOffer/practice/To40.java" />
+        <option value="$PROJECT_DIR$/src/ToOffer/practice/To41.java" />
+        <option value="$PROJECT_DIR$/src/ToOffer/practice/To42_2.java" />
+        <option value="$PROJECT_DIR$/src/ToOffer/practice/To41_2.java" />
+        <option value="$PROJECT_DIR$/src/ToOffer/practice/To42.java" />
+        <option value="$PROJECT_DIR$/src/ToOffer/practice/To43.java" />
+        <option value="$PROJECT_DIR$/src/ToOffer/practice/To45.java" />
+        <option value="$PROJECT_DIR$/src/ToOffer/practice/To46.java" />
+        <option value="$PROJECT_DIR$/src/ToOffer/practice/To47.java" />
+        <option value="$PROJECT_DIR$/src/ToOffer/practice/To48.java" />
+        <option value="$PROJECT_DIR$/src/ToOffer/practice/To49.java" />
+        <option value="$PROJECT_DIR$/src/ToOffer/practice/To49_specialDynamicPlan.java" />
+        <option value="$PROJECT_DIR$/src/ToOffer/practice/To37_notFamilar.java" />
+        <option value="$PROJECT_DIR$/src/ToOffer/practice/To31_notFamiliar.java" />
+        <option value="$PROJECT_DIR$/src/ToOffer/practice/To50.java" />
+        <option value="$PROJECT_DIR$/src/ToOffer/practice/To51.java" />
+        <option value="$PROJECT_DIR$/src/ToOffer/practice/To51_mergeSort.java" />
+        <option value="$PROJECT_DIR$/src/ToOffer/practice/To52.java" />
+        <option value="$PROJECT_DIR$/src/ToOffer/practice/To53.java" />
+        <option value="$PROJECT_DIR$/src/ToOffer/practice/To54.java" />
+        <option value="$PROJECT_DIR$/src/ToOffer/practice/To55_1.java" />
+        <option value="$PROJECT_DIR$/src/ToOffer/practice/To55_2.java" />
+        <option value="$PROJECT_DIR$/src/ToOffer/practice/To56.java" />
+        <option value="$PROJECT_DIR$/src/ToOffer/practice/To57.java" />
+        <option value="$PROJECT_DIR$/src/ToOffer/practice/To57_1.java" />
+        <option value="$PROJECT_DIR$/src/ToOffer/practice/To57_2.java" />
+        <option value="$PROJECT_DIR$/src/ToOffer/practice/To58_1.java" />
+        <option value="$PROJECT_DIR$/src/ToOffer/practice/To58_2.java" />
+        <option value="$PROJECT_DIR$/src/ToOffer/practice/To59.java" />
+        <option value="$PROJECT_DIR$/src/ToOffer/practice/To60.java" />
+        <option value="$PROJECT_DIR$/src/ToOffer/practice/To60_notFamilar.java" />
+        <option value="$PROJECT_DIR$/src/ToOffer/practice/To61.java" />
+        <option value="$PROJECT_DIR$/src/ToOffer/Utils/ListNode.java" />
+        <option value="$PROJECT_DIR$/src/ToOffer/practice/To62.java" />
+        <option value="$PROJECT_DIR$/src/ToOffer/practice/To63.java" />
+        <option value="$PROJECT_DIR$/src/ToOffer/practice/To64.java" />
+        <option value="$PROJECT_DIR$/src/ToOffer/practice/To65.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-7" />
-    <option name="width" value="974" />
-    <option name="height" value="1047" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="976" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -179,6 +239,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -195,6 +257,12 @@
               <item name="DayliPractice" type="b2602c69:ProjectViewProjectNode" />
               <item name="DayliPractice" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Algorithem" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DayliPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DayliPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="ToOffer" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -204,83 +272,10 @@
               <item name="ToOffer" type="462c0819:PsiDirectoryNode" />
               <item name="practice" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="DayliPractice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DayliPractice" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Utils" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DayliPractice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DayliPractice" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="海量数据处理" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DayliPractice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-            <path>
-              <item name="DayliPractice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 12 &gt;" type="70bed36:NamedLibraryElementNode" />
-            </path>
-            <path>
-              <item name="DayliPractice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 12 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="java.base" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DayliPractice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 12 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="java.base" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DayliPractice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 12 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="java.base" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="lang" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DayliPractice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 12 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="java.base" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="lang" type="462c0819:PsiDirectoryNode" />
-              <item name="reflect" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DayliPractice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 12 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="java.base" type="462c0819:PsiDirectoryNode" />
-              <item name="internal" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DayliPractice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 12 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="java.management" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DayliPractice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 12 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="java.management" type="462c0819:PsiDirectoryNode" />
-              <item name="management" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -297,26 +292,26 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1588758793659" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../mvc/springMVC/spring-mvc-showcase" />
+    <property name="last_opened_file_path" value="D:/Algorithms/Practice" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+    <property name="settings.editor.selected.configurable" value="Lombok plugin" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\practie\DayliPractice\src\util" />
-      <recent name="D:\practie\src\August8th" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="JavaToGod.IO" />
+      <recent name="ToOffer" />
+      <recent name="August9th" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="ToOffer.practice" />
       <recent name="thinkingInJava.October9th.Generator" />
     </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="JavaToGod.IO" />
-      <recent name="ToOffer" />
-      <recent name="August9th" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\practie\DayliPractice\src\util" />
+      <recent name="D:\practie\src\August8th" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -331,33 +326,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.To1">
-    <configuration name="CglibProxy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaToGod.DynamicProxy.CglibProxy" />
-      <module name="practie" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="JavaToGod.DynamicProxy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ExternalizableDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaToGod.Serializable.ExternalizableDemo" />
-      <module name="practie" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="JavaToGod.Serializable.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.To62">
     <configuration name="To1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ProjectTest.招银.To1" />
       <module name="practie" />
@@ -371,8 +340,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="To13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ToOffer.practice.To13" />
+    <configuration name="To49_specialDynamicPlan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ToOffer.practice.To49_specialDynamicPlan" />
       <module name="practie" />
       <extension name="coverage">
         <pattern>
@@ -384,8 +353,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="To5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ToOffer.practice.To5" />
+    <configuration name="To50" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ToOffer.practice.To50" />
+      <module name="practie" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ToOffer.practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="To51_mergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ToOffer.practice.To51_mergeSort" />
+      <module name="practie" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ToOffer.practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="To62" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ToOffer.practice.To62" />
       <module name="practie" />
       <extension name="coverage">
         <pattern>
@@ -398,19 +393,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.CglibProxy" />
-      <item itemvalue="Application.ExternalizableDemo" />
-      <item itemvalue="Application.To5" />
-      <item itemvalue="Application.To13" />
       <item itemvalue="Application.To1" />
+      <item itemvalue="Application.To49_specialDynamicPlan" />
+      <item itemvalue="Application.To50" />
+      <item itemvalue="Application.To51_mergeSort" />
+      <item itemvalue="Application.To62" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.To62" />
+        <item itemvalue="Application.To51_mergeSort" />
+        <item itemvalue="Application.To50" />
+        <item itemvalue="Application.To49_specialDynamicPlan" />
         <item itemvalue="Application.To1" />
-        <item itemvalue="Application.To13" />
-        <item itemvalue="Application.To5" />
-        <item itemvalue="Application.ExternalizableDemo" />
-        <item itemvalue="Application.CglibProxy" />
       </list>
     </recent_temporary>
   </component>
@@ -504,7 +499,15 @@
       <workItem from="1591432699553" duration="6068000" />
       <workItem from="1591512948186" duration="12898000" />
       <workItem from="1591536737558" duration="15000" />
-      <workItem from="1591600417386" duration="12431000" />
+      <workItem from="1591600417386" duration="14521000" />
+      <workItem from="1591777653392" duration="693000" />
+      <workItem from="1591798343930" duration="19178000" />
+      <workItem from="1592208440584" duration="13450000" />
+      <workItem from="1592315961028" duration="4091000" />
+      <workItem from="1592381618611" duration="10792000" />
+      <workItem from="1592742797147" duration="1189000" />
+      <workItem from="1592810408412" duration="34877000" />
+      <workItem from="1592985478003" duration="8419000" />
     </task>
     <task id="LOCAL-00001" summary="“放假”">
       <created>1565943125305</created>
@@ -765,17 +768,24 @@
       <option name="project" value="LOCAL" />
       <updated>1590971215710</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="6/8-commit">
+      <created>1591626497283</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1591626497284</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="990980000" />
+    <option name="totallyTimeSpent" value="1085759000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="974" height="1047" extended-state="0" />
+    <frame x="-8" y="-8" width="976" height="1056" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2713348" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2161572" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -784,8 +794,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3651877" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.28458944" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.5044543" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.23496659" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.24610245" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -805,6 +815,7 @@
       <window_info anchor="right" id="Maven" order="6" />
       <window_info anchor="right" id="Capture Analysis" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="leetcode" order="9" side_tool="true" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -875,7 +886,8 @@
     <MESSAGE value="Merge branch 'ToOffer' of github.com:swjtxhZhou/DayliPractice into ToOffer&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
     <MESSAGE value="5/29" />
     <MESSAGE value="5/30-大数据处理" />
-    <option name="LAST_COMMIT_MESSAGE" value="5/30-大数据处理" />
+    <MESSAGE value="6/8-commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="6/8-commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -890,400 +902,424 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://D:/JAVA/jdk-12.0.1_windows-x64_bin/jdk-12.0.1/lib/src.zip!/java.base/java/lang/Runtime.java">
+    <entry file="file://$PROJECT_DIR$/src/ToOffer/Forty8th.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24">
-          <caret line="71" column="12" selection-start-line="71" selection-start-column="12" selection-end-line="71" selection-end-column="12" />
+        <state relative-caret-position="248">
+          <caret line="23" column="23" lean-forward="true" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://D:/JAVA/jdk-12.0.1_windows-x64_bin/jdk-12.0.1/lib/src.zip!/java.management/sun/management/MemoryImpl.java">
+    <entry file="file://$PROJECT_DIR$/src/ToOffer/practice/To49_specialDynamicPlan.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="311">
-          <caret line="65" column="13" selection-start-line="65" selection-start-column="13" selection-end-line="65" selection-end-column="13" />
-          <folding>
-            <element signature="e#1383#1384#0" expanded="true" />
-            <element signature="e#1424#1425#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="192">
+          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://D:/JAVA/jdk-12.0.1_windows-x64_bin/jdk-12.0.1/lib/src.zip!/java.management/java/lang/management/MemoryMXBean.java">
+    <entry file="file://$PROJECT_DIR$/src/ToOffer/practice/To48.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="623">
-          <caret line="301" column="17" selection-start-line="301" selection-start-column="17" selection-end-line="301" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaToGod/Concurrent/Concurrent_Demo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+        <state relative-caret-position="384">
+          <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaToGod/KonwConcat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Algorithem/DynamicPlan/背包问题/CanPartiton.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="26" column="85" selection-start-line="26" selection-start-column="85" selection-end-line="26" selection-end-column="85" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ToOffer/Utils/TreeNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ToOffer/practice/TreeNode.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ToOffer/Seven.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="56">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Algorithem/DynamicPlan/背包问题/FindMaxForm.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="552">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ToOffer/practice/To10_1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ToOffer/practice/To10_2.java">
+    <entry file="file://$PROJECT_DIR$/src/ToOffer/practice/To47.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
-          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+          <caret line="4" column="95" selection-start-line="4" selection-start-column="95" selection-end-line="4" selection-end-column="95" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ToOffer/practice/To10_3.java">
+    <entry file="file://$PROJECT_DIR$/src/ToOffer/practice/To46.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="9" selection-start-line="9" selection-end-line="19" selection-end-column="5" />
+        <state relative-caret-position="791">
+          <caret line="94" selection-start-line="94" selection-end-line="95" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ToOffer/practice/To10_4.java">
+    <entry file="file://$PROJECT_DIR$/src/ToOffer/practice/To45.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ToOffer/practice/To12.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="392">
-          <caret line="43" column="75" selection-start-line="43" selection-start-column="75" selection-end-line="43" selection-end-column="75" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ToOffer/practice/To11.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="552">
-          <caret line="17" column="103" selection-start-line="17" selection-start-column="103" selection-end-line="17" selection-end-column="103" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/JAVA/jdk-12.0.1_windows-x64_bin/jdk-12.0.1/lib/src.zip!/java.base/java/util/HashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="999" column="31" selection-start-line="999" selection-start-column="31" selection-end-line="999" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/海量数据处理/MassiveIp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1472">
-          <caret line="125" column="33" selection-start-line="125" selection-start-column="33" selection-end-line="125" selection-end-column="33" />
+        <state relative-caret-position="216">
+          <caret line="8" column="80" selection-start-line="8" selection-start-column="71" selection-end-line="8" selection-end-column="80" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ToOffer/practice/To14.java">
+    <entry file="file://$PROJECT_DIR$/src/ToOffer/practice/To43.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="576">
-          <caret line="24" column="15" selection-start-line="24" selection-start-column="15" selection-end-line="24" selection-end-column="15" />
+        <state relative-caret-position="144">
+          <caret line="4" column="126" lean-forward="true" selection-start-line="4" selection-start-column="126" selection-end-line="4" selection-end-column="126" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Algorithem/基础排序算法/Sort.java">
+    <entry file="file://$PROJECT_DIR$/src/ToOffer/practice/To38.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="800">
-          <caret line="230" lean-forward="true" selection-start-line="230" selection-end-line="230" />
-          <folding>
-            <element signature="e#5547#5548#0" expanded="true" />
-            <element signature="e#5592#5593#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ToOffer/practice/To9.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="552">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ToOffer/practice/To8.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="30" column="31" lean-forward="true" selection-start-line="30" selection-start-column="31" selection-end-line="30" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ToOffer/practice/To7.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="936">
-          <caret line="35" column="24" lean-forward="true" selection-start-line="35" selection-start-column="24" selection-end-line="35" selection-end-column="24" />
+        <state relative-caret-position="816">
+          <caret line="31" column="36" lean-forward="true" selection-start-line="31" selection-start-column="36" selection-end-line="31" selection-end-column="36" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ToOffer/practice/To5.java">
+    <entry file="file://$PROJECT_DIR$/src/ToOffer/practice/To42.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="92" selection-start-line="4" selection-start-column="92" selection-end-line="4" selection-end-column="92" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ToOffer/practice/To41_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ToOffer/practice/To40.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ToOffer/practice/To39_Boyer_Moore_Majoruty_Vote_Algorithm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="104" selection-start-line="4" selection-start-column="104" selection-end-line="4" selection-end-column="104" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ToOffer/practice/To35.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="98" selection-start-line="6" selection-start-column="98" selection-end-line="6" selection-end-column="98" />
+          <folding>
+            <element signature="e#523#524#0" expanded="true" />
+            <element signature="e#565#566#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ToOffer/practice/To41_2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
-          <caret line="15" column="48" selection-start-line="15" selection-start-column="48" selection-end-line="15" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ToOffer/practice/To6.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="768">
-          <caret line="35" column="9" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
+          <caret line="13" selection-start-line="13" selection-end-line="14" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Algorithem/全排列/Perm.java">
+    <entry file="file://$PROJECT_DIR$/src/ToOffer/practice/To37_notFamilar.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="538">
-          <caret line="28" column="14" selection-start-line="28" selection-start-column="14" selection-end-line="28" selection-end-column="14" />
+        <state relative-caret-position="791">
+          <caret line="38" column="19" selection-start-line="38" selection-start-column="19" selection-end-line="38" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ToOffer/practice/To36.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ToOffer/practice/To34.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="7" column="15" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ToOffer/practice/To33.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="4" column="65" selection-start-line="4" selection-start-column="65" selection-end-line="4" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ToOffer/practice/To32_3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="12" column="50" selection-start-line="12" selection-start-column="50" selection-end-line="12" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ToOffer/practice/To32_2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ToOffer/practice/To32_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="10" column="54" selection-start-line="10" selection-start-column="54" selection-end-line="10" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ToOffer/practice/To31_notFamiliar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ToOffer/practice/To50.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ToOffer/practice/To51_mergeSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-823">
+          <caret line="38" column="80" selection-start-line="38" selection-start-column="80" selection-end-line="38" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ToOffer/practice/To52.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="10" column="80" selection-start-line="10" selection-start-column="80" selection-end-line="10" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ToOffer/practice/To53.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="10" column="58" selection-start-line="10" selection-start-column="58" selection-end-line="10" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ToOffer/practice/To54.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-271">
+          <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/JAVA/jdk-12.0.1_windows-x64_bin/jdk-12.0.1/lib/src.zip!/java.base/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="1434" column="27" selection-start-line="1434" selection-start-column="27" selection-end-line="1434" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/JAVA/jdk-12.0.1_windows-x64_bin/jdk-12.0.1/lib/src.zip!/java.base/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="508" column="21" lean-forward="true" selection-start-line="508" selection-start-column="21" selection-end-line="508" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ToOffer/practice/To55_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ToOffer/practice/To55_2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="41">
+          <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ToOffer/practice/To56.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="43" column="52" selection-start-line="43" selection-start-column="52" selection-end-line="43" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ToOffer/practice/To57_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="26" column="38" selection-start-line="26" selection-start-column="38" selection-end-line="26" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/JAVA/jdk-12.0.1_windows-x64_bin/jdk-12.0.1/lib/src.zip!/java.base/java/util/Collections.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="142" column="15" selection-start-line="142" selection-start-column="15" selection-end-line="142" selection-end-column="15" />
+          <folding>
+            <element signature="e#5697#5698#0" expanded="true" />
+            <element signature="e#5728#5729#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ToOffer/practice/To57_2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ToOffer/practice/To58_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="24" column="47" selection-start-line="24" selection-start-column="47" selection-end-line="24" selection-end-column="47" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ToOffer/practice/To4.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="17" column="36" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
+        <state relative-caret-position="48">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ToOffer/practice/To1.java">
+    <entry file="file://$PROJECT_DIR$/src/ToOffer/Four.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        <state relative-caret-position="280">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ToOffer/practice/To13.java">
+    <entry file="jar://D:/JAVA/jdk-12.0.1_windows-x64_bin/jdk-12.0.1/lib/src.zip!/java.base/java/lang/StringBuffer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="538">
-          <caret line="31" column="44" selection-start-line="31" selection-start-column="44" selection-end-line="31" selection-end-column="44" />
+        <state relative-caret-position="-1088">
+          <caret line="114" column="34" selection-start-line="114" selection-start-column="34" selection-end-line="114" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ProjectTest/招银/To1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="12" column="85" selection-start-line="12" selection-start-column="85" selection-end-line="12" selection-end-column="85" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/JAVA/jdk-12.0.1_windows-x64_bin/jdk-12.0.1/lib/src.zip!/java.base/java/io/BufferedInputStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-6625">
-          <caret line="51" column="6" selection-start-line="51" selection-start-column="6" selection-end-line="51" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ToOffer/practice/To16.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-350">
-          <caret line="5" column="43" lean-forward="true" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ToOffer/practice/To15.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ToOffer/practice/To17.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ToOffer/practice/To18.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="479">
-          <caret line="22" column="20" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/JAVA/jdk-12.0.1_windows-x64_bin/jdk-12.0.1/lib/src.zip!/java.base/java/lang/Integer.java">
+    <entry file="file://$PROJECT_DIR$/src/ToOffer/Five.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
-          <caret line="27" column="7" lean-forward="true" selection-start-line="27" selection-start-column="7" selection-end-line="27" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ToOffer/practice/To18_1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="599">
-          <caret line="81" column="58" selection-start-line="81" selection-start-column="58" selection-end-line="81" selection-end-column="58" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <caret line="13" column="37" lean-forward="true" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
         </state>
       </provider>
     </entry>
     <entry file="jar://D:/JAVA/jdk-12.0.1_windows-x64_bin/jdk-12.0.1/lib/src.zip!/java.base/java/lang/String.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
-          <caret line="2031" column="19" selection-start-line="2031" selection-start-column="19" selection-end-line="2031" selection-end-column="19" />
+        <state relative-caret-position="280">
+          <caret line="132" column="19" selection-start-line="132" selection-start-column="19" selection-end-line="132" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ToOffer/Three.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ToOffer/practice/To58_2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ToOffer/practice/To59.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="28" column="19" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
           <folding>
-            <element signature="e#81207#81208#0" expanded="true" />
-            <element signature="e#81258#81259#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ToOffer/practice/To20.java">
+    <entry file="file://$PROJECT_DIR$/src/ToOffer/practice/To60_notFamilar.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="16" column="88" selection-start-line="16" selection-start-column="88" selection-end-line="16" selection-end-column="88" />
+        <state relative-caret-position="288">
+          <caret line="12" column="50" selection-start-line="12" selection-start-column="50" selection-end-line="12" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ToOffer/practice/To19.java">
+    <entry file="file://$PROJECT_DIR$/src/ToOffer/practice/To61.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="4" column="103" selection-start-line="4" selection-start-column="103" selection-end-line="4" selection-end-column="103" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ToOffer/practice/To21.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="7" column="7" lean-forward="true" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+        <state relative-caret-position="536">
+          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ToOffer/Utils/ListNode.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ToOffer/Twenty3th.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="417">
-          <caret line="25" column="8" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ToOffer/practice/To26.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ToOffer/practice/To25.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="14" column="28" lean-forward="true" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ToOffer/practice/To24.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="311">
-          <caret line="22" column="14" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
+          <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#191#192#0" expanded="true" />
+            <element signature="e#229#230#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ToOffer/practice/To23.java">
+    <entry file="file://$PROJECT_DIR$/src/ToOffer/practice/To62.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="599">
-          <caret line="26" column="25" lean-forward="true" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
+        <state relative-caret-position="205">
+          <caret line="58" column="12" selection-start-line="58" selection-start-column="12" selection-end-line="58" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ToOffer/practice/To63.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="18" column="43" selection-start-line="18" selection-start-column="43" selection-end-line="18" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ToOffer/practice/To64.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" selection-start-line="8" selection-end-line="10" selection-end-column="5" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#233#234#0" expanded="true" />
+            <element signature="e#281#282#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ToOffer/practice/To22.java">
+    <entry file="file://$PROJECT_DIR$/src/ToOffer/practice/To65.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ToOffer/practice/To28.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="17" column="55" selection-start-line="17" selection-start-column="55" selection-end-line="17" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ToOffer/Twenty9th.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="287">
-          <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ToOffer/practice/To29.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="143">
-          <caret line="12" selection-start-line="12" selection-end-line="35" selection-end-column="19" />
+        <state relative-caret-position="192">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#147#148#0" expanded="true" />
+            <element signature="e#168#169#0" expanded="true" />
           </folding>
         </state>
       </provider>

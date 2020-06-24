@@ -5,4 +5,7 @@ public class ListNode {
     public ListNode(int n){val=n;}
     public Integer val;
     public ListNode next;
+    public String toString(){
+        return String.valueOf(val);
+    }
 }
