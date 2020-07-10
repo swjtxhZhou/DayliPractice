@@ -28,7 +28,7 @@ public class To37_notFamilar {
             return null;
         }
         //根据空格来取节点
-        int index = deserializerStr.indexOf(" ");
+        int index = deserializerStr.indexOf(" ");//如果匹配不到index的值会是-1.说明此时只有一个符合没有处理了
         String node = index==-1?deserializerStr:deserializerStr.substring(0,index);//subString（）是左闭右开区间，如果index为-1说明没有空格了
         deserializerStr = index==-1?"":deserializerStr.substring(index+1);//这里subString（int beginIndex）是从哪个下标开始（包含）
         if(node.equals("#")){
