@@ -9,6 +9,7 @@ public class To68_1 {
      * 1、如果两个结点的值一个比root结点大一个比root结点小，那么root结点就是他们的最低公共祖先，因为二叉查找树的特殊性质，左子节点《根节点《右子节点
      */
     public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
+
         if(root==null)return root;
         if(p.val<root.val&&q.val<root.val){
             return lowestCommonAncestor(root.left,p,q);
